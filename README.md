@@ -35,7 +35,7 @@ Sequences were processed using the DADA2 pipeline, including:
 
 Intermediate files (filtered reads, error models, etc.) are not included but can be generated using the scripts provided.
 
-## 📊 Statistical analyses
+## Statistical analyses
 
 - Alpha diversity (Chao1, Shannon, Simpson)  
 - Beta diversity (Bray–Curtis, db-RDA, PERMANOVA)  
