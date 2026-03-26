@@ -1,0 +1,15 @@
+#!/bin/bash
+#PBS -P kl74
+#PBS -q normal
+#PBS -l walltime=12:00:00
+#PBS -l mem=128GB
+#PBS -l ncpus=16
+#PBS -l jobfs=10GB
+#PBS -N taxonomy_16S
+#PBS -o /scratch/kl74/ng1317/16S/logs/taxonomy.out
+#PBS -e /scratch/kl74/ng1317/16S/logs/taxonomy.err
+#PBS -l storage=gdata/kl74+scratch/kl74
+#PBS -l wd
+
+module load R/4.3.1
+Rscript /scratch/kl74/ng1317/16S/scripts/step6_assign_taxonomy.R
