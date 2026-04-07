@@ -1,8 +1,6 @@
 # Salt-Marshes-Microbiome
 
-This repository contains metadata, bioinformatics and statistical analysis scripts, and processed outputs associated with the study:
-
-**“Compartment-dependent microbial reassembly reveals early recovery signals in restoring saltmarshes”**
+This repository contains metadata, bioinformatics and statistical analysis scripts, and processed outputs associated with the study: “Compartment-dependent microbial reassembly reveals early recovery signals in restoring saltmarshes”.
 
 ## Overview
 
@@ -20,8 +18,8 @@ This study investigates bacterial (16S rRNA gene) and fungal (ITS) community ass
 
 Raw sequencing reads are deposited in the NCBI Sequence Read Archive (SRA):
 
-- **BioProject:** 
-- **SRA accession(s):**
+- **BioProject:
+- **SRA accession(s):
 
 ## Bioinformatics pipeline
 
