@@ -9,7 +9,7 @@ This study investigates bacterial (16S rRNA gene) and fungal (ITS) community ass
 ## Repository structure
 
 - `metadata/` — sample metadata and environmental variables used in the analyses
-- `scripts/` — DADA2 processing scripts, downstream statistical analyses, and HPC job scripts
+- `scripts/` — DADA2, soil parameters, alfa diversity, beta diversity, DESeq2
 - `tables/` — processed ASV tables, taxonomy tables, QC summaries, and other statistical outputs
 
 
