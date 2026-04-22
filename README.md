@@ -11,8 +11,7 @@ This study investigates bacterial (16S rRNA gene) and fungal (ITS) community ass
 - `metadata/` — sample metadata and environmental variables used in the analyses
 - `scripts/` — DADA2 processing scripts, downstream statistical analyses, and HPC job scripts
 - `tables/` — processed ASV tables, taxonomy tables, QC summaries, and other statistical outputs
-- `figures/` — figures associated with the manuscript
-- `docs/` — additional workflow notes and documentation
+
 
 ## Sequence data
 
