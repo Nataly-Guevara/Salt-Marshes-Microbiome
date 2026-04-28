@@ -17,8 +17,7 @@ This study investigates bacterial (16S rRNA gene) and fungal (ITS) community ass
 
 Raw sequencing reads are deposited in the NCBI Sequence Read Archive (SRA):
 
-- **BioProject:
-- **SRA accession(s):
+- **BioProject: PRJNA1446205 (ID: 1446205)
 
 ## Bioinformatics pipeline
 
