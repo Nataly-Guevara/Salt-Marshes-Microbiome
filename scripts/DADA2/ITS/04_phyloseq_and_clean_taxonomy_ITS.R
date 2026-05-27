@@ -4,13 +4,22 @@ suppressPackageStartupMessages({
   library(phyloseq)
 })
 
-# Paths
-base_path <- "~/Library/CloudStorage/OneDrive-DeakinUniversity/ALL DESKTOP/ITS_full/filtered"
-seqtab_file <- file.path(base_path, "ITS_seqtab_nochim.rds")
-taxa_file   <- file.path(base_path, "ITS_taxa_assignments.rds")
-meta_file   <- file.path(base_path, "metadata.csv")
+# Purpose:
+# This script creates the analysis-ready ITS phyloseq object.
+# Raw reads are available from NCBI SRA BioProject PRJNA1446205.
+# This script starts from DADA2-derived non-chimeric ASV and taxonomy tables,
+# then combines them with sample metadata to create the analysis-ready phyloseq object.
 
-out_dir <- file.path(base_path, "Phyloseq")
+# Paths
+# Run from the repository root:
+# Rscript scripts/DADA2/ITS/04_phyloseq_and_clean_taxonomy_ITS.R
+
+base_path <- "."
+seqtab_file <- file.path(base_path, "tables/ASV/ITS_seqtab_nochim.rds")
+taxa_file   <- file.path(base_path, "tables/taxonomy/ITS_taxa_assignments.rds")
+meta_file   <- file.path(base_path, "metadata/metadata_ITS.csv")
+out_dir     <- file.path(base_path, "metadata")
+
 dir.create(out_dir, showWarnings = FALSE, recursive = TRUE)
 
 # Load inputs
@@ -75,9 +84,9 @@ ps <- prune_taxa(taxa_sums(ps) > 0, ps)
 ps <- prune_samples(sample_sums(ps) > 0, ps)
 
 # Save outputs
-saveRDS(ps, file.path(out_dir, "phyloseq_ITS_clean.rds"))
-write.csv(as.data.frame(otu_table(ps)), file.path(out_dir, "ASV_table_ITS_clean.csv"))
-write.csv(as.data.frame(as.matrix(tax_table(ps))), file.path(out_dir, "taxonomy_ITS_clean.csv"))
+saveRDS(ps, file.path(out_dir, "phyloseq_ITS.rds"))
+write.csv(as.data.frame(otu_table(ps)), file.path("tables/ASV", "ASV_table_ITS_clean.csv"))
+write.csv(as.data.frame(as.matrix(tax_table(ps))), file.path("tables/taxonomy", "taxonomy_ITS_clean.csv"))
 
 cat("Saved cleaned ITS phyloseq object\n")
 cat("Samples:", nsamples(ps), "\n")
