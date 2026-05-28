@@ -36,8 +36,8 @@ base_path <- "."
 outdir <- file.path(base_path, "tables/alpha_diversity/rarefaction_depth_sensitivity")
 dir.create(outdir, showWarnings = FALSE, recursive = TRUE)
 
-ps_16S_file <- file.path(base_path, "metadata/phyloseq_16S.rds")
-ps_ITS_file <- file.path(base_path, "metadata/phyloseq_ITS.rds")
+ps_16S_file <- file.path(base_path, "metadata/dada2/phyloseq_16S.rds")
+ps_ITS_file <- file.path(base_path, "metadata/dada2/phyloseq_ITS.rds")
 
 # Candidate depths to test
 candidate_depths <- c(10000, 15000, 20000, 25000, 30000, 40000, 50000)
