@@ -8,7 +8,8 @@ suppressPackageStartupMessages({
 # This script creates the analysis-ready 16S phyloseq object.
 # Raw reads are available from NCBI SRA BioProject PRJNA1446205.
 # This script starts from DADA2-derived non-chimeric ASV and taxonomy tables,
-# then combines them with sample metadata to create the analysis-ready phyloseq object.
+# then combines them with marker-specific sample metadata to create the
+# analysis-ready phyloseq object.
 
 # Paths
 # Run from the repository root:
@@ -17,8 +18,8 @@ suppressPackageStartupMessages({
 base_path <- "."
 seqtab_file <- file.path(base_path, "tables/ASV/seqtab_filtered_then_nochim.rds")
 taxa_file   <- file.path(base_path, "tables/taxonomy/taxa_silva138.1.rds")
-meta_file   <- file.path(base_path, "metadata/metadata_16S.csv")
-out_dir     <- file.path(base_path, "metadata")
+meta_file   <- file.path(base_path, "metadata/dada2/metadata_16S.csv")
+out_dir     <- file.path(base_path, "metadata/dada2")
 
 dir.create(out_dir, showWarnings = FALSE, recursive = TRUE)
 
