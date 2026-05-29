@@ -33,7 +33,7 @@ Metadata files are organized by use:
 
 The files `metadata/dada2/metadata_16S.csv` and `metadata/dada2/metadata_ITS.csv` contain sequencing sample identifiers, experimental design variables, soil compartment information, and associated soil physicochemical variables for the samples retained in each marker dataset.
 
-In these marker-specific metadata files, the `Block` column represents the plot/block identifier. Natural reference samples are labelled using plot-specific identifiers such as `N1`, `N2`, `N3`, `N4`, and `N5`, rather than the generic label `Natural`, so that each Natural sample can be linked to its corresponding plot-level soil parameters. Managed treatments use numeric block identifiers.
+In these marker-specific metadata files, the `Block` column is used as a plot-level linking identifier. For Managed treatments, numeric block identifiers link matched BESE, BARE, and Degraded plots within the restoration design. Natural reference plots were not part of that same managed blocking system; therefore, Natural samples are labelled with independent reference-plot identifiers such as `N1`, `N2`, `N3`, `N4`, and `N5`. These labels allow each Natural microbiome sample to be linked to its corresponding plot-level soil parameters without implying that Natural plots were blocked in the same way as the Managed treatments.
 
 The soil-parameter and vegetation metadata files are retained as Excel workbooks because they serve as human-readable source tables for environmental and vegetation analyses.
 
