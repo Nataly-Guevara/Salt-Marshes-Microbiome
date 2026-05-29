@@ -31,12 +31,6 @@ Metadata files are organized by use:
 - `metadata/soil_parameters/` — master soil physicochemical metadata used for soil-parameter analyses
 - `metadata/vegetation/` — vegetation-cover metadata used for vegetation analyses
 
-The files `metadata/dada2/metadata_16S.csv` and `metadata/dada2/metadata_ITS.csv` contain sequencing sample identifiers, experimental design variables, soil compartment information, and associated soil physicochemical variables for the samples retained in each marker dataset.
-
-In these marker-specific metadata files, the `Block` column is used as a plot-level linking identifier. For Managed treatments, numeric block identifiers link matched BESE, BARE, and Degraded plots within the restoration design. Natural reference plots were not part of that same managed blocking system; therefore, Natural samples are labelled with independent reference-plot identifiers such as `N1`, `N2`, `N3`, `N4`, and `N5`. These labels allow each Natural microbiome sample to be linked to its corresponding plot-level soil parameters without implying that Natural plots were blocked in the same way as the Managed treatments.
-
-The soil-parameter and vegetation metadata files are retained as Excel workbooks because they serve as human-readable source tables for environmental and vegetation analyses.
-
 ## Main input files
 
 The main analysis inputs are:
@@ -80,15 +74,11 @@ The 16S phyloseq object, `metadata/dada2/phyloseq_16S.rds`, was generated using:
 
 - `scripts/DADA2/16S/04_phyloseq_and_clean_taxonomy_16S.R`
 
-This script combines the DADA2-derived non-chimeric 16S ASV table, the SILVA v138.1 taxonomy table, and the 16S sample metadata. It then removes controls, non-bacterial/non-archaeal assignments, chloroplasts, mitochondria, and zero-count taxa/samples.
-
 ### ITS phyloseq object
 
 The ITS phyloseq object, `metadata/dada2/phyloseq_ITS.rds`, was generated using:
 
 - `scripts/DADA2/ITS/04_phyloseq_and_clean_taxonomy_ITS.R`
-
-This script combines the DADA2-derived non-chimeric ITS ASV table, ITS taxonomy assignments, and ITS sample metadata. It then removes controls, keeps fungal ASVs only, and removes zero-count taxa/samples.
 
 ## Statistical analyses
 
@@ -103,6 +93,8 @@ Downstream analyses included:
 - PERMANOVA
 - Differential abundance analysis using DESeq2
 
+## Output table organization
+
 Processed outputs are organized by analysis type:
 
 - `tables/ASV/` — ASV count tables
@@ -112,7 +104,55 @@ Processed outputs are organized by analysis type:
 - `tables/alpha_diversity/rarefaction_depth_sensitivity/` — rarefaction sensitivity outputs
 - `tables/beta_diversity/` — Bray-Curtis, db-RDA, PERMANOVA, and dispersion outputs, where applicable
 - `tables/DESeq2/` — differential abundance result tables
+- `tables/soil_parameters/` — soil physicochemical parameter summaries and statistical outputs, where applicable
+- `tables/vegetation/` — vegetation-cover summaries and statistical outputs, where applicable
 
+## Rarefaction sensitivity analysis
+
+Rarefaction was not used for the main statistical inference. Instead, rarefaction was used as a sensitivity analysis to evaluate whether alpha-diversity patterns were robust to differences in sequencing depth.
+
+The rarefaction sensitivity workflow is provided in:
+
+- `scripts/alpha_diversity/rarefaction_sensitivity_test.R`
+
+Outputs are saved to:
+
+- `tables/alpha_diversity/rarefaction_depth_sensitivity/`
+
+## Reproducibility workflow
+
+To reproduce the analyses:
+
+1. Download the raw 16S and ITS sequencing reads from NCBI SRA BioProject **PRJNA1446205**.
+2. Run the DADA2 scripts in:
+   - `scripts/DADA2/16S/`
+   - `scripts/DADA2/ITS/`
+3. Generate the analysis-ready phyloseq objects using:
+   - `scripts/DADA2/16S/04_phyloseq_and_clean_taxonomy_16S.R`
+   - `scripts/DADA2/ITS/04_phyloseq_and_clean_taxonomy_ITS.R`
+4. Use the phyloseq objects in `metadata/dada2/` together with the downstream analysis scripts in `scripts/`.
+5. Consult the processed ASV, taxonomy, quality-control, alpha-diversity, beta-diversity, DESeq2, soil, vegetation, and supplementary statistical output tables in `tables/`.
+
+Scripts that use repository-relative paths should be run from the repository root. For example:
+
+```bash
+Rscript scripts/DADA2/16S/04_phyloseq_and_clean_taxonomy_16S.R
+Rscript scripts/DADA2/ITS/04_phyloseq_and_clean_taxonomy_ITS.R
+Rscript scripts/alpha_diversity/rarefaction_sensitivity_test.R
+```
+
+## Manuscript analysis map
+
+| Manuscript component | Dataset | Main script location | Main outputs |
+|---|---|---|---|
+| DADA2 processing | 16S and ITS | `scripts/DADA2/` | ASV tables, taxonomy tables, DADA2 QC outputs |
+| Phyloseq construction | 16S and ITS | `scripts/DADA2/16S/` and `scripts/DADA2/ITS/` | `metadata/dada2/phyloseq_16S.rds`, `metadata/dada2/phyloseq_ITS.rds` |
+| Alpha diversity | 16S and ITS | `scripts/alpha_diversity/` | Chao1, Shannon, Simpson outputs and supplementary alpha-diversity tables |
+| Rarefaction sensitivity | 16S and ITS | `scripts/alpha_diversity/rarefaction_sensitivity_test.R` | Depth summaries, retention tables, rarefaction curves, ANOVA, emmeans, contrasts, interaction-stability tables |
+| Beta diversity | 16S and ITS | `scripts/beta_diversity/` | Bray-Curtis, db-RDA, PERMANOVA, and dispersion outputs |
+| Differential abundance | 16S and ITS | `scripts/DESeq2/` | DESeq2 result tables and plots |
+| Soil parameters | Environmental metadata | `scripts/soil_parameters/` or equivalent | Soil physicochemical summaries and statistical outputs |
+| Vegetation cover | Vegetation data | `scripts/vegetation/` or equivalent | Vegetation-cover summaries and statistical outputs |
 
 ## Notes
 
