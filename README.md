@@ -103,12 +103,6 @@ Downstream analyses included:
 - PERMANOVA
 - Differential abundance analysis using DESeq2
 
-Analyses were conducted in R using packages including:
-
-`dada2`, `phyloseq`, `vegan`, `DESeq2`, `ggplot2`, `dplyr`, `tidyr`, `lme4`, `lmerTest`, `emmeans`, `readr`, `purrr`, and related dependencies.
-
-## Output table organization
-
 Processed outputs are organized by analysis type:
 
 - `tables/ASV/` — ASV count tables
@@ -118,57 +112,7 @@ Processed outputs are organized by analysis type:
 - `tables/alpha_diversity/rarefaction_depth_sensitivity/` — rarefaction sensitivity outputs
 - `tables/beta_diversity/` — Bray-Curtis, db-RDA, PERMANOVA, and dispersion outputs, where applicable
 - `tables/DESeq2/` — differential abundance result tables
-- `tables/soil_parameters/` — soil physicochemical parameter summaries and statistical outputs, where applicable
-- `tables/vegetation/` — vegetation-cover summaries and statistical outputs, where applicable
 
-## Rarefaction sensitivity analysis
-
-Rarefaction was not used for the main statistical inference. Instead, rarefaction was used as a sensitivity analysis to evaluate whether alpha-diversity patterns were robust to differences in sequencing depth.
-
-The rarefaction sensitivity workflow is provided in:
-
-- `scripts/alpha_diversity/rarefaction_sensitivity_test.R`
-
-This script tests multiple candidate rarefaction depths, evaluates sample retention, generates rarefaction curves and sequencing-depth plots, and repeats alpha-diversity models across candidate depths for both 16S and ITS datasets. Outputs are saved to:
-
-- `tables/alpha_diversity/rarefaction_depth_sensitivity/`
-
-These outputs include sequencing-depth summaries, sample-retention tables, rarefaction curves, alpha-diversity group summaries, ANOVA tables, estimated marginal means, contrasts, and interaction-stability tables for both 16S and ITS datasets.
-
-## Reproducibility workflow
-
-To reproduce the analyses:
-
-1. Download the raw 16S and ITS sequencing reads from NCBI SRA BioProject **PRJNA1446205**.
-2. Run the DADA2 scripts in:
-   - `scripts/DADA2/16S/`
-   - `scripts/DADA2/ITS/`
-3. Generate the analysis-ready phyloseq objects using:
-   - `scripts/DADA2/16S/04_phyloseq_and_clean_taxonomy_16S.R`
-   - `scripts/DADA2/ITS/04_phyloseq_and_clean_taxonomy_ITS.R`
-4. Use the phyloseq objects in `metadata/dada2/` together with the downstream analysis scripts in `scripts/`.
-5. Consult the processed ASV, taxonomy, quality-control, alpha-diversity, beta-diversity, DESeq2, soil, vegetation, and supplementary statistical output tables in `tables/`.
-
-Scripts that use repository-relative paths should be run from the repository root. For example:
-
-```bash
-Rscript scripts/DADA2/16S/04_phyloseq_and_clean_taxonomy_16S.R
-Rscript scripts/DADA2/ITS/04_phyloseq_and_clean_taxonomy_ITS.R
-Rscript scripts/alpha_diversity/rarefaction_sensitivity_test.R
-```
-
-## Manuscript analysis map
-
-| Manuscript component | Dataset | Main script location | Main outputs |
-|---|---|---|---|
-| DADA2 processing | 16S and ITS | `scripts/DADA2/` | ASV tables, taxonomy tables, DADA2 QC outputs |
-| Phyloseq construction | 16S and ITS | `scripts/DADA2/16S/` and `scripts/DADA2/ITS/` | `metadata/dada2/phyloseq_16S.rds`, `metadata/dada2/phyloseq_ITS.rds` |
-| Alpha diversity | 16S and ITS | `scripts/alpha_diversity/` | Chao1, Shannon, Simpson outputs and supplementary alpha-diversity tables |
-| Rarefaction sensitivity | 16S and ITS | `scripts/alpha_diversity/rarefaction_sensitivity_test.R` | Depth summaries, retention tables, rarefaction curves, ANOVA, emmeans, contrasts, interaction-stability tables |
-| Beta diversity | 16S and ITS | `scripts/beta_diversity/` | Bray-Curtis, db-RDA, PERMANOVA, and dispersion outputs |
-| Differential abundance | 16S and ITS | `scripts/DESeq2/` | DESeq2 result tables and plots |
-| Soil parameters | Environmental metadata | `scripts/soil_parameters/` or equivalent | Soil physicochemical summaries and statistical outputs |
-| Vegetation cover | Vegetation data | `scripts/vegetation/` or equivalent | Vegetation-cover summaries and statistical outputs |
 
 ## Notes
 
