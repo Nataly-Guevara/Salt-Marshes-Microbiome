@@ -117,8 +117,8 @@ Processed outputs are organized by analysis type:
 | Rarefaction sensitivity | 16S and ITS | `scripts/alpha_diversity/rarefaction_sensitivity_test.R` | Depth summaries, retention tables, rarefaction curves, ANOVA, emmeans, contrasts, interaction-stability tables |
 | Beta diversity | 16S and ITS | `scripts/beta_diversity/` | Bray-Curtis, db-RDA, PERMANOVA, and dispersion outputs |
 | Differential abundance | 16S and ITS | `scripts/DESeq2/` | DESeq2 result tables and plots |
-| Soil parameters | Environmental metadata | `scripts/soil_parameters/` or equivalent | Soil physicochemical summaries and statistical outputs |
-| Vegetation cover | Vegetation data | `scripts/vegetation/` or equivalent | Vegetation-cover summaries and statistical outputs |
+| Soil parameters | Environmental metadata | `scripts/soil_parameters/` | Soil physicochemical summaries and statistical outputs |
+| Vegetation cover | Vegetation data | `scripts/vegetation/` | Vegetation-cover summaries and statistical outputs |
 
 ## Notes
 
