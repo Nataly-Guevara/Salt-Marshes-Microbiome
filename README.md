@@ -107,40 +107,6 @@ Processed outputs are organized by analysis type:
 - `tables/soil_parameters/` — soil physicochemical parameter summaries and statistical outputs, where applicable
 - `tables/vegetation/` — vegetation-cover summaries and statistical outputs, where applicable
 
-## Rarefaction sensitivity analysis
-
-Rarefaction was not used for the main statistical inference. Instead, rarefaction was used as a sensitivity analysis to evaluate whether alpha-diversity patterns were robust to differences in sequencing depth.
-
-The rarefaction sensitivity workflow is provided in:
-
-- `scripts/alpha_diversity/rarefaction_sensitivity_test.R`
-
-Outputs are saved to:
-
-- `tables/alpha_diversity/rarefaction_depth_sensitivity/`
-
-## Reproducibility workflow
-
-To reproduce the analyses:
-
-1. Download the raw 16S and ITS sequencing reads from NCBI SRA BioProject **PRJNA1446205**.
-2. Run the DADA2 scripts in:
-   - `scripts/DADA2/16S/`
-   - `scripts/DADA2/ITS/`
-3. Generate the analysis-ready phyloseq objects using:
-   - `scripts/DADA2/16S/04_phyloseq_and_clean_taxonomy_16S.R`
-   - `scripts/DADA2/ITS/04_phyloseq_and_clean_taxonomy_ITS.R`
-4. Use the phyloseq objects in `metadata/dada2/` together with the downstream analysis scripts in `scripts/`.
-5. Consult the processed ASV, taxonomy, quality-control, alpha-diversity, beta-diversity, DESeq2, soil, vegetation, and supplementary statistical output tables in `tables/`.
-
-Scripts that use repository-relative paths should be run from the repository root. For example:
-
-```bash
-Rscript scripts/DADA2/16S/04_phyloseq_and_clean_taxonomy_16S.R
-Rscript scripts/DADA2/ITS/04_phyloseq_and_clean_taxonomy_ITS.R
-Rscript scripts/alpha_diversity/rarefaction_sensitivity_test.R
-```
-
 ## Manuscript analysis map
 
 | Manuscript component | Dataset | Main script location | Main outputs |
