@@ -80,19 +80,6 @@ The ITS phyloseq object, `metadata/dada2/phyloseq_ITS.rds`, was generated using:
 
 - `scripts/DADA2/ITS/04_phyloseq_and_clean_taxonomy_ITS.R`
 
-## Statistical analyses
-
-Downstream analyses included:
-
-- Soil physicochemical parameter analysis
-- Vegetation-cover analysis
-- Alpha diversity analysis using Chao1 richness, Shannon diversity, and Simpson diversity
-- Rarefaction sensitivity analysis for alpha-diversity robustness checks
-- Beta diversity analysis based on Bray-Curtis dissimilarities
-- Distance-based redundancy analysis (db-RDA)
-- PERMANOVA
-- Differential abundance analysis using DESeq2
-
 ## Output table organization
 
 Processed outputs are organized by analysis type:
@@ -117,8 +104,8 @@ Processed outputs are organized by analysis type:
 | Rarefaction sensitivity | 16S and ITS | `scripts/alpha_diversity/rarefaction_sensitivity_test.R` | Depth summaries, retention tables, rarefaction curves, ANOVA, emmeans, contrasts, interaction-stability tables |
 | Beta diversity | 16S and ITS | `scripts/beta_diversity/` | Bray-Curtis, db-RDA, PERMANOVA, and dispersion outputs |
 | Differential abundance | 16S and ITS | `scripts/DESeq2/` | DESeq2 result tables and plots |
-| Soil parameters | Environmental metadata | `scripts/soil_parameters/` | Soil physicochemical summaries and statistical outputs |
-| Vegetation cover | Vegetation data | `scripts/vegetation/` | Vegetation-cover summaries and statistical outputs |
+| Soil parameters | Environmental metadata | `scripts/soil_parameters/` | Soil physicochemical summaries 
+| Vegetation cover | Vegetation data | `scripts/vegetation/` | Vegetation-cover summaries
 
 ## Notes
 
