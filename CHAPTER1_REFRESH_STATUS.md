@@ -86,6 +86,13 @@ All six requested `analyses/` directories now exist on the staging branch. Each 
 - Several Model A/B/C scripts contain **multiple analysis types** (alpha diversity, beta diversity, and ANCOM-BC2). Avoid assigning each whole mixed script to a single method folder without documenting the cross-method contents or extracting executable, tested modules.
 - The local bundle did not identify a standalone community-assembly/iCAMP source script; find its final workflow on Gandalf or Gadi before filling that analysis folder.
 
+
+## Manuscript terminology standardisation — private script review
+
+In the revised manuscript, **H1** refers to bulk-soil comparisons among Natural, BESE, BARE and Degraded; **H2** to rhizosphere comparisons among Natural, BESE and BARE; and **H3** to paired bulk-soil–rhizosphere comparisons within Natural, BESE and BARE. This is a naming change, not a change in hypotheses or statistical procedures.
+
+The 18-script private privacy-cleaned review ZIP has been relabelled, with 791 legacy model-label occurrences replaced across nine scripts, six candidate source filenames renamed, and 243 quoted file-reference mappings recorded. Automated privacy preflight found zero patterns in the relabelled ZIP. These are only candidate scripts; the output files are **not** in the ZIP and still require renaming/reconciliation. Source script reproducibility has not been demonstrated. **No newly relabelled scripts or output files have been uploaded to this GitHub branch.**
+
 ## Publication and cleanup rules
 - Inspect files for private material, machine-specific paths, credentials and publication-readiness before uploading to a **public** repository.
 - Do not upload manuscript drafts, reviewer replies, photos, recordings, old R workspace images or superseded tests.
