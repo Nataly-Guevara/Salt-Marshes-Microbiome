@@ -61,6 +61,12 @@ data/processed/
 
 Do not rewrite the DADA2 scripts as part of this migration unless separately approved. First recover the necessary processing products, or document how to regenerate them from raw reads.
 
+
+## Folder scaffold progress (21 October 2026)
+All six requested `analyses/` directories now exist on the staging branch. Each has its own `README.md` plus empty `scripts/`, `inputs/` and `outputs/` subfolders represented by `.gitkeep` files. `data/processed/README.md` also exists. No final analysis source files or results are yet in those folders.
+
+**Next action:** Collect files from the Mac using the private review tool (`collect_chapter1_review_bundles.py`) and the updated 734-row audit. Collect scripts first (18 locally inventoried candidates), then validated shared inputs and selected outputs. The tool excludes the entire `legacy Microbial community analysis` directory and preserves source-relative paths rather than blindly adopting tentative GitHub target paths. Investigate missing final ANCOM-BC2 and community assembly scripts on Gandalf/Gadi if not represented among the local R files. Do not push an unreviewed ZIP directly to this public repository.
+
 ## Publication and cleanup rules
 - Inspect files for private material, machine-specific paths, credentials and publication-readiness before uploading to a **public** repository.
 - Do not upload manuscript drafts, reviewer replies, photos, recordings, old R workspace images or superseded tests.
