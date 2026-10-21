@@ -1,48 +1,57 @@
-# Chapter 1 repository refresh — staging checklist (21 October 2026)
+# Chapter 1 refresh — staging audit (21 October 2026)
 
-This document tracks the migration from legacy Chapter 1 analyses to manuscript-aligned, reviewed scripts, inputs, and outputs from local computer, Gandalf, and NCI Gadi.
+**Branch:** `chapter1-2026-refresh`. The `main` branch has not been changed.
 
-**Staging branch:** `chapter1-2026-refresh` (not yet merged into `main`).
-
-## Preserve without alteration
-- `scripts/DADA2/16S/`
-- `scripts/DADA2/ITS/`
+## Preserve exactly as they are
+- `scripts/DADA2/16S/` and `scripts/DADA2/ITS/`
 - `metadata/dada2/`
 - `docs/krona/index.html`
 
-## Review before replacing
-- `scripts/DESeq2/` and `tables/deseq2/`: superseded by the final differential-abundance workflow (AMBCOM, subject to verifying source scripts and outputs).
-- `scripts/alpha_diversity/` and `tables/alpha_diversity/`: reconcile against revised manuscript.
-- `scripts/beta_diversity/` and `tables/beta_diversity /`: replace obsolete models using verified final scripts and outputs. Note the existing directory name includes a trailing space.
-- `scripts/vegetation_cover_color_height/` and environmental/vegetation metadata: check versions.
-- `tables/ASV/`, `tables/taxonomy/`, `tables/phyloseq/`: verify scientific provenance and content before altering.
+## Local inventory findings — filenames only
+The provided local Chapter 1 CSV lists **734 files (~1.29 GiB)**. It does *not* contain file contents, so no script or result is yet verified.
 
-## Proposed structure for final review
+| Group / source directory | Inventory entries | Next step |
+| --- | ---: | --- |
+| Current, non-legacy R scripts | 18 | Collect files and inspect actual code, absolute paths and dependencies |
+| `Microbial community analysis/outputs/AMBCOM/` | 201 | ANCOM-BC2 Models A/B/C and sensitivity results; identify producing scripts |
+| `Microbial community analysis/outputs/Beta/` | 73 | Review final model outputs |
+| `Microbial community analysis/outputs/Alpha/` | 63 | Review final model outputs |
+| `soil_parameters/` | 74 | Verify soil analysis scripts, input version and output tables |
+| `veg_analysis/` | 19 | Verify vegetation analysis scripts and outputs |
+| `environmental_association_outputs/` | 23 | Locate producing script and inspect results |
+| `legacy Microbial community analysis/` | 108 | Exclude from new release; retain locally |
+| Large `.RData` workspaces | 7 | Exclude from public GitHub (~1.06 GiB total) |
+
+Numbers refer to file inventory locations (some analytical topics overlap) rather than independently verified analyses.
+
+## Highest-priority validation
+1. Replace superseded **DESeq2** analysis with the final **ANCOM-BC2** workflow, after confirming which R script generated the `AMBCOM` outputs. Do not assume that scripts named Model A/B/C necessarily contain complete ANCOM-BC2 code.
+2. Replace legacy alpha/beta diversity, sensitivity and PERMANOVA work with final scripts, inputs and selected publication-aligned outputs.
+3. Compare locally listed corrected-metadata phyloseq objects against GitHub objects and the final Chapter 1 manuscript before replacing any shared inputs.
+4. Collect missing or more authoritative final script versions from Gandalf and Gadi and reconcile local copies.
+5. Document inputs, package versions, execution commands, and output provenance before changing the repository README.
+
+## Suggested final repository layout
 ```text
 README.md
-docs/krona/
-metadata/dada2/
-metadata/environment/
-metadata/vegetation/
-scripts/DADA2/16S/
-scripts/DADA2/ITS/
+scripts/DADA2/{16S,ITS}/            # preserve
+metadata/dada2/                      # preserve
+docs/krona/                          # preserve
 analyses/soil_environment/{scripts,inputs,outputs}/
 analyses/vegetation/{scripts,inputs,outputs}/
 analyses/alpha_diversity/{scripts,inputs,outputs}/
 analyses/beta_diversity/{scripts,inputs,outputs}/
 analyses/differential_abundance/{scripts,inputs,outputs}/
+analyses/environment_associations/{scripts,inputs,outputs}/
 analyses/community_assembly/{scripts,inputs,outputs}/
+analyses/taxonomy/{scripts,inputs,outputs}/
 data/processed/
 ```
-Use a single shared copy of inputs where practical and link to them from analysis READMEs.
 
-## Audit checks
-1. Obtain actual source-file inventories and export scripts/outputs from Mac, Gandalf, and Gadi.
-2. For each candidate, record source system, source path, size, checksum, analysis group, and manuscript alignment.
-3. Flag obsolete DESeq2, duplicate scripts, placeholders, absolute machine-specific paths, and large/raw sequencing files.
-4. Stage only validated files, verify script input references, and document software versions.
-5. Review a GitHub diff, confirm DADA2 and Krona unchanged, then merge to main.
+## Publication and cleanup rules
+- Inspect files for private material, machine-specific paths, credentials and publication-readiness before uploading to a **public** repository.
+- Do not upload manuscript drafts, reviewer replies, photos, recordings, old R workspace images or superseded tests.
+- Only remove old DESeq2 scripts/results and other obsolete analyses from this staging branch **after** verified replacement files are ready; review the diff and confirm DADA2/Krona unchanged.
+- Keep a recoverable Git history and merge into `main` only after validation.
 
-**Migration state:** Repository surveyed and branch created. Sources from local computer, Gandalf and Gadi have not yet been imported or verified; no old analysis files have been deleted. Never interpret this document as indicating that the new analyses are already published.
-
-Raw reads: NCBI SRA BioProject PRJNA1446205.
+**Current status:** The local inventory has been classified and the branch audit has been updated. No Mac/Gandalf/Gadi source files have been uploaded to GitHub and no previous analysis files have been deleted. Raw reads: NCBI SRA BioProject PRJNA1446205.
