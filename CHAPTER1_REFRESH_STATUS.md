@@ -46,7 +46,6 @@ analyses/alpha_diversity/{scripts,inputs,outputs}/
 analyses/beta_diversity/{scripts,inputs,outputs}/
 analyses/differential_abundance/{scripts,inputs,outputs}/
 analyses/environment_associations/{scripts,inputs,outputs}/
-analyses/community_assembly/{scripts,inputs,outputs}/
 analyses/taxonomy/{scripts,inputs,outputs}/
 data/processed/
 ```
@@ -65,7 +64,7 @@ Do not rewrite the DADA2 scripts as part of this migration unless separately app
 ## Folder scaffold progress (21 October 2026)
 All six requested `analyses/` directories now exist on the staging branch. Each has its own `README.md` plus empty `scripts/`, `inputs/` and `outputs/` subfolders represented by `.gitkeep` files. `data/processed/README.md` also exists. No final analysis source files or results are yet in those folders.
 
-**Next action:** Collect files from the Mac using the private review tool (`collect_chapter1_review_bundles.py`) and the updated 734-row audit. Collect scripts first (18 locally inventoried candidates), then validated shared inputs and selected outputs. The tool excludes the entire `legacy Microbial community analysis` directory and preserves source-relative paths rather than blindly adopting tentative GitHub target paths. Investigate missing final ANCOM-BC2 and community assembly scripts on Gandalf/Gadi if not represented among the local R files. Do not push an unreviewed ZIP directly to this public repository.
+**Next action:** Collect files from the Mac using the private review tool (`collect_chapter1_review_bundles.py`) and the updated 734-row audit. Collect scripts first (18 locally inventoried candidates), then validated shared inputs and selected outputs. The tool excludes the entire `legacy Microbial community analysis` directory and preserves source-relative paths rather than blindly adopting tentative GitHub target paths. Investigate missing final ANCOM-BC2 scripts on Gandalf/Gadi if not represented among the local R files. Do not push an unreviewed ZIP directly to this public repository.
 
 ## Privacy check required before any new public upload
 
@@ -84,7 +83,7 @@ All six requested `analyses/` directories now exist on the staging branch. Each 
 - Re-ran automated preflight on the cleaned ZIP: **zero pattern matches** across 22 inspected text members. This result is not a complete guarantee of privacy or reproducibility.
 - **No local R source script has yet been committed to this public repository.** Sanitised review ZIP stays private until classification, human review, script-dependency checks and manuscript alignment are completed.
 - Several H1/H2/H3 scripts contain **multiple analysis types** (alpha diversity, beta diversity, and ANCOM-BC2). Avoid assigning each whole mixed script to a single method folder without documenting the cross-method contents or extracting executable, tested modules.
-- The local bundle did not identify a standalone community-assembly/iCAMP source script; find its final workflow on Gandalf or Gadi before filling that analysis folder.
+- Community assembly/iCAMP belongs to Chapter 2 and is outside the scope of this Chapter 1 repository.
 
 
 ## Manuscript terminology standardisation — private script review
@@ -103,7 +102,7 @@ The 18-script private privacy-cleaned review ZIP has been relabelled, with 791 l
 
 ## Candidate source scripts staged (H1/H2/H3)
 
-18 privacy-checked local R scripts staged on the `chapter1-2026-refresh` branch with a SHA-256 provenance manifest. Some multi-method scripts are located at `analyses/shared_workflows/scripts/`; source-specific scripts are grouped under soil, vegetation, alpha and beta analysis folders. This does not certify reproducibility: input data and outputs remain pending; community assembly scripts from Gandalf/Gadi are still missing. The `main` branch, DADA2 and Krona have not been altered; the later DESeq2 cleanup intentionally removes the obsolete DESeq2 directory from the staging branch.
+18 privacy-checked local R scripts staged on the `chapter1-2026-refresh` branch with a SHA-256 provenance manifest. Some multi-method scripts are located at `analyses/shared_workflows/scripts/`; source-specific scripts are grouped under soil, vegetation, alpha and beta analysis folders. This does not certify reproducibility: input data and outputs remain pending; community assembly belongs to Chapter 2 and is excluded. The `main` branch, DADA2 and Krona have not been altered; the later DESeq2 cleanup intentionally removes the obsolete DESeq2 directory from the staging branch.
 
 ## Confirmed method and obsolete DESeq2 cleanup
 
@@ -121,3 +120,7 @@ The user confirmed that **ANCOM-BC2**, not DESeq2, was used for the final Chapte
 
 These paths should no longer exist on the staging branch; the corresponding empty directories disappear automatically. The historical Git revisions and `main` branch still contain prior copies until an approved merge and, if desired, separate history handling. Deletion on a branch does **not** remove historical Git objects.
 
+
+## Chapter scope correction
+
+Community assembly (iCAMP) belongs to Chapter 2, not Chapter 1. The `analyses/community_assembly/` placeholder directory was removed from both branches, and no community-assembly scripts or outputs should be added to this Chapter 1 repository.

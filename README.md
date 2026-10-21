@@ -37,8 +37,7 @@ Salt-Marshes-Microbiome/
 │   ├── vegetation/
 │   ├── alpha_diversity/
 │   ├── beta_diversity/
-│   ├── differential_abundance/
-│   └── community_assembly/
+│   └── differential_abundance/
 └── data/
     └── processed/
 ```
@@ -52,7 +51,6 @@ Each `analyses/` folder has a README describing its purpose. The intended patter
 | [Alpha diversity](analyses/alpha_diversity/) | 16S and ITS alpha-diversity models and checks | Script review |
 | [Beta diversity](analyses/beta_diversity/) | Community composition, ordination, PERMANOVA, dispersion | Script review |
 | [Differential abundance](analyses/differential_abundance/) | ANCOM-BC2 genus- and ASV-level differential abundance, aligned to H1/H2/H3 | Script review |
-| [Community assembly](analyses/community_assembly/) | Manuscript-aligned community assembly analyses | Scaffold: missing source scripts |
 | [Processed data](data/processed/) | Validated and appropriately sized shared inputs | Scaffold: pending |
 
 ## Preserved Chapter 1 components
