@@ -4,6 +4,18 @@ Reproducibility repository for **Chapter 1: saltmarsh restoration microbial comm
 
 > **Refresh in progress.** This `chapter1-2026-refresh` branch establishes the new Chapter 1 repository structure. The analysis folders below are currently placeholders; final source scripts, validated inputs and selected outputs have **not** yet been uploaded. Some older analysis files remain in the previous `scripts/` and `tables/` directories pending verified replacement. Those older files should not be assumed to reflect the final publication.
 
+## Hypothesis-aligned analysis labels
+
+The analysis series is named to match the Chapter 1 manuscript:
+
+| Hypothesis | Comparison | Coverage |
+| --- | --- | --- |
+| **H1** | Bulk-soil reference similarity | Natural, BESE, BARE and Degraded bulk soils |
+| **H2** | Rhizosphere reference similarity | Natural, BESE and BARE rhizospheres |
+| **H3** | Bulk-soil–rhizosphere differentiation | Paired bulk-soil and rhizosphere samples within Natural, BESE and BARE |
+
+These are the analytical comparison labels, not new statistical models. Each hypothesis may involve alpha diversity, beta diversity, differential abundance and sensitivity analyses. Candidate source scripts have been relabelled in a **private review ZIP** but are not yet committed here, pending scientific and dependency checks.
+
 ## Current and planned repository structure
 
 ```text
