@@ -19,14 +19,17 @@ The provided local Chapter 1 CSV lists **734 files (~1.29 GiB)**. It does *not* 
 | `soil_parameters/` | 74 | Verify soil analysis scripts, input version and output tables |
 | `veg_analysis/` | 19 | Verify vegetation analysis scripts and outputs |
 | `environmental_association_outputs/` | 23 | Locate producing script and inspect results |
-| `legacy Microbial community analysis/` | 108 | Exclude from new release; retain locally |
+| `legacy Microbial community analysis/` | 108 | **Confirmed obsolete and not used for final Chapter 1 publication. Exclude entire directory from new release; retain locally.** |
 | Large `.RData` workspaces | 7 | Exclude from public GitHub (~1.06 GiB total) |
 
 Numbers refer to file inventory locations (some analytical topics overlap) rather than independently verified analyses.
 
+## Confirmed exclusion (user clarification)
+The entire local directory `legacy Microbial community analysis/` contains only superseded analyses **not used in the final Chapter 1 publication**. Its 108 inventoried files are fully outside the migration scope: do not collect, review for selection, copy, or upload them. Keep the local originals unchanged. This exclusion does not by itself authorize removal of files already on GitHub; obsolete tracked files will only be removed from the staging branch once the new final workflows are verified.
+
 ## Highest-priority validation
 1. Replace superseded **DESeq2** analysis with the final **ANCOM-BC2** workflow, after confirming which R script generated the `AMBCOM` outputs. Do not assume that scripts named Model A/B/C necessarily contain complete ANCOM-BC2 code.
-2. Replace legacy alpha/beta diversity, sensitivity and PERMANOVA work with final scripts, inputs and selected publication-aligned outputs.
+2. Replace obsolete GitHub alpha/beta diversity, sensitivity and PERMANOVA work with verified final scripts, inputs and selected publication-aligned outputs. Do **not** source these replacements from the excluded local `legacy Microbial community analysis/` directory.
 3. Compare locally listed corrected-metadata phyloseq objects against GitHub objects and the final Chapter 1 manuscript before replacing any shared inputs.
 4. Collect missing or more authoritative final script versions from Gandalf and Gadi and reconcile local copies.
 5. Document inputs, package versions, execution commands, and output provenance before changing the repository README.
