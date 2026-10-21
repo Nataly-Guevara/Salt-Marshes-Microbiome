@@ -48,6 +48,16 @@ analyses/taxonomy/{scripts,inputs,outputs}/
 data/processed/
 ```
 
+
+## Confirmed pre-existing reproducibility gaps in `main`
+
+- `tables/ASV/16S_ASV_counts.csv`, `tables/ASV/ITS_ASV_counts.csv` and `tables/taxonomy/ITS_taxonomy.csv` each consist only of a CRLF newline (2 bytes), rather than an exported table. Replace placeholders with validated data in the eventual release.
+- Preserved 16S phyloseq construction script references `tables/ASV/seqtab_filtered_then_nochim.rds` and `tables/taxonomy/taxa_silva138.1.rds`; those files are not currently in the repository.
+- Preserved ITS phyloseq construction script references `tables/ASV/ITS_seqtab_nochim.rds` and `tables/taxonomy/ITS_taxa_assignments.rds`; those files are not currently in the repository.
+- The README states phyloseq objects are under `metadata/dada2/`, whereas the currently checked-in objects are under `tables/phyloseq/`. Reconcile documentation with verified final input/output layout.
+
+Do not rewrite the DADA2 scripts as part of this migration unless separately approved. First recover the necessary processing products, or document how to regenerate them from raw reads.
+
 ## Publication and cleanup rules
 - Inspect files for private material, machine-specific paths, credentials and publication-readiness before uploading to a **public** repository.
 - Do not upload manuscript drafts, reviewer replies, photos, recordings, old R workspace images or superseded tests.
