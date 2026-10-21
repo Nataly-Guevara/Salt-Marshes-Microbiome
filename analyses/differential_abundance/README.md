@@ -1,6 +1,6 @@
 # Differential abundance
 
-Final 16S and ITS differential-abundance models, currently identified as ANCOM-BC2 (replacing older DESeq2 scripts/results after provenance validation).
+Chapter 1 differential abundance used **ANCOM-BC2** for prokaryotic 16S and fungal ITS communities at genus and ASV levels (genus-level analyses were primary). H1/H2/H3 correspond to the manuscript comparisons.
 
 ## Intended contents
 
@@ -20,6 +20,6 @@ See the [Chapter 1 migration checklist](../../CHAPTER1_REFRESH_STATUS.md) for pr
 - **H2:** Between-condition contrasts in rhizosphere.
 - **H3:** Within-condition comparisons between paired bulk soil and rhizosphere.
 
-The public replacement scripts and outputs remain pending validation; old DESeq2 files elsewhere on the branch have not yet been removed.
+Obsolete DESeq2 scripts and result tables were removed from this staging branch. ANCOM-BC2 source code exists within the staged shared H1/H2/H3 workflows, but input dependencies and manuscript-aligned output files are still awaiting verification.
 
 The H1/H2/H3 multi-method source files are staged under [`analyses/shared_workflows/`](../shared_workflows/). Their ANCOM-BC2, diversity and sensitivity sections have **not** been extracted or rerun.

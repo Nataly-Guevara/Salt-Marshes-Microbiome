@@ -13,7 +13,7 @@ The provided local Chapter 1 CSV lists **734 files (~1.29 GiB)**. It does *not* 
 | Group / source directory | Inventory entries | Next step |
 | --- | ---: | --- |
 | Current, non-legacy R scripts | 18 | Collect files and inspect actual code, absolute paths and dependencies |
-| `Microbial community analysis/outputs/AMBCOM/` | 201 | ANCOM-BC2 Models A/B/C and sensitivity results; identify producing scripts |
+| `Microbial community analysis/outputs/AMBCOM/` | 201 | ANCOM-BC2 H1/H2/H3 and sensitivity results; verify output provenance |
 | `Microbial community analysis/outputs/Beta/` | 73 | Review final model outputs |
 | `Microbial community analysis/outputs/Alpha/` | 63 | Review final model outputs |
 | `soil_parameters/` | 74 | Verify soil analysis scripts, input version and output tables |
@@ -28,7 +28,7 @@ Numbers refer to file inventory locations (some analytical topics overlap) rathe
 The entire local directory `legacy Microbial community analysis/` contains only superseded analyses **not used in the final Chapter 1 publication**. Its 108 inventoried files are fully outside the migration scope: do not collect, review for selection, copy, or upload them. Keep the local originals unchanged. This exclusion does not by itself authorize removal of files already on GitHub; obsolete tracked files will only be removed from the staging branch once the new final workflows are verified.
 
 ## Highest-priority validation
-1. Replace superseded **DESeq2** analysis with the final **ANCOM-BC2** workflow, after confirming which R script generated the `AMBCOM` outputs. Do not assume that scripts named Model A/B/C necessarily contain complete ANCOM-BC2 code.
+1. Publish **only ANCOM-BC2 differential-abundance analyses**, consistent with the final manuscript. Legacy DESeq2 code/results have been removed from the staging tree; verify that the staged H1/H2/H3 scripts produced the `AMBCOM` outputs before uploading them.
 2. Replace obsolete GitHub alpha/beta diversity, sensitivity and PERMANOVA work with verified final scripts, inputs and selected publication-aligned outputs. Do **not** source these replacements from the excluded local `legacy Microbial community analysis/` directory.
 3. Compare locally listed corrected-metadata phyloseq objects against GitHub objects and the final Chapter 1 manuscript before replacing any shared inputs.
 4. Collect missing or more authoritative final script versions from Gandalf and Gadi and reconcile local copies.
@@ -83,7 +83,7 @@ All six requested `analyses/` directories now exist on the staging branch. Each 
 - Prepared a **private sanitised review ZIP** replacing those 15 `setwd()` blocks with optional `CHAPTER1_WORKDIR` environment-variable configuration. R computational/statistical statements were not deliberately changed. Original private ZIP remains unchanged.
 - Re-ran automated preflight on the cleaned ZIP: **zero pattern matches** across 22 inspected text members. This result is not a complete guarantee of privacy or reproducibility.
 - **No local R source script has yet been committed to this public repository.** Sanitised review ZIP stays private until classification, human review, script-dependency checks and manuscript alignment are completed.
-- Several Model A/B/C scripts contain **multiple analysis types** (alpha diversity, beta diversity, and ANCOM-BC2). Avoid assigning each whole mixed script to a single method folder without documenting the cross-method contents or extracting executable, tested modules.
+- Several H1/H2/H3 scripts contain **multiple analysis types** (alpha diversity, beta diversity, and ANCOM-BC2). Avoid assigning each whole mixed script to a single method folder without documenting the cross-method contents or extracting executable, tested modules.
 - The local bundle did not identify a standalone community-assembly/iCAMP source script; find its final workflow on Gandalf or Gadi before filling that analysis folder.
 
 
@@ -96,11 +96,28 @@ The 18-script private privacy-cleaned review ZIP has been relabelled, with 791 l
 ## Publication and cleanup rules
 - Inspect files for private material, machine-specific paths, credentials and publication-readiness before uploading to a **public** repository.
 - Do not upload manuscript drafts, reviewer replies, photos, recordings, old R workspace images or superseded tests.
-- Only remove old DESeq2 scripts/results and other obsolete analyses from this staging branch **after** verified replacement files are ready; review the diff and confirm DADA2/Krona unchanged.
+- The user confirmed the final Chapter 1 method was ANCOM-BC2, not DESeq2, and explicitly requested removal of the nine tracked DESeq2 files from the staging branch. Any *other* obsolete analyses will be removed only after comparison with verified final outputs. Confirm DADA2/Krona remain unchanged.
 - Keep a recoverable Git history and merge into `main` only after validation.
 
-**Current status:** The local inventory has been classified and the branch audit has been updated. No Mac/Gandalf/Gadi source files have been uploaded to GitHub and no previous analysis files have been deleted. Raw reads: NCBI SRA BioProject PRJNA1446205.
+**Current status (latest):** Eighteen privacy-checked local R scripts are staged on GitHub. The nine obsolete DESeq2 files were removed from the staging branch. Final input/output dependencies, reproducibility checks and community-assembly scripts remain pending. Raw reads: NCBI SRA BioProject PRJNA1446205.
 
 ## Candidate source scripts staged (H1/H2/H3)
 
-18 privacy-checked local R scripts staged on the `chapter1-2026-refresh` branch with a SHA-256 provenance manifest. Some multi-method scripts are located at `analyses/shared_workflows/scripts/`; source-specific scripts are grouped under soil, vegetation, alpha and beta analysis folders. This does not certify reproducibility: input data and outputs remain pending; community assembly scripts from Gandalf/Gadi are still missing. The `main` branch, DADA2, Krona, legacy files and existing analyses have not been altered by this source import.
+18 privacy-checked local R scripts staged on the `chapter1-2026-refresh` branch with a SHA-256 provenance manifest. Some multi-method scripts are located at `analyses/shared_workflows/scripts/`; source-specific scripts are grouped under soil, vegetation, alpha and beta analysis folders. This does not certify reproducibility: input data and outputs remain pending; community assembly scripts from Gandalf/Gadi are still missing. The `main` branch, DADA2 and Krona have not been altered; the later DESeq2 cleanup intentionally removes the obsolete DESeq2 directory from the staging branch.
+
+## Confirmed method and obsolete DESeq2 cleanup
+
+The user confirmed that **ANCOM-BC2**, not DESeq2, was used for the final Chapter 1 publication. The following nine legacy tracked DESeq2 files were deliberately removed from `chapter1-2026-refresh`:
+
+- `scripts/DESeq2/.gitkeep`
+- `scripts/DESeq2/01_run_deseq2_order_level_models_16S_ITS.R`
+- `scripts/DESeq2/02_plot_deseq2_order_level_dotplots_16S_ITS.R.R`
+- `tables/deseq2/ModelA/DESeq2_16S_ModelA_all_contrasts.csv`
+- `tables/deseq2/ModelA/DESeq2_ITS_ModelA_all_contrasts.csv`
+- `tables/deseq2/ModelB/DESeq2_16S_ModelB_all_contrasts.csv`
+- `tables/deseq2/ModelB/DESeq2_ITS_ModelB_all_contrasts.csv`
+- `tables/deseq2/ModelC/DESeq2_16S_ModelC_SoilPortion.csv`
+- `tables/deseq2/ModelC/DESeq2_ITS_ModelC_SoilPortion.csv`
+
+These paths should no longer exist on the staging branch; the corresponding empty directories disappear automatically. The historical Git revisions and `main` branch still contain prior copies until an approved merge and, if desired, separate history handling. Deletion on a branch does **not** remove historical Git objects.
+

@@ -14,7 +14,7 @@ The analysis series is named to match the Chapter 1 manuscript:
 | **H2** | Rhizosphere reference similarity | Natural, BESE and BARE rhizospheres |
 | **H3** | Bulk-soil–rhizosphere differentiation | Paired bulk-soil and rhizosphere samples within Natural, BESE and BARE |
 
-These are the analytical comparison labels, not new statistical models. Each hypothesis may involve alpha diversity, beta diversity, differential abundance and sensitivity analyses. Candidate source scripts have been relabelled in a **private review ZIP** but are not yet committed here, pending scientific and dependency checks.
+These are the analytical comparison labels, not new statistical models. Each hypothesis may involve alpha diversity, beta diversity, differential abundance and sensitivity analyses. The 18 privacy-reviewed H1/H2/H3 candidate R scripts have been committed to this staging branch. Required inputs, outputs, and executable reproducibility remain to be verified.
 
 ## Current and planned repository structure
 
@@ -51,7 +51,7 @@ Each `analyses/` folder has a README describing its purpose. The intended patter
 | [Vegetation](analyses/vegetation/) | Plant cover and related measurements | Script review |
 | [Alpha diversity](analyses/alpha_diversity/) | 16S and ITS alpha-diversity models and checks | Script review |
 | [Beta diversity](analyses/beta_diversity/) | Community composition, ordination, PERMANOVA, dispersion | Script review |
-| [Differential abundance](analyses/differential_abundance/) | Final ANCOM-BC2 workflow, replacing superseded DESeq2 analyses | Script review |
+| [Differential abundance](analyses/differential_abundance/) | ANCOM-BC2 genus- and ASV-level differential abundance, aligned to H1/H2/H3 | Script review |
 | [Community assembly](analyses/community_assembly/) | Manuscript-aligned community assembly analyses | Scaffold: missing source scripts |
 | [Processed data](data/processed/) | Validated and appropriately sized shared inputs | Scaffold: pending |
 
@@ -72,7 +72,7 @@ Raw sequencing reads are available through NCBI SRA BioProject **[PRJNA1446205](
 - The source material is being reconciled from the local Chapter 1 analysis folders, Gandalf and NCI Gadi.
 - The entire local `legacy Microbial community analysis/` directory contains obsolete analyses not used in the final Chapter 1 publication and is **excluded** from the new release.
 - Final workflow selection will follow the published or accepted manuscript, rather than selecting files simply because they are newer.
-- Any previous GitHub analyses will be removed from this branch **only after** their replacements have been verified. Git history will preserve older revisions.
+- The obsolete DESeq2 scripts and result tables have been removed from this staging branch because that method was not used for the final Chapter 1 publication. Other older analyses will be assessed against the final manuscript before removal. Git history preserves earlier revisions.
 
 See [CHAPTER1_REFRESH_STATUS.md](CHAPTER1_REFRESH_STATUS.md) for the detailed migration audit, missing inputs and cleanup checklist.
 
