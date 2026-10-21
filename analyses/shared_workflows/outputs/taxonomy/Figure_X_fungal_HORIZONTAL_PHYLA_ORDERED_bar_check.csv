@@ -1,0 +1,13 @@
+Community,Site,Treatment,Group_label,total_percent,n_segments
+Fungal,TRUG,Degraded,TRUG — Degraded,99.99999999999997,14
+Fungal,TRUG,BARE,TRUG — BARE,99.99999999999999,14
+Fungal,TRUG,BESE,TRUG — BESE,100,14
+Fungal,TRUG,Natural,TRUG — Natural,100,14
+Fungal,BASS,Degraded,BASS — Degraded,100,14
+Fungal,BASS,BARE,BASS — BARE,100.00000000000003,14
+Fungal,BASS,BESE,BASS — BESE,100.00000000000001,14
+Fungal,BASS,Natural,BASS — Natural,100,14
+Fungal,ACP,Degraded,ACP — Degraded,99.99999999999999,14
+Fungal,ACP,BARE,ACP — BARE,100,14
+Fungal,ACP,BESE,ACP — BESE,100.00000000000001,14
+Fungal,ACP,Natural,ACP — Natural,100,14

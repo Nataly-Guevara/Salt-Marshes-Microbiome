@@ -1,0 +1,25 @@
+Site,Ecological_condition,Phylum,Class,Number_of_samples,Mean_relative_abundance_percent
+ACP,Natural,Other phyla,Other phyla,10,91.8739
+ACP,Natural,Unclassified fungi,Unclassified class,10,8.1261
+ACP,BESE,Other phyla,Other phyla,8,82.5417
+ACP,BESE,Unclassified fungi,Unclassified class,8,17.4583
+ACP,BARE,Other phyla,Other phyla,9,72.0605
+ACP,BARE,Unclassified fungi,Unclassified class,9,27.9395
+ACP,Degraded,Other phyla,Other phyla,3,61.0808
+ACP,Degraded,Unclassified fungi,Unclassified class,3,38.9192
+BASS,Natural,Other phyla,Other phyla,10,90.4153
+BASS,Natural,Unclassified fungi,Unclassified class,10,9.5847
+BASS,BESE,Other phyla,Other phyla,9,82.3515
+BASS,BESE,Unclassified fungi,Unclassified class,9,17.6485
+BASS,BARE,Other phyla,Other phyla,9,80.2432
+BASS,BARE,Unclassified fungi,Unclassified class,9,19.7568
+BASS,Degraded,Other phyla,Other phyla,5,64.1703
+BASS,Degraded,Unclassified fungi,Unclassified class,5,35.8297
+TRUG,Natural,Other phyla,Other phyla,10,94.0776
+TRUG,Natural,Unclassified fungi,Unclassified class,10,5.9224
+TRUG,BESE,Other phyla,Other phyla,7,86.5419
+TRUG,BESE,Unclassified fungi,Unclassified class,7,13.4581
+TRUG,BARE,Other phyla,Other phyla,6,88.0891
+TRUG,BARE,Unclassified fungi,Unclassified class,6,11.9109
+TRUG,Degraded,Other phyla,Other phyla,1,78.6975
+TRUG,Degraded,Unclassified fungi,Unclassified class,1,21.3025

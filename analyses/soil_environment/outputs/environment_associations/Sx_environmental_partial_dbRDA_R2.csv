@@ -1,0 +1,5 @@
+Analysis,Community,Soil_habitat,n_samples,n_ASVs,R2,Adjusted_R2
+Bulk soil prokaryotic,Prokaryotic,BS,58,28358,0.19216483456325062,0.12744878370186496
+Bulk soil fungal,Fungal,BS,46,6495,0.19798494861340685,0.09631459233137951
+Rhizosphere prokaryotic,Prokaryotic,RZ,45,23563,0.14797227015659567,0.05691631444604317
+Rhizosphere fungal,Fungal,RZ,41,6846,0.17265403351306186,0.048341988589866935

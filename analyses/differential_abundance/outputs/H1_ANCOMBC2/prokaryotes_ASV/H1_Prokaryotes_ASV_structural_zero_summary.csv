@@ -1,0 +1,5 @@
+"Kingdom","Level","Condition_column","Structural_zero_classifications"
+"Prokaryotes","ASV","structural_zero (Condition = NATURAL)",3082
+"Prokaryotes","ASV","structural_zero (Condition = BESE)",716
+"Prokaryotes","ASV","structural_zero (Condition = BARE)",804
+"Prokaryotes","ASV","structural_zero (Condition = DEGRADED)",756

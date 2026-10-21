@@ -1,0 +1,9 @@
+Analysis,Community,Soil_habitat,Model,Df,SumOfSqs,F,p_value,R2,Adjusted_R2
+Bulk soil prokaryotic,Prokaryotic,BS,Environment | Site + ecological condition,6,3.4383907641147817,2.116650266320801,1e-4,0.1393991943995923,0.08061202747855056
+Bulk soil prokaryotic,Prokaryotic,BS,Ecological condition | Site + environment,3,1.4829181084253835,1.8257488601291196,1e-4,0.060120446992965745,0.03163063576842817
+Bulk soil fungal,Fungal,BS,Environment | Site + ecological condition,6,2.94151069698894,1.4843192596291825,1e-4,0.15114544012188608,0.055481984808141815
+Bulk soil fungal,Fungal,BS,Ecological condition | Site + environment,3,1.485658830865405,1.4993601880482883,1e-4,0.07633851479512829,0.030921634032464063
+Rhizosphere prokaryotic,Prokaryotic,RZ,Environment | Site + ecological condition,6,2.200915952982897,1.4323097087506973,3e-4,0.12988439630367238,0.04312287608865284
+Rhizosphere prokaryotic,Prokaryotic,RZ,Ecological condition | Site + environment,2,0.8132833753973585,1.5878030321445349,2e-4,0.047994935969333546,0.021716047723486676
+Rhizosphere fungal,Fungal,RZ,Environment | Site + ecological condition,6,2.408321935775183,1.1955020025851812,9e-4,0.14787347471044998,0.02686882476762198
+Rhizosphere fungal,Fungal,RZ,Ecological condition | Site + environment,2,0.9353441984143739,1.3929273894408436,4e-4,0.05743110778305244,0.020250746220653038

@@ -1,0 +1,25 @@
+Analysis,Community,Soil_habitat,n_samples_initial,Variable,n_missing
+Bulk soil prokaryotic,Prokaryotic,BS,58,Moisture,0
+Bulk soil prokaryotic,Prokaryotic,BS,58,Temperature,0
+Bulk soil prokaryotic,Prokaryotic,BS,58,pH,0
+Bulk soil prokaryotic,Prokaryotic,BS,58,NH4,0
+Bulk soil prokaryotic,Prokaryotic,BS,58,PO4,0
+Bulk soil prokaryotic,Prokaryotic,BS,58,Redox,0
+Bulk soil fungal,Fungal,BS,46,Moisture,0
+Bulk soil fungal,Fungal,BS,46,Temperature,0
+Bulk soil fungal,Fungal,BS,46,pH,0
+Bulk soil fungal,Fungal,BS,46,NH4,0
+Bulk soil fungal,Fungal,BS,46,PO4,0
+Bulk soil fungal,Fungal,BS,46,Redox,0
+Rhizosphere prokaryotic,Prokaryotic,RZ,45,Moisture,0
+Rhizosphere prokaryotic,Prokaryotic,RZ,45,Temperature,0
+Rhizosphere prokaryotic,Prokaryotic,RZ,45,pH,0
+Rhizosphere prokaryotic,Prokaryotic,RZ,45,NH4,0
+Rhizosphere prokaryotic,Prokaryotic,RZ,45,PO4,0
+Rhizosphere prokaryotic,Prokaryotic,RZ,45,Redox,0
+Rhizosphere fungal,Fungal,RZ,41,Moisture,0
+Rhizosphere fungal,Fungal,RZ,41,Temperature,0
+Rhizosphere fungal,Fungal,RZ,41,pH,0
+Rhizosphere fungal,Fungal,RZ,41,NH4,0
+Rhizosphere fungal,Fungal,RZ,41,PO4,0
+Rhizosphere fungal,Fungal,RZ,41,Redox,0

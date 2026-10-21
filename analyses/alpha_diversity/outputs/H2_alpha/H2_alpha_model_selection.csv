@@ -1,0 +1,5 @@
+"Kingdom","Metric","Interaction_p","Final_model"
+"Bacteria","Chao1",0.0535546514940919,"Site_plus_Condition"
+"Bacteria","Shannon",0.0028782585506124,"Site_x_Condition"
+"Fungi","Chao1",0.418133895664882,"Site_plus_Condition"
+"Fungi","Shannon",0.0676645727611869,"Site_plus_Condition"

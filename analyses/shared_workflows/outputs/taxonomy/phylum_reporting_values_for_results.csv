@@ -1,0 +1,23 @@
+Community,rank,Phylum,mean_relative_abundance_percent,median_relative_abundance_percent,prevalence_percent,reporting_value
+Prokaryotic,1,Actinobacteriota,24.08354789181642,23.18118086929427,100,Actinobacteriota = 24.08%
+Prokaryotic,2,Proteobacteria,16.726234660733304,15.662748496831139,100,Proteobacteria = 16.73%
+Prokaryotic,3,Halobacterota,16.41304114324344,9.596702629489515,97.0873786407767,Halobacterota = 16.41%
+Prokaryotic,4,Chloroflexi,11.347461999675508,9.722000035549861,99.02912621359224,Chloroflexi = 11.35%
+Prokaryotic,5,Other phyla,9.209552442326785,7.495043530730109,100,Other phyla = 9.21%
+Prokaryotic,6,Bacteroidota,7.6313408195022205,5.029020578228186,100,Bacteroidota = 7.63%
+Prokaryotic,7,Gemmatimonadota,5.2372809518477155,3.593319601955478,100,Gemmatimonadota = 5.24%
+Prokaryotic,8,Desulfobacterota,2.987123964531626,2.1569047746637375,99.02912621359224,Desulfobacterota = 2.99%
+Prokaryotic,9,Firmicutes,2.90802616117451,1.6616516513835191,99.02912621359224,Firmicutes = 2.91%
+Prokaryotic,10,Acidobacteriota,2.4497598522135533,2.228239311522344,98.05825242718447,Acidobacteriota = 2.45%
+Prokaryotic,11,Halanaerobiaeota,1.0066301129348885,0.10464780600461894,87.37864077669903,Halanaerobiaeota = 1.01%
+Fungal,1,Ascomycota,60.37530445189567,64.10917050481098,100,Ascomycota = 60.38%
+Fungal,2,Basidiomycota,22.534838165744407,20.52622829421632,100,Basidiomycota = 22.53%
+Fungal,3,Unclassified Phylum,16.631981994027697,11.278179104152363,100,Unclassified Phylum = 16.63%
+Fungal,4,Chytridiomycota,0.20817882588890566,0,43.67816091954023,Chytridiomycota = 0.21%
+Fungal,5,Rozellomycota,0.13503973760359222,0.01910240329858859,55.172413793103445,Rozellomycota = 0.14%
+Fungal,6,Mortierellomycota,0.10067030356980641,0.004659506558255481,54.02298850574713,Mortierellomycota = 0.10%
+Fungal,7,Aphelidiomycota,0.010183002503320953,0,18.39080459770115,Aphelidiomycota = 0.01%
+Fungal,8,Glomeromycota,0.00311072538891872,0,5.747126436781609,Glomeromycota = 0.00%
+Fungal,9,Monoblepharomycota,4.090287133980636e-4,0,2.2988505747126435,Monoblepharomycota = 0.00%
+Fungal,10,Fungi_phy_Incertae_sedis,2.443335911566458e-4,0,2.2988505747126435,Fungi_phy_Incertae_sedis = 0.00%
+Fungal,11,Other phyla,3.9431073122804546e-5,0,2.2988505747126435,Other phyla = 0.00%

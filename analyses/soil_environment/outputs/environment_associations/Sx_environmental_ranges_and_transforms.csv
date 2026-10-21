@@ -1,0 +1,97 @@
+Analysis,Community,Soil_habitat,NH4_transform,PO4_transform,n_samples,Variable,Statistic,Value
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,Moisture,min,0.25796
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,Moisture,median,0.5467225
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,Moisture,mean,0.5088641091896552
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,Moisture,max,0.658743333
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,Temperature,min,12.41666667
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,Temperature,median,16.36666667
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,Temperature,mean,15.957183908448275
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,Temperature,max,19.46666667
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,pH,min,5.333333333
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,pH,median,6.666666667
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,pH,mean,6.6534482758793105
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,pH,max,8.2
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,NH4,min,0.210510488
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,NH4,median,4.200411664000001
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,NH4,mean,13.297255816896552
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,NH4,max,71.20382442
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,PO4,min,0.050144793
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,PO4,median,0.379046212
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,PO4,mean,0.7402201823103448
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,PO4,max,5.615297189
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,Redox,min,-74.66666667
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,Redox,median,155.16666665
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,Redox,mean,161.82758620310344
+Bulk soil prokaryotic,Prokaryotic,BS,log,log,58,Redox,max,384
+Bulk soil fungal,Fungal,BS,log,log,46,Moisture,min,0.264
+Bulk soil fungal,Fungal,BS,log,log,46,Moisture,median,0.5555000000000001
+Bulk soil fungal,Fungal,BS,log,log,46,Moisture,mean,0.5341304347826087
+Bulk soil fungal,Fungal,BS,log,log,46,Moisture,max,0.659
+Bulk soil fungal,Fungal,BS,log,log,46,Temperature,min,12.417
+Bulk soil fungal,Fungal,BS,log,log,46,Temperature,median,15.7835
+Bulk soil fungal,Fungal,BS,log,log,46,Temperature,mean,15.811282608695652
+Bulk soil fungal,Fungal,BS,log,log,46,Temperature,max,19.467
+Bulk soil fungal,Fungal,BS,log,log,46,pH,min,5.333
+Bulk soil fungal,Fungal,BS,log,log,46,pH,median,6.35
+Bulk soil fungal,Fungal,BS,log,log,46,pH,mean,6.471717391304348
+Bulk soil fungal,Fungal,BS,log,log,46,pH,max,8.2
+Bulk soil fungal,Fungal,BS,log,log,46,NH4,min,0.529
+Bulk soil fungal,Fungal,BS,log,log,46,NH4,median,7.368
+Bulk soil fungal,Fungal,BS,log,log,46,NH4,mean,16.54336956521739
+Bulk soil fungal,Fungal,BS,log,log,46,NH4,max,71.204
+Bulk soil fungal,Fungal,BS,log,log,46,PO4,min,0.05
+Bulk soil fungal,Fungal,BS,log,log,46,PO4,median,0.4235
+Bulk soil fungal,Fungal,BS,log,log,46,PO4,mean,0.8328478260869566
+Bulk soil fungal,Fungal,BS,log,log,46,PO4,max,5.615
+Bulk soil fungal,Fungal,BS,log,log,46,Redox,min,-74.667
+Bulk soil fungal,Fungal,BS,log,log,46,Redox,median,146.833
+Bulk soil fungal,Fungal,BS,log,log,46,Redox,mean,155.84771739130434
+Bulk soil fungal,Fungal,BS,log,log,46,Redox,max,384
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,Moisture,min,0.263543333
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,Moisture,median,0.55521
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,Moisture,mean,0.5167436222
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,Moisture,max,0.649213333
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,Temperature,min,12.41666667
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,Temperature,median,15.33333333
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,Temperature,mean,15.499629704222222
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,Temperature,max,18.6
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,pH,min,5.533333333
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,pH,median,6.466666667
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,pH,mean,6.583703696311111
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,pH,max,8.2
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,NH4,min,0.529434322
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,NH4,median,8.109228392
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,NH4,mean,16.803058044155556
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,NH4,max,71.20382442
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,PO4,min,0.069570403
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,PO4,median,0.467084364
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,PO4,mean,0.8838601695555556
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,PO4,max,5.615297
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,Redox,min,-74.66666667
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,Redox,median,182
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,Redox,mean,173.70370369755554
+Rhizosphere prokaryotic,Prokaryotic,RZ,log,log,45,Redox,max,384
+Rhizosphere fungal,Fungal,RZ,log,log,41,Moisture,min,0.264
+Rhizosphere fungal,Fungal,RZ,log,log,41,Moisture,median,0.556
+Rhizosphere fungal,Fungal,RZ,log,log,41,Moisture,mean,0.5230487804878049
+Rhizosphere fungal,Fungal,RZ,log,log,41,Moisture,max,0.659
+Rhizosphere fungal,Fungal,RZ,log,log,41,Temperature,min,12.417
+Rhizosphere fungal,Fungal,RZ,log,log,41,Temperature,median,15.333
+Rhizosphere fungal,Fungal,RZ,log,log,41,Temperature,mean,15.419170731707316
+Rhizosphere fungal,Fungal,RZ,log,log,41,Temperature,max,18.6
+Rhizosphere fungal,Fungal,RZ,log,log,41,pH,min,5.533
+Rhizosphere fungal,Fungal,RZ,log,log,41,pH,median,6.467
+Rhizosphere fungal,Fungal,RZ,log,log,41,pH,mean,6.563439024390244
+Rhizosphere fungal,Fungal,RZ,log,log,41,pH,max,8.2
+Rhizosphere fungal,Fungal,RZ,log,log,41,NH4,min,0.529
+Rhizosphere fungal,Fungal,RZ,log,log,41,NH4,median,9.719
+Rhizosphere fungal,Fungal,RZ,log,log,41,NH4,mean,17.934658536585363
+Rhizosphere fungal,Fungal,RZ,log,log,41,NH4,max,71.204
+Rhizosphere fungal,Fungal,RZ,log,log,41,PO4,min,0.114
+Rhizosphere fungal,Fungal,RZ,log,log,41,PO4,median,0.513
+Rhizosphere fungal,Fungal,RZ,log,log,41,PO4,mean,0.8745609756097561
+Rhizosphere fungal,Fungal,RZ,log,log,41,PO4,max,5.615
+Rhizosphere fungal,Fungal,RZ,log,log,41,Redox,min,-74.667
+Rhizosphere fungal,Fungal,RZ,log,log,41,Redox,median,151.333
+Rhizosphere fungal,Fungal,RZ,log,log,41,Redox,mean,157.99180487804878
+Rhizosphere fungal,Fungal,RZ,log,log,41,Redox,max,319.667

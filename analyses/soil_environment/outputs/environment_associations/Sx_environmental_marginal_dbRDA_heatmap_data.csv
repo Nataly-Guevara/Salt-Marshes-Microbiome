@@ -1,0 +1,25 @@
+Analysis,Community,Soil_habitat,Variable,Term,Df,SumOfSqs,F,p_value,p_adjust_BH,Significant_BH_0.05,Significance,Cell_label
+Bulk soil prokaryotic,Prokaryotic,BS,Moisture,Moisture_z,1,0.3719664115776009,1.3077647292283356,0.1288,0.15456,FALSE,,1.31
+Bulk soil prokaryotic,Prokaryotic,BS,Temperature,Temperature_z,1,0.4812000396169047,1.6918098514467075,0.0189,0.0378,TRUE,*,1.69*
+Bulk soil prokaryotic,Prokaryotic,BS,pH,pH_z,1,0.5464149700277225,1.9210934188759008,0.0075,0.0225,TRUE,*,1.92*
+Bulk soil prokaryotic,Prokaryotic,BS,log NH4,NH4_log_z,1,0.3282607040490113,1.1541035894242258,0.2434,0.2434,FALSE,,1.15
+Bulk soil prokaryotic,Prokaryotic,BS,log PO4,PO4_log_z,1,0.3940878090836719,1.3855394489859123,0.084,0.126,FALSE,,1.39
+Bulk soil prokaryotic,Prokaryotic,BS,Redox,Redox_z,1,0.8009441154979307,2.815970560053265,1e-4,6.000000000000001e-4,TRUE,***,2.82***
+Bulk soil fungal,Fungal,BS,Moisture,Moisture_z,1,0.506574361204903,1.4740560359528083,0.0225,0.045,TRUE,*,1.47*
+Bulk soil fungal,Fungal,BS,Temperature,Temperature_z,1,0.5223771235903722,1.5200397237644518,0.0083,0.0249,TRUE,*,1.52*
+Bulk soil fungal,Fungal,BS,pH,pH_z,1,0.44497939494346284,1.2948238466528446,0.0764,0.0909,FALSE,,1.29
+Bulk soil fungal,Fungal,BS,log NH4,NH4_log_z,1,0.42625737318951984,1.2403455483315509,0.0909,0.0909,FALSE,,1.24
+Bulk soil fungal,Fungal,BS,log PO4,PO4_log_z,1,0.45662775413874357,1.3287188391666973,0.073,0.0909,FALSE,,1.33
+Bulk soil fungal,Fungal,BS,Redox,Redox_z,1,0.579966443519071,1.6876160780935625,0.0083,0.0249,TRUE,*,1.69*
+Rhizosphere prokaryotic,Prokaryotic,RZ,Moisture,Moisture_z,1,0.23761284945729066,0.8984607172755852,0.6795,0.6795,FALSE,,0.90
+Rhizosphere prokaryotic,Prokaryotic,RZ,Temperature,Temperature_z,1,0.30567070889079595,1.155800812066456,0.1706,0.3412,FALSE,,1.16
+Rhizosphere prokaryotic,Prokaryotic,RZ,pH,pH_z,1,0.37159445516247125,1.4050714070533203,0.0583,0.1749,FALSE,,1.41
+Rhizosphere prokaryotic,Prokaryotic,RZ,log NH4,NH4_log_z,1,0.2482815597077579,0.9388012000648507,0.537,0.6444,FALSE,,0.94
+Rhizosphere prokaryotic,Prokaryotic,RZ,log PO4,PO4_log_z,1,0.2775637524719734,1.0495229054542214,0.3908,0.5861999999999999,FALSE,,1.05
+Rhizosphere prokaryotic,Prokaryotic,RZ,Redox,Redox_z,1,0.4762981423517818,1.8009765532117368,0.0016,0.009600000000000001,TRUE,**,1.80**
+Rhizosphere fungal,Fungal,RZ,Moisture,Moisture_z,1,0.3888699782863405,1.130459219782414,0.1579,0.23685,FALSE,,1.13
+Rhizosphere fungal,Fungal,RZ,Temperature,Temperature_z,1,0.54520771707422,1.5849387324244446,0.0015,0.009000000000000001,TRUE,**,1.58**
+Rhizosphere fungal,Fungal,RZ,pH,pH_z,1,0.4896315788455574,1.423376870186183,0.0069,0.0207,TRUE,*,1.42*
+Rhizosphere fungal,Fungal,RZ,log NH4,NH4_log_z,1,0.3989594012583044,1.159789540603793,0.119,0.23685,FALSE,,1.16
+Rhizosphere fungal,Fungal,RZ,log PO4,PO4_log_z,1,0.30627205202014984,0.8903440334828725,0.7761,0.8601,FALSE,,0.89
+Rhizosphere fungal,Fungal,RZ,Redox,Redox_z,1,0.2953263113093687,0.8585243657410265,0.8601,0.8601,FALSE,,0.86

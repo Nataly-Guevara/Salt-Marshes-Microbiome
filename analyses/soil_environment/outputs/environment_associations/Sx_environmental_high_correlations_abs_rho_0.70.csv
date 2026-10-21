@@ -1,0 +1,4 @@
+Analysis,Community,Soil_habitat,Variable_1,Variable_2,Spearman_rho,p_value,p_adjust_BH,High_correlation_flag
+Bulk soil fungal,Fungal,BS,Temperature,log NH4,-0.7788675188867473,1.8444585534548885e-10,2.7666878301823327e-9,TRUE
+Rhizosphere prokaryotic,Prokaryotic,RZ,Temperature,log NH4,-0.734605139632617,9.230784577491642e-9,1.3846176866237462e-7,TRUE
+Rhizosphere fungal,Fungal,RZ,Temperature,log NH4,-0.7612077206688482,7.575877459146688e-9,1.1363816188720031e-7,TRUE

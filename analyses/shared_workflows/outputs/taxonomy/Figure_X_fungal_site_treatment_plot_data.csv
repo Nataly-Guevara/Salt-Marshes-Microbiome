@@ -1,0 +1,169 @@
+Community,Site,Treatment,Phylum_plot,Class_plot,Segment_ID,Mean_RA_percent,Median_RA_percent,Prevalence_percent,n_samples,x_pos,Phylum_order,Segment_rank,ymin,ymax
+Fungal,ACP,Natural,Ascomycota,Dothideomycetes,Fungal__Ascomycota__Dothideomycetes,22.812268515715083,23.716678147746485,100,10,1,1,1,0,22.812268515715083
+Fungal,ACP,Natural,Ascomycota,Sordariomycetes,Fungal__Ascomycota__Sordariomycetes,22.890708979998607,20.9604048466966,100,10,1,1,2,22.812268515715083,45.70297749571369
+Fungal,ACP,Natural,Ascomycota,Unclassified class,Fungal__Ascomycota__Unclassified class,7.774549913980293,5.852113614206409,100,10,1,1,3,45.70297749571369,53.477527409693984
+Fungal,ACP,Natural,Ascomycota,Eurotiomycetes,Fungal__Ascomycota__Eurotiomycetes,23.492771815026984,8.144029196490152,100,10,1,1,4,53.477527409693984,76.97029922472097
+Fungal,ACP,Natural,Ascomycota,Other classes,Fungal__Ascomycota__Other classes,0.4725092554793517,0.23017951165637218,100,10,1,1,5,76.97029922472097,77.44280848020033
+Fungal,ACP,Natural,Ascomycota,Leotiomycetes,Fungal__Ascomycota__Leotiomycetes,0.30799860223609465,0.23815785927273417,90,10,1,1,6,77.44280848020033,77.75080708243642
+Fungal,ACP,Natural,Basidiomycota,Unclassified class,Fungal__Basidiomycota__Unclassified class,3.0881280237082698,3.5782605191975723,100,10,1,2,7,77.75080708243642,80.83893510614469
+Fungal,ACP,Natural,Basidiomycota,Agaricomycetes,Fungal__Basidiomycota__Agaricomycetes,3.563308561350895,3.5730318781435906,100,10,1,2,8,80.83893510614469,84.40224366749558
+Fungal,ACP,Natural,Basidiomycota,Cystobasidiomycetes,Fungal__Basidiomycota__Cystobasidiomycetes,1.8947179236383984,0.9590088169704296,100,10,1,2,9,84.40224366749558,86.29696159113398
+Fungal,ACP,Natural,Basidiomycota,Tremellomycetes,Fungal__Basidiomycota__Tremellomycetes,0.39219245970619954,0.27433218135929743,100,10,1,2,10,86.29696159113398,86.68915405084017
+Fungal,ACP,Natural,Basidiomycota,Other classes,Fungal__Basidiomycota__Other classes,4.891938929819063,0.11951890842628661,80,10,1,2,11,86.68915405084017,91.58109298065924
+Fungal,ACP,Natural,Basidiomycota,Agaricostilbomycetes,Fungal__Basidiomycota__Agaricostilbomycetes,0.15244545642311763,0.017635338174110723,60,10,1,2,12,91.58109298065924,91.73353843708236
+Fungal,ACP,Natural,Unclassified fungi,Unclassified class,Fungal__Unclassified fungi__Unclassified class,8.126064890813067,6.136147925048638,100,10,1,3,13,91.73353843708236,99.85960332789543
+Fungal,ACP,Natural,Other phyla,Other phyla,Fungal__Other phyla__Other phyla,0.14039667210457138,0.07540759435283309,80,10,1,4,14,99.85960332789543,100
+Fungal,ACP,BESE,Ascomycota,Dothideomycetes,Fungal__Ascomycota__Dothideomycetes,15.24258911127166,16.88095796278441,100,8,2,1,1,0,15.24258911127166
+Fungal,ACP,BESE,Ascomycota,Sordariomycetes,Fungal__Ascomycota__Sordariomycetes,22.556461260784555,22.964678035149273,100,8,2,1,2,15.24258911127166,37.799050372056215
+Fungal,ACP,BESE,Ascomycota,Unclassified class,Fungal__Ascomycota__Unclassified class,17.582758986315643,8.777064848578739,100,8,2,1,3,37.799050372056215,55.381809358371854
+Fungal,ACP,BESE,Ascomycota,Eurotiomycetes,Fungal__Ascomycota__Eurotiomycetes,4.242732773139022,3.253447893805973,87.5,8,2,1,4,55.381809358371854,59.62454213151088
+Fungal,ACP,BESE,Ascomycota,Other classes,Fungal__Ascomycota__Other classes,1.4616240489405767,0.4770750552588225,87.5,8,2,1,5,59.62454213151088,61.08616618045146
+Fungal,ACP,BESE,Ascomycota,Leotiomycetes,Fungal__Ascomycota__Leotiomycetes,0.408779175307496,0.28157299642205863,75,8,2,1,6,61.08616618045146,61.49494535575895
+Fungal,ACP,BESE,Basidiomycota,Unclassified class,Fungal__Basidiomycota__Unclassified class,9.938414479244509,10.96323086824014,100,8,2,2,7,61.49494535575895,71.43335983500346
+Fungal,ACP,BESE,Basidiomycota,Agaricomycetes,Fungal__Basidiomycota__Agaricomycetes,5.659715532892881,7.117871223747496,87.5,8,2,2,8,71.43335983500346,77.09307536789633
+Fungal,ACP,BESE,Basidiomycota,Cystobasidiomycetes,Fungal__Basidiomycota__Cystobasidiomycetes,0.39791147669161553,0.2795194762982887,62.5,8,2,2,9,77.09307536789633,77.49098684458795
+Fungal,ACP,BESE,Basidiomycota,Tremellomycetes,Fungal__Basidiomycota__Tremellomycetes,1.486689980555207,0.7409832617933558,100,8,2,2,10,77.49098684458795,78.97767682514316
+Fungal,ACP,BESE,Basidiomycota,Other classes,Fungal__Basidiomycota__Other classes,3.041473296469579,0.4190053154282794,100,8,2,2,11,78.97767682514316,82.01915012161274
+Fungal,ACP,BESE,Basidiomycota,Agaricostilbomycetes,Fungal__Basidiomycota__Agaricostilbomycetes,0.036210276946471213,0.0048508910713752655,50,8,2,2,12,82.01915012161274,82.05536039855922
+Fungal,ACP,BESE,Unclassified fungi,Unclassified class,Fungal__Unclassified fungi__Unclassified class,17.458321315061756,13.105471344757186,100,8,2,3,13,82.05536039855922,99.51368171362097
+Fungal,ACP,BESE,Other phyla,Other phyla,Fungal__Other phyla__Other phyla,0.4863182863790408,0.16972465795889652,87.5,8,2,4,14,99.51368171362097,100.00000000000001
+Fungal,ACP,BARE,Ascomycota,Dothideomycetes,Fungal__Ascomycota__Dothideomycetes,11.505277253301962,8.908663600024106,100,9,3,1,1,0,11.505277253301962
+Fungal,ACP,BARE,Ascomycota,Sordariomycetes,Fungal__Ascomycota__Sordariomycetes,22.00749887528555,16.641658709589414,100,9,3,1,2,11.505277253301962,33.51277612858751
+Fungal,ACP,BARE,Ascomycota,Unclassified class,Fungal__Ascomycota__Unclassified class,14.173000671382601,10.255187216789889,100,9,3,1,3,33.51277612858751,47.685776799970114
+Fungal,ACP,BARE,Ascomycota,Eurotiomycetes,Fungal__Ascomycota__Eurotiomycetes,3.4477331896444605,3.6713901749152162,88.88888888888889,9,3,1,4,47.685776799970114,51.13350998961457
+Fungal,ACP,BARE,Ascomycota,Other classes,Fungal__Ascomycota__Other classes,0.3324866001242765,0,44.44444444444444,9,3,1,5,51.13350998961457,51.46599658973885
+Fungal,ACP,BARE,Ascomycota,Leotiomycetes,Fungal__Ascomycota__Leotiomycetes,0.410918177575243,0.0436232638644583,55.55555555555556,9,3,1,6,51.46599658973885,51.87691476731409
+Fungal,ACP,BARE,Basidiomycota,Unclassified class,Fungal__Basidiomycota__Unclassified class,9.184188830825121,9.35954202715972,100,9,3,2,7,51.87691476731409,61.06110359813921
+Fungal,ACP,BARE,Basidiomycota,Agaricomycetes,Fungal__Basidiomycota__Agaricomycetes,7.606380572959877,7.590944699997991,88.88888888888889,9,3,2,8,61.06110359813921,68.66748417109909
+Fungal,ACP,BARE,Basidiomycota,Cystobasidiomycetes,Fungal__Basidiomycota__Cystobasidiomycetes,0.23708065840933745,0,44.44444444444444,9,3,2,9,68.66748417109909,68.90456482950843
+Fungal,ACP,BARE,Basidiomycota,Tremellomycetes,Fungal__Basidiomycota__Tremellomycetes,2.365043712102306,0.2462603605251678,77.77777777777779,9,3,2,10,68.90456482950843,71.26960854161074
+Fungal,ACP,BARE,Basidiomycota,Other classes,Fungal__Basidiomycota__Other classes,0.5022222093204856,0.39590988065738125,55.55555555555556,9,3,2,11,71.26960854161074,71.77183075093122
+Fungal,ACP,BARE,Basidiomycota,Agaricostilbomycetes,Fungal__Basidiomycota__Agaricostilbomycetes,0.04584961005187912,0,22.22222222222222,9,3,2,12,71.77183075093122,71.81768036098309
+Fungal,ACP,BARE,Unclassified fungi,Unclassified class,Fungal__Unclassified fungi__Unclassified class,27.939532766347185,21.298886562795268,100,9,3,3,13,71.81768036098309,99.75721312733027
+Fungal,ACP,BARE,Other phyla,Other phyla,Fungal__Other phyla__Other phyla,0.24278687266972165,0.14511310285958173,66.66666666666666,9,3,4,14,99.75721312733027,100
+Fungal,ACP,Degraded,Ascomycota,Dothideomycetes,Fungal__Ascomycota__Dothideomycetes,5.319769778338523,1.6143434944758637,100,3,4,1,1,0,5.319769778338523
+Fungal,ACP,Degraded,Ascomycota,Sordariomycetes,Fungal__Ascomycota__Sordariomycetes,15.961038598507388,18.691016055889204,100,3,4,1,2,5.319769778338523,21.28080837684591
+Fungal,ACP,Degraded,Ascomycota,Unclassified class,Fungal__Ascomycota__Unclassified class,11.30780352666438,9.598515224204647,100,3,4,1,3,21.28080837684591,32.58861190351029
+Fungal,ACP,Degraded,Ascomycota,Eurotiomycetes,Fungal__Ascomycota__Eurotiomycetes,1.1398966961489776,0.8019190026788997,100,3,4,1,4,32.58861190351029,33.72850859965927
+Fungal,ACP,Degraded,Ascomycota,Other classes,Fungal__Ascomycota__Other classes,0.5773766529304573,0.521772626197188,66.66666666666666,3,4,1,5,33.72850859965927,34.305885252589725
+Fungal,ACP,Degraded,Ascomycota,Leotiomycetes,Fungal__Ascomycota__Leotiomycetes,0.02688991269741678,0,33.33333333333333,3,4,1,6,34.305885252589725,34.33277516528714
+Fungal,ACP,Degraded,Basidiomycota,Unclassified class,Fungal__Basidiomycota__Unclassified class,16.618995164498994,17.402351419398055,100,3,4,2,7,34.33277516528714,50.95177032978613
+Fungal,ACP,Degraded,Basidiomycota,Agaricomycetes,Fungal__Basidiomycota__Agaricomycetes,3.324977205626468,2.3392222436222925,100,3,4,2,8,50.95177032978613,54.276747535412596
+Fungal,ACP,Degraded,Basidiomycota,Cystobasidiomycetes,Fungal__Basidiomycota__Cystobasidiomycetes,2.7429018599648676,0.44998511722374945,100,3,4,2,9,54.276747535412596,57.01964939537746
+Fungal,ACP,Degraded,Basidiomycota,Tremellomycetes,Fungal__Basidiomycota__Tremellomycetes,2.4779792272631895,2.104583833784486,100,3,4,2,10,57.01964939537746,59.497628622640654
+Fungal,ACP,Degraded,Basidiomycota,Other classes,Fungal__Basidiomycota__Other classes,0.42677529694838817,0.2853991210407438,66.66666666666666,3,4,2,11,59.497628622640654,59.92440391958904
+Fungal,ACP,Degraded,Basidiomycota,Agaricostilbomycetes,Fungal__Basidiomycota__Agaricostilbomycetes,0,0,0,3,4,2,12,59.92440391958904,59.92440391958904
+Fungal,ACP,Degraded,Unclassified fungi,Unclassified class,Fungal__Unclassified fungi__Unclassified class,38.91920487469508,42.6540367341936,100,3,4,3,13,59.92440391958904,98.84360879428412
+Fungal,ACP,Degraded,Other phyla,Other phyla,Fungal__Other phyla__Other phyla,1.1563912057158687,0.23112076059741216,100,3,4,4,14,98.84360879428412,99.99999999999999
+Fungal,BASS,Natural,Ascomycota,Dothideomycetes,Fungal__Ascomycota__Dothideomycetes,29.345672603279855,24.130565364247254,100,10,1,1,1,0,29.345672603279855
+Fungal,BASS,Natural,Ascomycota,Sordariomycetes,Fungal__Ascomycota__Sordariomycetes,20.078270684168913,15.875375461655434,100,10,1,1,2,29.345672603279855,49.423943287448765
+Fungal,BASS,Natural,Ascomycota,Unclassified class,Fungal__Ascomycota__Unclassified class,12.156254602047314,6.675517654395574,100,10,1,1,3,49.423943287448765,61.58019788949608
+Fungal,BASS,Natural,Ascomycota,Eurotiomycetes,Fungal__Ascomycota__Eurotiomycetes,10.733947955164684,6.449648174248675,100,10,1,1,4,61.58019788949608,72.31414584466076
+Fungal,BASS,Natural,Ascomycota,Other classes,Fungal__Ascomycota__Other classes,0.4014485900520808,0.17557607212305987,90,10,1,1,5,72.31414584466076,72.71559443471284
+Fungal,BASS,Natural,Ascomycota,Leotiomycetes,Fungal__Ascomycota__Leotiomycetes,0.5297149036736422,0.32847109504958105,100,10,1,1,6,72.71559443471284,73.24530933838648
+Fungal,BASS,Natural,Basidiomycota,Unclassified class,Fungal__Basidiomycota__Unclassified class,10.491373596889735,6.5843221770549185,100,10,1,2,7,73.24530933838648,83.7366829352762
+Fungal,BASS,Natural,Basidiomycota,Agaricomycetes,Fungal__Basidiomycota__Agaricomycetes,1.2740125327628642,1.4703397788409251,100,10,1,2,8,83.7366829352762,85.01069546803907
+Fungal,BASS,Natural,Basidiomycota,Cystobasidiomycetes,Fungal__Basidiomycota__Cystobasidiomycetes,1.9924783196951033,1.5190456835724286,100,10,1,2,9,85.01069546803907,87.00317378773418
+Fungal,BASS,Natural,Basidiomycota,Tremellomycetes,Fungal__Basidiomycota__Tremellomycetes,1.6763113689606555,0.8300706842270287,90,10,1,2,10,87.00317378773418,88.67948515669484
+Fungal,BASS,Natural,Basidiomycota,Other classes,Fungal__Basidiomycota__Other classes,0.13645642195197152,0.11491658684619904,80,10,1,2,11,88.67948515669484,88.81594157864681
+Fungal,BASS,Natural,Basidiomycota,Agaricostilbomycetes,Fungal__Basidiomycota__Agaricostilbomycetes,0.253457786364913,0.26414735685157187,90,10,1,2,12,88.81594157864681,89.06939936501173
+Fungal,BASS,Natural,Unclassified fungi,Unclassified class,Fungal__Unclassified fungi__Unclassified class,9.584665138425425,4.310975358284691,100,10,1,3,13,89.06939936501173,98.65406450343716
+Fungal,BASS,Natural,Other phyla,Other phyla,Fungal__Other phyla__Other phyla,1.3459354965628465,0.3159199452903473,90,10,1,4,14,98.65406450343716,100
+Fungal,BASS,BESE,Ascomycota,Dothideomycetes,Fungal__Ascomycota__Dothideomycetes,16.903463730574025,10.882363027400245,100,9,2,1,1,0,16.903463730574025
+Fungal,BASS,BESE,Ascomycota,Sordariomycetes,Fungal__Ascomycota__Sordariomycetes,10.744202749082994,8.69865086288762,100,9,2,1,2,16.903463730574025,27.64766647965702
+Fungal,BASS,BESE,Ascomycota,Unclassified class,Fungal__Ascomycota__Unclassified class,6.652699104610195,6.260314973845422,100,9,2,1,3,27.64766647965702,34.30036558426721
+Fungal,BASS,BESE,Ascomycota,Eurotiomycetes,Fungal__Ascomycota__Eurotiomycetes,8.798991381410918,4.423129488358224,100,9,2,1,4,34.30036558426721,43.099356965678126
+Fungal,BASS,BESE,Ascomycota,Other classes,Fungal__Ascomycota__Other classes,0.9752118812028525,0.32604402972052055,88.88888888888889,9,2,1,5,43.099356965678126,44.07456884688098
+Fungal,BASS,BESE,Ascomycota,Leotiomycetes,Fungal__Ascomycota__Leotiomycetes,1.755721176100244,1.3721185510428102,77.77777777777779,9,2,1,6,44.07456884688098,45.830290022981224
+Fungal,BASS,BESE,Basidiomycota,Unclassified class,Fungal__Basidiomycota__Unclassified class,13.586303075992582,9.333222618948767,100,9,2,2,7,45.830290022981224,59.416593098973806
+Fungal,BASS,BESE,Basidiomycota,Agaricomycetes,Fungal__Basidiomycota__Agaricomycetes,4.083223129125498,4.1086141743368945,88.88888888888889,9,2,2,8,59.416593098973806,63.499816228099306
+Fungal,BASS,BESE,Basidiomycota,Cystobasidiomycetes,Fungal__Basidiomycota__Cystobasidiomycetes,11.860697375983616,8.46520513220856,100,9,2,2,9,63.499816228099306,75.36051360408293
+Fungal,BASS,BESE,Basidiomycota,Tremellomycetes,Fungal__Basidiomycota__Tremellomycetes,1.0854651988256965,0.9194145565688443,100,9,2,2,10,75.36051360408293,76.44597880290863
+Fungal,BASS,BESE,Basidiomycota,Other classes,Fungal__Basidiomycota__Other classes,0.18975281614557993,0.21727298792851538,77.77777777777779,9,2,2,11,76.44597880290863,76.63573161905421
+Fungal,BASS,BESE,Basidiomycota,Agaricostilbomycetes,Fungal__Basidiomycota__Agaricostilbomycetes,5.381999215311708,6.020094660798804,100,9,2,2,12,76.63573161905421,82.01773083436592
+Fungal,BASS,BESE,Unclassified fungi,Unclassified class,Fungal__Unclassified fungi__Unclassified class,17.648513953741183,14.506845478571865,100,9,2,3,13,82.01773083436592,99.66624478810711
+Fungal,BASS,BESE,Other phyla,Other phyla,Fungal__Other phyla__Other phyla,0.3337552118929132,0.3573233583245075,77.77777777777779,9,2,4,14,99.66624478810711,100.00000000000001
+Fungal,BASS,BARE,Ascomycota,Dothideomycetes,Fungal__Ascomycota__Dothideomycetes,9.564230425288727,6.691883527576846,100,9,3,1,1,0,9.564230425288727
+Fungal,BASS,BARE,Ascomycota,Sordariomycetes,Fungal__Ascomycota__Sordariomycetes,26.832997829030546,13.965980304386763,100,9,3,1,2,9.564230425288727,36.39722825431927
+Fungal,BASS,BARE,Ascomycota,Unclassified class,Fungal__Ascomycota__Unclassified class,7.602537992875662,6.848795637571775,100,9,3,1,3,36.39722825431927,43.999766247194934
+Fungal,BASS,BARE,Ascomycota,Eurotiomycetes,Fungal__Ascomycota__Eurotiomycetes,9.519567335990834,2.65245158632056,100,9,3,1,4,43.999766247194934,53.51933358318577
+Fungal,BASS,BARE,Ascomycota,Other classes,Fungal__Ascomycota__Other classes,0.4101247064853519,0.4912985566740179,77.77777777777779,9,3,1,5,53.51933358318577,53.929458289671125
+Fungal,BASS,BARE,Ascomycota,Leotiomycetes,Fungal__Ascomycota__Leotiomycetes,1.6002278102575491,1.4157677239306603,100,9,3,1,6,53.929458289671125,55.529686099928675
+Fungal,BASS,BARE,Basidiomycota,Unclassified class,Fungal__Basidiomycota__Unclassified class,17.358955870413446,17.054684905033664,100,9,3,2,7,55.529686099928675,72.88864197034212
+Fungal,BASS,BARE,Basidiomycota,Agaricomycetes,Fungal__Basidiomycota__Agaricomycetes,4.4270108156689485,3.3518712457717905,100,9,3,2,8,72.88864197034212,77.31565278601107
+Fungal,BASS,BARE,Basidiomycota,Cystobasidiomycetes,Fungal__Basidiomycota__Cystobasidiomycetes,0.8846233123347129,1.0647573900548957,100,9,3,2,9,77.31565278601107,78.20027609834578
+Fungal,BASS,BARE,Basidiomycota,Tremellomycetes,Fungal__Basidiomycota__Tremellomycetes,1.005236502507827,1.0058088840310955,88.88888888888889,9,3,2,10,78.20027609834578,79.20551260085361
+Fungal,BASS,BARE,Basidiomycota,Other classes,Fungal__Basidiomycota__Other classes,0.3939449943296089,0.43197215488843316,88.88888888888889,9,3,2,11,79.20551260085361,79.59945759518322
+Fungal,BASS,BARE,Basidiomycota,Agaricostilbomycetes,Fungal__Basidiomycota__Agaricostilbomycetes,0.4733873327481961,0.2321097424687143,77.77777777777779,9,3,2,12,79.59945759518322,80.07284492793143
+Fungal,BASS,BARE,Unclassified fungi,Unclassified class,Fungal__Unclassified fungi__Unclassified class,19.756786435565346,23.361792257134738,100,9,3,3,13,80.07284492793143,99.82963136349677
+Fungal,BASS,BARE,Other phyla,Other phyla,Fungal__Other phyla__Other phyla,0.17036863650325487,0.19535233188429135,100,9,3,4,14,99.82963136349677,100.00000000000003
+Fungal,BASS,Degraded,Ascomycota,Dothideomycetes,Fungal__Ascomycota__Dothideomycetes,10.359301726346558,11.212458286985528,100,5,4,1,1,0,10.359301726346558
+Fungal,BASS,Degraded,Ascomycota,Sordariomycetes,Fungal__Ascomycota__Sordariomycetes,10.690218722289133,12.174038323008201,100,5,4,1,2,10.359301726346558,21.04952044863569
+Fungal,BASS,Degraded,Ascomycota,Unclassified class,Fungal__Ascomycota__Unclassified class,5.406303387867274,5.647163515016684,100,5,4,1,3,21.04952044863569,26.455823836502965
+Fungal,BASS,Degraded,Ascomycota,Eurotiomycetes,Fungal__Ascomycota__Eurotiomycetes,2.7509001511191653,2.7474972191323683,100,5,4,1,4,26.455823836502965,29.20672398762213
+Fungal,BASS,Degraded,Ascomycota,Other classes,Fungal__Ascomycota__Other classes,1.2449602556953305,0.4130048504058013,100,5,4,1,5,29.20672398762213,30.45168424331746
+Fungal,BASS,Degraded,Ascomycota,Leotiomycetes,Fungal__Ascomycota__Leotiomycetes,0.6645358334040902,0.64293659621802,80,5,4,1,6,30.45168424331746,31.11622007672155
+Fungal,BASS,Degraded,Basidiomycota,Unclassified class,Fungal__Basidiomycota__Unclassified class,22.701181399556177,24.981692645674237,100,5,4,2,7,31.11622007672155,53.81740147627772
+Fungal,BASS,Degraded,Basidiomycota,Agaricomycetes,Fungal__Basidiomycota__Agaricomycetes,5.541741099177313,6.167741935483861,100,5,4,2,8,53.81740147627772,59.35914257545504
+Fungal,BASS,Degraded,Basidiomycota,Cystobasidiomycetes,Fungal__Basidiomycota__Cystobasidiomycetes,0.8511746194830317,0.3204463986490567,80,5,4,2,9,59.35914257545504,60.21031719493807
+Fungal,BASS,Degraded,Basidiomycota,Tremellomycetes,Fungal__Basidiomycota__Tremellomycetes,1.462158230845015,0.6875505508338593,80,5,4,2,10,60.21031719493807,61.672475425783084
+Fungal,BASS,Degraded,Basidiomycota,Other classes,Fungal__Basidiomycota__Other classes,1.635808533540152,0.6877873922223656,100,5,4,2,11,61.672475425783084,63.308283959323234
+Fungal,BASS,Degraded,Basidiomycota,Agaricostilbomycetes,Fungal__Basidiomycota__Agaricostilbomycetes,0.3667966493583265,0,40,5,4,2,12,63.308283959323234,63.67508060868156
+Fungal,BASS,Degraded,Unclassified fungi,Unclassified class,Fungal__Unclassified fungi__Unclassified class,35.829719573542484,40.9308103409687,100,5,4,3,13,63.67508060868156,99.50480018222405
+Fungal,BASS,Degraded,Other phyla,Other phyla,Fungal__Other phyla__Other phyla,0.49519981777594835,0.24572294057531144,80,5,4,4,14,99.50480018222405,100
+Fungal,TRUG,Natural,Ascomycota,Dothideomycetes,Fungal__Ascomycota__Dothideomycetes,31.854525800053374,35.31116696815727,100,10,1,1,1,0,31.854525800053374
+Fungal,TRUG,Natural,Ascomycota,Sordariomycetes,Fungal__Ascomycota__Sordariomycetes,28.118636871881037,25.395529271240726,100,10,1,1,2,31.854525800053374,59.97316267193441
+Fungal,TRUG,Natural,Ascomycota,Unclassified class,Fungal__Ascomycota__Unclassified class,10.578916415015469,4.445215610594604,100,10,1,1,3,59.97316267193441,70.55207908694987
+Fungal,TRUG,Natural,Ascomycota,Eurotiomycetes,Fungal__Ascomycota__Eurotiomycetes,3.314947941476612,3.183817032774658,100,10,1,1,4,70.55207908694987,73.86702702842649
+Fungal,TRUG,Natural,Ascomycota,Other classes,Fungal__Ascomycota__Other classes,0.3254014859490649,0.1624892045031161,100,10,1,1,5,73.86702702842649,74.19242851437555
+Fungal,TRUG,Natural,Ascomycota,Leotiomycetes,Fungal__Ascomycota__Leotiomycetes,0.7158411018788767,0.6986380126985468,100,10,1,1,6,74.19242851437555,74.90826961625443
+Fungal,TRUG,Natural,Basidiomycota,Unclassified class,Fungal__Basidiomycota__Unclassified class,6.702222850694242,4.291900012966386,100,10,1,2,7,74.90826961625443,81.61049246694867
+Fungal,TRUG,Natural,Basidiomycota,Agaricomycetes,Fungal__Basidiomycota__Agaricomycetes,6.166758058560624,6.122719472903994,100,10,1,2,8,81.61049246694867,87.77725052550929
+Fungal,TRUG,Natural,Basidiomycota,Cystobasidiomycetes,Fungal__Basidiomycota__Cystobasidiomycetes,3.76086087468876,2.5043028936474974,100,10,1,2,9,87.77725052550929,91.53811140019805
+Fungal,TRUG,Natural,Basidiomycota,Tremellomycetes,Fungal__Basidiomycota__Tremellomycetes,0.741088771434674,0.7018335594838148,100,10,1,2,10,91.53811140019805,92.27920017163272
+Fungal,TRUG,Natural,Basidiomycota,Other classes,Fungal__Basidiomycota__Other classes,0.7325508122503755,0.5795000782746935,100,10,1,2,11,92.27920017163272,93.0117509838831
+Fungal,TRUG,Natural,Basidiomycota,Agaricostilbomycetes,Fungal__Basidiomycota__Agaricostilbomycetes,0.6818399428364444,0.5209063291129619,90,10,1,2,12,93.0117509838831,93.69359092671955
+Fungal,TRUG,Natural,Unclassified fungi,Unclassified class,Fungal__Unclassified fungi__Unclassified class,5.922394352406654,4.182318286619177,100,10,1,3,13,93.69359092671955,99.6159852791262
+Fungal,TRUG,Natural,Other phyla,Other phyla,Fungal__Other phyla__Other phyla,0.3840147208737931,0.42939502091054643,100,10,1,4,14,99.6159852791262,100
+Fungal,TRUG,BESE,Ascomycota,Dothideomycetes,Fungal__Ascomycota__Dothideomycetes,33.99778245978537,30.727413186331066,100,7,2,1,1,0,33.99778245978537
+Fungal,TRUG,BESE,Ascomycota,Sordariomycetes,Fungal__Ascomycota__Sordariomycetes,7.506075833922425,7.792496938661916,100,7,2,1,2,33.99778245978537,41.50385829370779
+Fungal,TRUG,BESE,Ascomycota,Unclassified class,Fungal__Ascomycota__Unclassified class,8.72815955983302,7.06142550959916,85.71428571428571,7,2,1,3,41.50385829370779,50.23201785354081
+Fungal,TRUG,BESE,Ascomycota,Eurotiomycetes,Fungal__Ascomycota__Eurotiomycetes,5.635432208462344,6.499699573680745,100,7,2,1,4,50.23201785354081,55.86745006200316
+Fungal,TRUG,BESE,Ascomycota,Other classes,Fungal__Ascomycota__Other classes,2.62635681340539,0.16213483896195552,71.42857142857143,7,2,1,5,55.86745006200316,58.493806875408545
+Fungal,TRUG,BESE,Ascomycota,Leotiomycetes,Fungal__Ascomycota__Leotiomycetes,0.6065638650889332,0.3123717451776187,71.42857142857143,7,2,1,6,58.493806875408545,59.100370740497475
+Fungal,TRUG,BESE,Basidiomycota,Unclassified class,Fungal__Basidiomycota__Unclassified class,9.73716724952462,7.753892817465215,100,7,2,2,7,59.100370740497475,68.8375379900221
+Fungal,TRUG,BESE,Basidiomycota,Agaricomycetes,Fungal__Basidiomycota__Agaricomycetes,5.6557103122490915,4.215505813010843,85.71428571428571,7,2,2,8,68.8375379900221,74.49324830227118
+Fungal,TRUG,BESE,Basidiomycota,Cystobasidiomycetes,Fungal__Basidiomycota__Cystobasidiomycetes,9.604487933755165,6.167204720026717,100,7,2,2,9,74.49324830227118,84.09773623602635
+Fungal,TRUG,BESE,Basidiomycota,Tremellomycetes,Fungal__Basidiomycota__Tremellomycetes,0.49226983934750734,0.3618771720996046,71.42857142857143,7,2,2,10,84.09773623602635,84.59000607537385
+Fungal,TRUG,BESE,Basidiomycota,Other classes,Fungal__Basidiomycota__Other classes,0.4298123528088927,0.3954718473478669,85.71428571428571,7,2,2,11,84.59000607537385,85.01981842818275
+Fungal,TRUG,BESE,Basidiomycota,Agaricostilbomycetes,Fungal__Basidiomycota__Agaricostilbomycetes,1.3331534374339844,0.7450799457324743,71.42857142857143,7,2,2,12,85.01981842818275,86.35297186561672
+Fungal,TRUG,BESE,Unclassified fungi,Unclassified class,Fungal__Unclassified fungi__Unclassified class,13.45814657681148,10.705002508094303,100,7,2,3,13,86.35297186561672,99.81111844242821
+Fungal,TRUG,BESE,Other phyla,Other phyla,Fungal__Other phyla__Other phyla,0.1888815575717841,0.12111325325028426,71.42857142857143,7,2,4,14,99.81111844242821,100
+Fungal,TRUG,BARE,Ascomycota,Dothideomycetes,Fungal__Ascomycota__Dothideomycetes,31.83138627752703,31.44677156902628,100,6,3,1,1,0,31.83138627752703
+Fungal,TRUG,BARE,Ascomycota,Sordariomycetes,Fungal__Ascomycota__Sordariomycetes,19.439938339520623,18.228509120341343,100,6,3,1,2,31.83138627752703,51.271324617047654
+Fungal,TRUG,BARE,Ascomycota,Unclassified class,Fungal__Ascomycota__Unclassified class,5.31854769751062,4.9785897131975805,100,6,3,1,3,51.271324617047654,56.58987231455827
+Fungal,TRUG,BARE,Ascomycota,Eurotiomycetes,Fungal__Ascomycota__Eurotiomycetes,8.27331946296676,10.148723331686469,83.33333333333334,6,3,1,4,56.58987231455827,64.86319177752503
+Fungal,TRUG,BARE,Ascomycota,Other classes,Fungal__Ascomycota__Other classes,0.21149925745815057,0.04450638374393095,50,6,3,1,5,64.86319177752503,65.07469103498318
+Fungal,TRUG,BARE,Ascomycota,Leotiomycetes,Fungal__Ascomycota__Leotiomycetes,1.2498675838841597,0.8358421078709319,66.66666666666666,6,3,1,6,65.07469103498318,66.32455861886733
+Fungal,TRUG,BARE,Basidiomycota,Unclassified class,Fungal__Basidiomycota__Unclassified class,10.249963039410025,4.278117646132326,100,6,3,2,7,66.32455861886733,76.57452165827735
+Fungal,TRUG,BARE,Basidiomycota,Agaricomycetes,Fungal__Basidiomycota__Agaricomycetes,9.470606695386742,9.438966442413415,83.33333333333334,6,3,2,8,76.57452165827735,86.0451283536641
+Fungal,TRUG,BARE,Basidiomycota,Cystobasidiomycetes,Fungal__Basidiomycota__Cystobasidiomycetes,0.10566398772024704,0.03821493779457348,50,6,3,2,9,86.0451283536641,86.15079234138435
+Fungal,TRUG,BARE,Basidiomycota,Tremellomycetes,Fungal__Basidiomycota__Tremellomycetes,0.7076086915265273,0.5830858341110994,83.33333333333334,6,3,2,10,86.15079234138435,86.85840103291088
+Fungal,TRUG,BARE,Basidiomycota,Other classes,Fungal__Basidiomycota__Other classes,0.6887700472398021,0.43431701320965554,100,6,3,2,11,86.85840103291088,87.54717108015068
+Fungal,TRUG,BARE,Basidiomycota,Agaricostilbomycetes,Fungal__Basidiomycota__Agaricostilbomycetes,0,0,0,6,3,2,12,87.54717108015068,87.54717108015068
+Fungal,TRUG,BARE,Unclassified fungi,Unclassified class,Fungal__Unclassified fungi__Unclassified class,11.910895003209971,3.85621370530823,100,6,3,3,13,87.54717108015068,99.45806608336065
+Fungal,TRUG,BARE,Other phyla,Other phyla,Fungal__Other phyla__Other phyla,0.5419339166393314,0.4659165859778217,83.33333333333334,6,3,4,14,99.45806608336065,99.99999999999999
+Fungal,TRUG,Degraded,Ascomycota,Dothideomycetes,Fungal__Ascomycota__Dothideomycetes,35.24151675670002,35.24151675670002,100,1,4,1,1,0,35.24151675670002
+Fungal,TRUG,Degraded,Ascomycota,Sordariomycetes,Fungal__Ascomycota__Sordariomycetes,1.9470813447317354,1.9470813447317354,100,1,4,1,2,35.24151675670002,37.18859810143176
+Fungal,TRUG,Degraded,Ascomycota,Unclassified class,Fungal__Ascomycota__Unclassified class,10.68731315886086,10.68731315886086,100,1,4,1,3,37.18859810143176,47.87591126029262
+Fungal,TRUG,Degraded,Ascomycota,Eurotiomycetes,Fungal__Ascomycota__Eurotiomycetes,2.0205066344993963,2.0205066344993963,100,1,4,1,4,47.87591126029262,49.896417894792016
+Fungal,TRUG,Degraded,Ascomycota,Other classes,Fungal__Ascomycota__Other classes,1.5681544028950543,1.5681544028950543,100,1,4,1,5,49.896417894792016,51.46457229768707
+Fungal,TRUG,Degraded,Ascomycota,Leotiomycetes,Fungal__Ascomycota__Leotiomycetes,0.822101012220066,0.822101012220066,100,1,4,1,6,51.46457229768707,52.28667330990714
+Fungal,TRUG,Degraded,Basidiomycota,Unclassified class,Fungal__Basidiomycota__Unclassified class,11.93947658257723,11.93947658257723,100,1,4,2,7,52.28667330990714,64.22614989248437
+Fungal,TRUG,Degraded,Basidiomycota,Agaricomycetes,Fungal__Basidiomycota__Agaricomycetes,6.16379084281743,6.16379084281743,100,1,4,2,8,64.22614989248437,70.3899407353018
+Fungal,TRUG,Degraded,Basidiomycota,Cystobasidiomycetes,Fungal__Basidiomycota__Cystobasidiomycetes,3.624062516389574,3.624062516389574,100,1,4,2,9,70.3899407353018,74.01400325169138
+Fungal,TRUG,Degraded,Basidiomycota,Tremellomycetes,Fungal__Basidiomycota__Tremellomycetes,1.5943777206692193,1.5943777206692193,100,1,4,2,10,74.01400325169138,75.60838097236059
+Fungal,TRUG,Degraded,Basidiomycota,Other classes,Fungal__Basidiomycota__Other classes,1.9641265012849418,1.9641265012849418,100,1,4,2,11,75.60838097236059,77.57250747364553
+Fungal,TRUG,Degraded,Basidiomycota,Agaricostilbomycetes,Fungal__Basidiomycota__Agaricostilbomycetes,1.1249803325116694,1.1249803325116694,100,1,4,2,12,77.57250747364553,78.6974878061572
+Fungal,TRUG,Degraded,Unclassified fungi,Unclassified class,Fungal__Unclassified fungi__Unclassified class,21.30251219384277,21.30251219384277,100,1,4,3,13,78.6974878061572,99.99999999999997
+Fungal,TRUG,Degraded,Other phyla,Other phyla,Fungal__Other phyla__Other phyla,0,0,0,1,4,4,14,99.99999999999997,99.99999999999997

@@ -1,0 +1,46 @@
+Community,Phylum_plot,Class_plot,Segment_ID,Phylum_total_percent,Global_segment_rank,Legend_label
+Fungal,Ascomycota,Dothideomycetes,Fungal__Ascomycota__Dothideomycetes,60.37530445189567,1,Ascomycota — Dothideomycetes
+Fungal,Ascomycota,Sordariomycetes,Fungal__Ascomycota__Sordariomycetes,60.37530445189567,2,Ascomycota — Sordariomycetes
+Fungal,Ascomycota,Unclassified class,Fungal__Ascomycota__Unclassified class,60.37530445189567,3,Ascomycota — Unclassified class
+Fungal,Ascomycota,Eurotiomycetes,Fungal__Ascomycota__Eurotiomycetes,60.37530445189567,4,Ascomycota — Eurotiomycetes
+Fungal,Ascomycota,Leotiomycetes,Fungal__Ascomycota__Leotiomycetes,60.37530445189567,5,Ascomycota — Leotiomycetes
+Fungal,Ascomycota,Other classes,Fungal__Ascomycota__Other classes,60.37530445189567,6,Ascomycota — Other classes
+Fungal,Basidiomycota,Unclassified class,Fungal__Basidiomycota__Unclassified class,22.53483816574441,7,Basidiomycota — Unclassified class
+Fungal,Basidiomycota,Agaricomycetes,Fungal__Basidiomycota__Agaricomycetes,22.53483816574441,8,Basidiomycota — Agaricomycetes
+Fungal,Basidiomycota,Cystobasidiomycetes,Fungal__Basidiomycota__Cystobasidiomycetes,22.53483816574441,9,Basidiomycota — Cystobasidiomycetes
+Fungal,Basidiomycota,Other classes,Fungal__Basidiomycota__Other classes,22.53483816574441,10,Basidiomycota — Other classes
+Fungal,Basidiomycota,Tremellomycetes,Fungal__Basidiomycota__Tremellomycetes,22.53483816574441,11,Basidiomycota — Tremellomycetes
+Fungal,Basidiomycota,Agaricostilbomycetes,Fungal__Basidiomycota__Agaricostilbomycetes,22.53483816574441,12,Basidiomycota — Agaricostilbomycetes
+Fungal,Unclassified fungi,Unclassified class,Fungal__Unclassified fungi__Unclassified class,16.631981994027697,13,Unclassified fungi — Unclassified class
+Fungal,Other phyla,Other phyla,Fungal__Other phyla__Other phyla,0.45787538833222147,14,Other phyla
+Prokaryotic,Actinobacteriota,Acidimicrobiia,Prokaryotic__Actinobacteriota__Acidimicrobiia,24.083547891816416,1,Actinobacteriota — Acidimicrobiia
+Prokaryotic,Actinobacteriota,Actinobacteria,Prokaryotic__Actinobacteriota__Actinobacteria,24.083547891816416,2,Actinobacteriota — Actinobacteria
+Prokaryotic,Actinobacteriota,Thermoleophilia,Prokaryotic__Actinobacteriota__Thermoleophilia,24.083547891816416,3,Actinobacteriota — Thermoleophilia
+Prokaryotic,Actinobacteriota,Other classes,Prokaryotic__Actinobacteriota__Other classes,24.083547891816416,4,Actinobacteriota — Other classes
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Prokaryotic__Proteobacteria__Alphaproteobacteria,16.72623466073331,5,Proteobacteria — Alphaproteobacteria
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Prokaryotic__Proteobacteria__Gammaproteobacteria,16.72623466073331,6,Proteobacteria — Gammaproteobacteria
+Prokaryotic,Proteobacteria,Other classes,Prokaryotic__Proteobacteria__Other classes,16.72623466073331,7,Proteobacteria — Other classes
+Prokaryotic,Halobacterota,Halobacteria,Prokaryotic__Halobacterota__Halobacteria,16.413041143243436,8,Halobacterota — Halobacteria
+Prokaryotic,Halobacterota,Other classes,Prokaryotic__Halobacterota__Other classes,16.413041143243436,9,Halobacterota — Other classes
+Prokaryotic,Chloroflexi,Anaerolineae,Prokaryotic__Chloroflexi__Anaerolineae,11.347461999675511,10,Chloroflexi — Anaerolineae
+Prokaryotic,Chloroflexi,Chloroflexia,Prokaryotic__Chloroflexi__Chloroflexia,11.347461999675511,11,Chloroflexi — Chloroflexia
+Prokaryotic,Chloroflexi,KD4-96,Prokaryotic__Chloroflexi__KD4-96,11.347461999675511,12,Chloroflexi — KD4-96
+Prokaryotic,Chloroflexi,Other classes,Prokaryotic__Chloroflexi__Other classes,11.347461999675511,13,Chloroflexi — Other classes
+Prokaryotic,Chloroflexi,Dehalococcoidia,Prokaryotic__Chloroflexi__Dehalococcoidia,11.347461999675511,14,Chloroflexi — Dehalococcoidia
+Prokaryotic,Other phyla,Other phyla,Prokaryotic__Other phyla__Other phyla,9.209552442326787,15,Other phyla
+Prokaryotic,Bacteroidota,Bacteroidia,Prokaryotic__Bacteroidota__Bacteroidia,7.6313408195022205,16,Bacteroidota — Bacteroidia
+Prokaryotic,Bacteroidota,Rhodothermia,Prokaryotic__Bacteroidota__Rhodothermia,7.6313408195022205,17,Bacteroidota — Rhodothermia
+Prokaryotic,Bacteroidota,Other classes,Prokaryotic__Bacteroidota__Other classes,7.6313408195022205,18,Bacteroidota — Other classes
+Prokaryotic,Gemmatimonadota,PAUC43f marine benthic group,Prokaryotic__Gemmatimonadota__PAUC43f marine benthic group,5.2372809518477155,19,Gemmatimonadota — PAUC43f marine benthic group
+Prokaryotic,Gemmatimonadota,BD2-11 terrestrial group,Prokaryotic__Gemmatimonadota__BD2-11 terrestrial group,5.2372809518477155,20,Gemmatimonadota — BD2-11 terrestrial group
+Prokaryotic,Gemmatimonadota,Other classes,Prokaryotic__Gemmatimonadota__Other classes,5.2372809518477155,21,Gemmatimonadota — Other classes
+Prokaryotic,Desulfobacterota,Desulfuromonadia,Prokaryotic__Desulfobacterota__Desulfuromonadia,2.9871239645316274,22,Desulfobacterota — Desulfuromonadia
+Prokaryotic,Desulfobacterota,Desulfobulbia,Prokaryotic__Desulfobacterota__Desulfobulbia,2.9871239645316274,23,Desulfobacterota — Desulfobulbia
+Prokaryotic,Desulfobacterota,Desulfobacteria,Prokaryotic__Desulfobacterota__Desulfobacteria,2.9871239645316274,24,Desulfobacterota — Desulfobacteria
+Prokaryotic,Desulfobacterota,Other classes,Prokaryotic__Desulfobacterota__Other classes,2.9871239645316274,25,Desulfobacterota — Other classes
+Prokaryotic,Firmicutes,Bacilli,Prokaryotic__Firmicutes__Bacilli,2.908026161174511,26,Firmicutes — Bacilli
+Prokaryotic,Firmicutes,Clostridia,Prokaryotic__Firmicutes__Clostridia,2.908026161174511,27,Firmicutes — Clostridia
+Prokaryotic,Firmicutes,Other classes,Prokaryotic__Firmicutes__Other classes,2.908026161174511,28,Firmicutes — Other classes
+Prokaryotic,Acidobacteriota,Other classes,Prokaryotic__Acidobacteriota__Other classes,2.4497598522135533,29,Acidobacteriota — Other classes
+Prokaryotic,Acidobacteriota,Thermoanaerobaculia,Prokaryotic__Acidobacteriota__Thermoanaerobaculia,2.4497598522135533,30,Acidobacteriota — Thermoanaerobaculia
+Prokaryotic,Halanaerobiaeota,Halanaerobiia,Prokaryotic__Halanaerobiaeota__Halanaerobiia,1.0066301129348885,31,Halanaerobiaeota — Halanaerobiia

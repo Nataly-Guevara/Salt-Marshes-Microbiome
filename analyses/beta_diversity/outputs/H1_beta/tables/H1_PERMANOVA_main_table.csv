@@ -1,0 +1,3 @@
+"Factor","Bacteria_F","Bacteria_R2_percent","Bacteria_p","Fungi_F","Fungi_R2_percent","Fungi_p"
+"Ecological condition",3.04,11.3,"<0.001***",2.26,12.3,"<0.001***"
+"PERMDISP",7.66,NA,"<0.001***",4.77,NA,"0.007**"

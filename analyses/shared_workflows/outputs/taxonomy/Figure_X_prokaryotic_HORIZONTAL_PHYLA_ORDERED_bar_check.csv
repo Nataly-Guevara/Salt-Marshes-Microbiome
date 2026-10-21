@@ -1,0 +1,13 @@
+Community,Site,Treatment,Group_label,total_percent,n_segments
+Prokaryotic,TRUG,Degraded,TRUG — Degraded,99.99999999999994,31
+Prokaryotic,TRUG,BARE,TRUG — BARE,99.99999999999999,31
+Prokaryotic,TRUG,BESE,TRUG — BESE,100,31
+Prokaryotic,TRUG,Natural,TRUG — Natural,99.99999999999993,31
+Prokaryotic,BASS,Degraded,BASS — Degraded,100,31
+Prokaryotic,BASS,BARE,BASS — BARE,99.99999999999999,31
+Prokaryotic,BASS,BESE,BASS — BESE,100.00000000000001,31
+Prokaryotic,BASS,Natural,BASS — Natural,100.00000000000004,31
+Prokaryotic,ACP,Degraded,ACP — Degraded,99.99999999999986,31
+Prokaryotic,ACP,BARE,ACP — BARE,99.99999999999994,31
+Prokaryotic,ACP,BESE,ACP — BESE,99.99999999999996,31
+Prokaryotic,ACP,Natural,ACP — Natural,99.99999999999997,31

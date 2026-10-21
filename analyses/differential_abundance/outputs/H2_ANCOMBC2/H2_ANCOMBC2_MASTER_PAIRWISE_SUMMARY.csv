@@ -1,0 +1,13 @@
+"Kingdom","Level","Contrast","Robust_taxa","Higher_NATURAL","Higher_BESE","Higher_BARE"
+"Bacteria","Genus","BESE - NATURAL",7,2,5,0
+"Bacteria","Genus","BARE - NATURAL",6,0,0,6
+"Bacteria","Genus","BARE - BESE",0,0,0,0
+"Bacteria","ASV","BESE - NATURAL",7,2,5,0
+"Bacteria","ASV","BARE - NATURAL",13,2,0,11
+"Bacteria","ASV","BARE - BESE",0,0,0,0
+"Fungi","Genus","BESE - NATURAL",0,0,0,0
+"Fungi","Genus","BARE - NATURAL",1,1,0,0
+"Fungi","Genus","BARE - BESE",0,0,0,0
+"Fungi","ASV","BESE - NATURAL",1,1,0,0
+"Fungi","ASV","BARE - NATURAL",1,1,0,0
+"Fungi","ASV","BARE - BESE",0,0,0,0

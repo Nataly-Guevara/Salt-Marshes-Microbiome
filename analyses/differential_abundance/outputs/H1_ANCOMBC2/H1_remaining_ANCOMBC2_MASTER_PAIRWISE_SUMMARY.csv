@@ -1,0 +1,19 @@
+"Kingdom","Level","Contrast","Robust_taxa"
+"Prokaryotes","ASV","BESE - NATURAL",9
+"Prokaryotes","ASV","BARE - NATURAL",15
+"Prokaryotes","ASV","DEGRADED - NATURAL",13
+"Prokaryotes","ASV","BARE - BESE",0
+"Prokaryotes","ASV","DEGRADED - BESE",0
+"Prokaryotes","ASV","DEGRADED - BARE",0
+"Fungi","Genus","BESE - NATURAL",0
+"Fungi","Genus","BARE - NATURAL",3
+"Fungi","Genus","DEGRADED - NATURAL",1
+"Fungi","Genus","BARE - BESE",0
+"Fungi","Genus","DEGRADED - BESE",0
+"Fungi","Genus","DEGRADED - BARE",0
+"Fungi","ASV","BESE - NATURAL",2
+"Fungi","ASV","BARE - NATURAL",2
+"Fungi","ASV","DEGRADED - NATURAL",3
+"Fungi","ASV","BARE - BESE",0
+"Fungi","ASV","DEGRADED - BESE",0
+"Fungi","ASV","DEGRADED - BARE",0

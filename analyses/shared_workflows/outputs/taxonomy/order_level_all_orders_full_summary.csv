@@ -1,0 +1,535 @@
+Community,Phylum,Class,Order,Mean_RA_percent,Median_RA_percent,Prevalence_percent,n_samples
+Prokaryotic,Abditibacteriota,Abditibacteria,Abditibacteriales,0.0012945499058030472,0,19.41747572815534,103
+Prokaryotic,Acetothermia,Acetothermiia,Unclassified order,0.05476046707718198,0,43.689320388349515,103
+Prokaryotic,Acidobacteriota,AT-s3-28,Unclassified order,0.023626259711335088,0.0025943926526800073,52.42718446601942,103
+Prokaryotic,Acidobacteriota,Acidobacteriae,Bryobacterales,0.012921116455161087,0,46.601941747572816,103
+Prokaryotic,Acidobacteriota,Acidobacteriae,PAUC26f,0.16364579818036737,0.08805893438410142,87.37864077669903,103
+Prokaryotic,Acidobacteriota,Acidobacteriae,Subgroup 13,0.001761626760169619,0,8.737864077669903,103
+Prokaryotic,Acidobacteriota,Acidobacteriae,Subgroup 15,0.0022405737585923105,0,19.41747572815534,103
+Prokaryotic,Acidobacteriota,Acidobacteriae,Subgroup 2,0.0016329686682212956,0,5.825242718446602,103
+Prokaryotic,Acidobacteriota,Acidobacteriae,Unclassified order,0.0334451644996049,0.007783177958040023,54.36893203883495,103
+Prokaryotic,Acidobacteriota,Aminicenantia,Aminicenantales,0.009788452742541007,0,21.35922330097087,103
+Prokaryotic,Acidobacteriota,Blastocatellia,Blastocatellales,0.023976014139159774,0,49.51456310679612,103
+Prokaryotic,Acidobacteriota,Holophagae,Acanthopleuribacterales,0.01966831751469283,0,43.689320388349515,103
+Prokaryotic,Acidobacteriota,Holophagae,Subgroup 7,0.02925738838575957,0.004287135164797476,58.252427184466015,103
+Prokaryotic,Acidobacteriota,ODP1230B23.02,Unclassified order,2.0194863946382147e-4,0,2.912621359223301,103
+Prokaryotic,Acidobacteriota,Subgroup 18,Unclassified order,0.010034791563769938,0,37.86407766990291,103
+Prokaryotic,Acidobacteriota,Subgroup 21,Unclassified order,0.3819778093536287,0.22686476869743802,91.2621359223301,103
+Prokaryotic,Acidobacteriota,Subgroup 22,Unclassified order,0.09827074356870506,0.05481934533922302,73.7864077669903,103
+Prokaryotic,Acidobacteriota,Subgroup 26,Unclassified order,0.030687684031329213,0.007204759258115647,55.33980582524271,103
+Prokaryotic,Acidobacteriota,Subgroup 5,Unclassified order,0.0036089352120177586,0,17.475728155339805,103
+Prokaryotic,Acidobacteriota,Thermoanaerobaculia,Thermoanaerobaculales,1.0619035864651925,0.6806606319973084,98.05825242718447,103
+Prokaryotic,Acidobacteriota,Unclassified class,Unclassified order,0.0013981579482318953,0,3.8834951456310676,103
+Prokaryotic,Acidobacteriota,Vicinamibacteria,Subgroup 17,0.1574091344468468,0.02914488895797307,66.99029126213593,103
+Prokaryotic,Acidobacteriota,Vicinamibacteria,Subgroup 9,0.1228016359159567,0.027005793970342723,67.96116504854369,103
+Prokaryotic,Acidobacteriota,Vicinamibacteria,Vicinamibacterales,0.2426390115161135,0.040541225358536465,66.01941747572816,103
+Prokaryotic,Acidobacteriota,d142,Unclassified order,0.016862732736692993,0,20.388349514563107,103
+Prokaryotic,Actinobacteriota,Acidimicrobiia,Actinomarinales,4.739440102752803,2.4718418780304967,100,103
+Prokaryotic,Actinobacteriota,Acidimicrobiia,IMCC26256,0.21279006903304615,0.08447420046216464,79.6116504854369,103
+Prokaryotic,Actinobacteriota,Acidimicrobiia,Microtrichales,5.488575278007461,4.8378014444852475,99.02912621359224,103
+Prokaryotic,Actinobacteriota,Acidimicrobiia,Unclassified order,0.010549559155126538,0,46.601941747572816,103
+Prokaryotic,Actinobacteriota,Actinobacteria,0319-7L14,3.5315356653780613e-4,0,6.796116504854369,103
+Prokaryotic,Actinobacteriota,Actinobacteria,Corynebacteriales,0.7683013767949769,0.22947301123390265,85.43689320388349,103
+Prokaryotic,Actinobacteriota,Actinobacteria,Euzebyales,0.896212818569859,0.48845500734035574,95.14563106796116,103
+Prokaryotic,Actinobacteriota,Actinobacteria,Frankiales,0.016241800406417234,0.00103590981369162,50.48543689320388,103
+Prokaryotic,Actinobacteriota,Actinobacteria,KIST-JJY010,0.0017370372848079744,0,25.24271844660194,103
+Prokaryotic,Actinobacteriota,Actinobacteria,Kineosporiales,0.09519857942472353,0.024676518700423082,70.87378640776699,103
+Prokaryotic,Actinobacteriota,Actinobacteria,Micrococcales,2.6754921651517956,1.280857774954548,95.14563106796116,103
+Prokaryotic,Actinobacteriota,Actinobacteria,Micromonosporales,0.01161350160962757,0,39.80582524271845,103
+Prokaryotic,Actinobacteriota,Actinobacteria,Nitriliruptorales,3.6923986605841,2.732897575834497,99.02912621359224,103
+Prokaryotic,Actinobacteriota,Actinobacteria,PeM15,0.2103057960850417,0.003258992102375805,52.42718446601942,103
+Prokaryotic,Actinobacteriota,Actinobacteria,Propionibacteriales,1.530763385872814,0.5514106776361571,95.14563106796116,103
+Prokaryotic,Actinobacteriota,Actinobacteria,Pseudonocardiales,0.04433552977687176,0,48.54368932038835,103
+Prokaryotic,Actinobacteriota,Actinobacteria,Streptomycetales,0.04484866430993352,0,33.00970873786408,103
+Prokaryotic,Actinobacteriota,Actinobacteria,Streptosporangiales,1.8842796900245395e-4,0,4.854368932038835,103
+Prokaryotic,Actinobacteriota,Actinobacteria,Unclassified order,0.43505878857359276,0.02446707649019788,67.96116504854369,103
+Prokaryotic,Actinobacteriota,Coriobacteriia,CG2-30-50-142,2.2693400413481394e-4,0,1.9417475728155338,103
+Prokaryotic,Actinobacteriota,Coriobacteriia,OPB41,0.008793229000034678,0,29.126213592233007,103
+Prokaryotic,Actinobacteriota,MB-A2-108,Unclassified order,0.002073855457238718,0,9.70873786407767,103
+Prokaryotic,Actinobacteriota,RBG-16-55-12,Unclassified order,7.149768927428668e-4,0,1.9417475728155338,103
+Prokaryotic,Actinobacteriota,Rubrobacteria,Rubrobacterales,0.09822342891524732,0.002642543183559858,52.42718446601942,103
+Prokaryotic,Actinobacteriota,Thermoleophilia,Gaiellales,0.30788127176240104,0.2153345901724406,93.20388349514563,103
+Prokaryotic,Actinobacteriota,Thermoleophilia,Solirubrobacterales,2.7800866084065365,1.804277568496675,96.11650485436894,103
+Prokaryotic,Actinobacteriota,Thermoleophilia,Unclassified order,0.002180019383220247,0,18.446601941747574,103
+Prokaryotic,Actinobacteriota,Unclassified class,Unclassified order,9.523278778344451e-4,0,8.737864077669903,103
+Prokaryotic,Actinobacteriota,WCHB1-81,Unclassified order,0.008010545188490823,0,14.563106796116504,103
+Prokaryotic,Aenigmarchaeota,Deep Sea Euryarchaeotic Group(DSEG),Unclassified order,5.199327772553306e-4,0,2.912621359223301,103
+Prokaryotic,Altiarchaeota,Altiarchaeia,Altiarchaeales,8.333416474625959e-5,0,1.9417475728155338,103
+Prokaryotic,Armatimonadota,DG-56,Unclassified order,1.419613143278269e-4,0,1.9417475728155338,103
+Prokaryotic,Asgardarchaeota,Lokiarchaeia,Unclassified order,0.0025047353482200115,0,4.854368932038835,103
+Prokaryotic,Asgardarchaeota,Odinarchaeia,Unclassified order,3.4894986447999316e-4,0,1.9417475728155338,103
+Prokaryotic,Asgardarchaeota,Unclassified class,Unclassified order,2.355941161514334e-4,0,3.8834951456310676,103
+Prokaryotic,Bacteroidota,Bacteroidia,Bacteroidales,0.6104040962791142,0.40959625511995323,95.14563106796116,103
+Prokaryotic,Bacteroidota,Bacteroidia,Bacteroidetes VC2.1 Bac22,0.04288542208779137,0,41.74757281553398,103
+Prokaryotic,Bacteroidota,Bacteroidia,Chitinophagales,0.7692908226226676,0.2893196537066298,97.0873786407767,103
+Prokaryotic,Bacteroidota,Bacteroidia,Cytophagales,0.5014769983193043,0.36594666066814086,98.05825242718447,103
+Prokaryotic,Bacteroidota,Bacteroidia,Flavobacteriales,1.9352203377638635,0.7761966364812418,99.02912621359224,103
+Prokaryotic,Bacteroidota,Bacteroidia,ML602M-17,1.7765664990590106e-4,0,2.912621359223301,103
+Prokaryotic,Bacteroidota,Bacteroidia,SM1A07,1.6587589871175753e-4,0,1.9417475728155338,103
+Prokaryotic,Bacteroidota,Bacteroidia,Sphingobacteriales,0.05517491485234485,0.010969803786776268,70.87378640776699,103
+Prokaryotic,Bacteroidota,Bacteroidia,Unclassified order,0.016908286939774118,0,37.86407766990291,103
+Prokaryotic,Bacteroidota,Ignavibacteria,Ignavibacteriales,0.12629714830453379,0.07105947179125968,83.49514563106796,103
+Prokaryotic,Bacteroidota,Ignavibacteria,SJA-28,7.00984558138028e-4,0,8.737864077669903,103
+Prokaryotic,Bacteroidota,Kapabacteria,Kapabacteriales,0.038923240400713724,0.031994880819068955,87.37864077669903,103
+Prokaryotic,Bacteroidota,Kryptonia,Kryptoniales,0.0032179781716626054,0,22.330097087378643,103
+Prokaryotic,Bacteroidota,Rhodothermia,Balneolales,2.5513251539139272,0.656966275731179,98.05825242718447,103
+Prokaryotic,Bacteroidota,Rhodothermia,Rhodothermales,0.9791719027397703,0.4809880552582697,99.02912621359224,103
+Prokaryotic,Bdellovibrionota,Bdellovibrionia,Bacteriovoracales,0.006043280617862035,0,36.89320388349515,103
+Prokaryotic,Bdellovibrionota,Bdellovibrionia,Bdellovibrionales,0.06525992293194507,0.03535621385458494,88.3495145631068,103
+Prokaryotic,Bdellovibrionota,Oligoflexia,0319-6G20,0.004252252517342341,0,31.06796116504854,103
+Prokaryotic,Bdellovibrionota,Oligoflexia,053A03-B-DI-P58,5.296799582739203e-4,0,6.796116504854369,103
+Prokaryotic,Bdellovibrionota,Oligoflexia,Oligoflexales,0.005706420341388012,0,33.980582524271846,103
+Prokaryotic,Bdellovibrionota,Oligoflexia,Silvanigrellales,4.071337142420416e-4,0,2.912621359223301,103
+Prokaryotic,CK-2C2-2,Unclassified class,Unclassified order,0.0017363168444917225,0,21.35922330097087,103
+Prokaryotic,Caldatribacteriota,JS1,Unclassified order,0.006553680924052335,0,13.592233009708737,103
+Prokaryotic,Caldisericota,Caldisericia,Caldisericales,1.403657587001297e-4,0,2.912621359223301,103
+Prokaryotic,Calditrichota,Calditrichia,Calditrichales,0.2438816470518955,0.0879859222524396,79.6116504854369,103
+Prokaryotic,Campylobacterota,Campylobacteria,Campylobacterales,0.26788700194791887,0.0063503487399849705,56.310679611650485,103
+Prokaryotic,Chloroflexi,Anaerolineae,1-20,0.002811902660489339,0,20.388349514563107,103
+Prokaryotic,Chloroflexi,Anaerolineae,ADurb.Bin180,0.005638444602241624,0,17.475728155339805,103
+Prokaryotic,Chloroflexi,Anaerolineae,Anaerolineales,0.15589716652901217,0.0657116572479958,84.46601941747572,103
+Prokaryotic,Chloroflexi,Anaerolineae,Ardenticatenales,1.0383868164193575,0.5760309056102649,93.20388349514563,103
+Prokaryotic,Chloroflexi,Anaerolineae,Caldilineales,3.515911294405106,2.9808855116148947,97.0873786407767,103
+Prokaryotic,Chloroflexi,Anaerolineae,KZNMV-5-B42,0.0020409939105603303,0,11.650485436893204,103
+Prokaryotic,Chloroflexi,Anaerolineae,MSB-5E12,9.885139268058477e-4,0,7.766990291262135,103
+Prokaryotic,Chloroflexi,Anaerolineae,RBG-13-54-9,0.0519772252793511,0,45.63106796116505,103
+Prokaryotic,Chloroflexi,Anaerolineae,SBR1031,0.8820566054625285,0.5030306262109174,96.11650485436894,103
+Prokaryotic,Chloroflexi,Anaerolineae,SJA-15,0.006423991767116209,0,14.563106796116504,103
+Prokaryotic,Chloroflexi,Anaerolineae,Thermoflexales,0.0013989189185150332,0,7.766990291262135,103
+Prokaryotic,Chloroflexi,Anaerolineae,Unclassified order,0.13874941831949683,0.02620831240308384,73.7864077669903,103
+Prokaryotic,Chloroflexi,Chloroflexia,Chloroflexales,0.0011174488759054394,0,3.8834951456310676,103
+Prokaryotic,Chloroflexi,Chloroflexia,Thermomicrobiales,3.654040074768388,2.2763208926280614,96.11650485436894,103
+Prokaryotic,Chloroflexi,Dehalococcoidia,661239,1.2222384481116707e-4,0,1.9417475728155338,103
+Prokaryotic,Chloroflexi,Dehalococcoidia,Dehalococcoidales,0.00420529242171632,0,22.330097087378643,103
+Prokaryotic,Chloroflexi,Dehalococcoidia,FS117-23B-02,0.002391478851244035,0,7.766990291262135,103
+Prokaryotic,Chloroflexi,Dehalococcoidia,GIF3,2.246125333043783e-4,0,3.8834951456310676,103
+Prokaryotic,Chloroflexi,Dehalococcoidia,GIF9,0.007931699251053363,0,16.50485436893204,103
+Prokaryotic,Chloroflexi,Dehalococcoidia,JdFR-54,5.465848382904179e-4,0,1.9417475728155338,103
+Prokaryotic,Chloroflexi,Dehalococcoidia,MSBL5,0.0011744991378184718,0,7.766990291262135,103
+Prokaryotic,Chloroflexi,Dehalococcoidia,S085,0.29964691274391264,0.18177794638340922,91.2621359223301,103
+Prokaryotic,Chloroflexi,Dehalococcoidia,SAR202 clade,0.20166596663660197,0.10116337885685382,86.40776699029125,103
+Prokaryotic,Chloroflexi,Dehalococcoidia,Unclassified order,0.002627915948856437,0,20.388349514563107,103
+Prokaryotic,Chloroflexi,Gitt-GS-136,Unclassified order,0.13124722712564704,0.024709396016415634,73.7864077669903,103
+Prokaryotic,Chloroflexi,JG30-KF-CM66,Unclassified order,0.309760870228562,0.19600404653515427,90.29126213592234,103
+Prokaryotic,Chloroflexi,KD4-96,Unclassified order,0.8448697808393447,0.6024940451169959,92.23300970873787,103
+Prokaryotic,Chloroflexi,N9D0,Unclassified order,0.027335592725611577,0.0011702111060835373,50.48543689320388,103
+Prokaryotic,Chloroflexi,OLB14,Unclassified order,0.04250230573491284,0.020668769489301665,75.72815533980582,103
+Prokaryotic,Chloroflexi,TK10,Unclassified order,9.50096326565697e-5,0,2.912621359223301,103
+Prokaryotic,Chloroflexi,TK17,Unclassified order,0.005078752819970744,0,16.50485436893204,103
+Prokaryotic,Chloroflexi,Unclassified class,Unclassified order,0.00859645851632284,0,24.271844660194176,103
+Prokaryotic,Cloacimonadota,Cloacimonadia,Cloacimonadales,0.02275776869271981,0,16.50485436893204,103
+Prokaryotic,Crenarchaeota,Bathyarchaeia,Unclassified order,0.1865835439985261,0.028392338436674165,64.07766990291263,103
+Prokaryotic,Crenarchaeota,Nitrososphaeria,Nitrosopumilales,0.7347224817306308,0.039065434602959956,63.10679611650486,103
+Prokaryotic,Crenarchaeota,Nitrososphaeria,Nitrososphaerales,0.04926030723532727,0,36.89320388349515,103
+Prokaryotic,Crenarchaeota,Nitrososphaeria,Nitrosotaleales,0.004033152994411629,0,5.825242718446602,103
+Prokaryotic,Cyanobacteria,Cyanobacteriia,Cyanobacteriales,0.5905702057832413,0.019094604020778047,74.75728155339806,103
+Prokaryotic,Cyanobacteria,Cyanobacteriia,Leptolyngbyales,0.03925784333558805,0,16.50485436893204,103
+Prokaryotic,Cyanobacteria,Cyanobacteriia,Oxyphotobacteria Incertae Sedis,3.612054281043137e-4,0,2.912621359223301,103
+Prokaryotic,Cyanobacteria,Cyanobacteriia,Phormidesmiales,0.09494374188920615,0,48.54368932038835,103
+Prokaryotic,Cyanobacteria,Cyanobacteriia,Synechococcales,0.1403561005273819,0,34.95145631067961,103
+Prokaryotic,Cyanobacteria,Cyanobacteriia,Thermosynechococcales,6.30005317860344e-4,0,1.9417475728155338,103
+Prokaryotic,Cyanobacteria,Sericytochromatia,Unclassified order,0.007963342139646962,0.00217266140158387,53.398058252427184,103
+Prokaryotic,Cyanobacteria,Vampirivibrionia,Gastranaerophilales,0.007095000302805332,0,33.980582524271846,103
+Prokaryotic,Cyanobacteria,Vampirivibrionia,Obscuribacterales,9.712307089106064e-4,0,10.679611650485436,103
+Prokaryotic,Cyanobacteria,Vampirivibrionia,Vampirovibrionales,0.007223067716035135,0,30.097087378640776,103
+Prokaryotic,DTB120,Unclassified class,Unclassified order,0.002637686690818177,0,8.737864077669903,103
+Prokaryotic,Dadabacteria,Dadabacteriia,Dadabacteriales,0.22346171926160507,0.05408636738876712,78.64077669902912,103
+Prokaryotic,Deferrisomatota,Defferrisomatia,Defferrisomatales,3.712036168699048e-4,0,5.825242718446602,103
+Prokaryotic,Deinococcota,Deinococci,Deinococcales,0.8246871356747134,0.4772994369020238,98.05825242718447,103
+Prokaryotic,Dependentiae,Babeliae,Babeliales,0.12038315436463526,0.02729731741817009,77.66990291262135,103
+Prokaryotic,Desulfobacterota,Desulfarculia,Desulfarculales,0.006799258234200136,0,28.155339805825243,103
+Prokaryotic,Desulfobacterota,Desulfobaccia,Desulfobaccales,7.808634040670554e-4,0,7.766990291262135,103
+Prokaryotic,Desulfobacterota,Desulfobacteria,Desulfatiglandales,0.040717371400900905,0.002666240068255746,53.398058252427184,103
+Prokaryotic,Desulfobacterota,Desulfobacteria,Desulfobacterales,0.8842951793177597,0.22919828022255942,86.40776699029125,103
+Prokaryotic,Desulfobacterota,Desulfobacteria,Unclassified order,7.566745739321943e-5,0,1.9417475728155338,103
+Prokaryotic,Desulfobacterota,Desulfobulbia,Desulfobulbales,0.9898400593990011,0.49304672057897747,95.14563106796116,103
+Prokaryotic,Desulfobacterota,Desulfomonilia,Desulfomonilales,0.001453433264499092,0,10.679611650485436,103
+Prokaryotic,Desulfobacterota,Desulfovibrionia,Desulfovibrionales,0.005224462300093089,0,39.80582524271845,103
+Prokaryotic,Desulfobacterota,Desulfuromonadia,Bradymonadales,0.2650069271511253,0.185301114310755,97.0873786407767,103
+Prokaryotic,Desulfobacterota,Desulfuromonadia,Desulfuromonadales,0.7546065872138804,0.5024473770690281,97.0873786407767,103
+Prokaryotic,Desulfobacterota,Desulfuromonadia,Geobacterales,0.002461988247971956,0,11.650485436893204,103
+Prokaryotic,Desulfobacterota,Desulfuromonadia,PB19,0.018816704714404713,0.009378663540445488,77.66990291262135,103
+Prokaryotic,Desulfobacterota,Syntrophobacteria,Syntrophobacterales,0.0028991901384103997,0,21.35922330097087,103
+Prokaryotic,Desulfobacterota,Unclassified class,Unclassified order,0.014146272287920465,0.0034935718278367805,52.42718446601942,103
+Prokaryotic,Elusimicrobiota,Elusimicrobia,MVP-88,6.40833668185634e-5,0,1.9417475728155338,103
+Prokaryotic,Elusimicrobiota,Lineage IIa,Unclassified order,1.2541217606147213e-4,0,1.9417475728155338,103
+Prokaryotic,Elusimicrobiota,Lineage IIb,Unclassified order,8.585922743829889e-4,0,12.62135922330097,103
+Prokaryotic,Elusimicrobiota,Rs-M47,Unclassified order,0.0017972469567684773,0,3.8834951456310676,103
+Prokaryotic,Entotheonellaeota,Entotheonellia,Entotheonellales,0.038041158879733826,0.0016647337258405518,51.45631067961165,103
+Prokaryotic,Euryarchaeota,Methanobacteria,Methanobacteriales,8.068389133217078e-4,0,1.9417475728155338,103
+Prokaryotic,Euryarchaeota,Thermococci,Methanofastidiosales,7.702605428289709e-4,0,7.766990291262135,103
+Prokaryotic,FCPU426,Unclassified class,Unclassified order,3.6357028924029466e-4,0,5.825242718446602,103
+Prokaryotic,FW113,Unclassified class,Unclassified order,5.372609513163922e-4,0,8.737864077669903,103
+Prokaryotic,Fermentibacterota,Fermentibacteria,Fermentibacterales,0.006378318427933941,0,12.62135922330097,103
+Prokaryotic,Fibrobacterota,Chitinivibrionia,Unclassified order,0.0036632660182933222,0,29.126213592233007,103
+Prokaryotic,Fibrobacterota,Fibrobacteria,Fibrobacterales,0.011670237683035524,0,37.86407766990291,103
+Prokaryotic,Firmicutes,Bacilli,Alicyclobacillales,0.6256389575894965,0.053717123600060805,81.55339805825243,103
+Prokaryotic,Firmicutes,Bacilli,Bacillales,0.759733628255536,0.42827193770589994,97.0873786407767,103
+Prokaryotic,Firmicutes,Bacilli,Desulfuribacillales,0.0022553918476275006,0,13.592233009708737,103
+Prokaryotic,Firmicutes,Bacilli,Erysipelotrichales,0.004782825254839774,0,29.126213592233007,103
+Prokaryotic,Firmicutes,Bacilli,Exiguobacterales,9.125447698009157e-4,0,14.563106796116504,103
+Prokaryotic,Firmicutes,Bacilli,Haloplasmatales,0.12635327622176026,0.004451071595486613,57.28155339805825,103
+Prokaryotic,Firmicutes,Bacilli,Izemoplasmatales,0.033392415810223314,0,37.86407766990291,103
+Prokaryotic,Firmicutes,Bacilli,Lactobacillales,0.015518286324600833,0,22.330097087378643,103
+Prokaryotic,Firmicutes,Bacilli,Mycoplasmatales,3.004931105338436e-4,0,6.796116504854369,103
+Prokaryotic,Firmicutes,Bacilli,Paenibacillales,0.009894057798132051,0,46.601941747572816,103
+Prokaryotic,Firmicutes,Bacilli,Thermoactinomycetales,0.004362872586378547,0,22.330097087378643,103
+Prokaryotic,Firmicutes,Bacilli,Unclassified order,0.0012920769324613046,0,20.388349514563107,103
+Prokaryotic,Firmicutes,Clostridia,Caldicoprobacterales,4.047922497919488e-4,0,6.796116504854369,103
+Prokaryotic,Firmicutes,Clostridia,Christensenellales,0.0039909012909619115,0,18.446601941747574,103
+Prokaryotic,Firmicutes,Clostridia,Clostridia vadinBB60 group,5.689600947737937e-4,0,4.854368932038835,103
+Prokaryotic,Firmicutes,Clostridia,Clostridiales,0.10376017983584586,0.03024863582632507,88.3495145631068,103
+Prokaryotic,Firmicutes,Clostridia,Eubacteriales,0.007333743347767951,0,35.92233009708738,103
+Prokaryotic,Firmicutes,Clostridia,Gracilibacteraceae,7.799279181550574e-4,0,10.679611650485436,103
+Prokaryotic,Firmicutes,Clostridia,Lachnospirales,0.1749246842413356,0.07554346860057946,93.20388349514563,103
+Prokaryotic,Firmicutes,Clostridia,MAT-CR-H4-C10,6.283579178519317e-5,0,2.912621359223301,103
+Prokaryotic,Firmicutes,Clostridia,Oscillospirales,0.029885154387961344,0.011868276097990071,73.7864077669903,103
+Prokaryotic,Firmicutes,Clostridia,Peptococcales,0.005409151333287799,0,38.83495145631068,103
+Prokaryotic,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,0.925016410069357,0.3115532541200232,99.02912621359224,103
+Prokaryotic,Firmicutes,Clostridia,Proteinivoracales,1.3623279069332827e-4,0,2.912621359223301,103
+Prokaryotic,Firmicutes,Clostridia,Thermincolales,5.026534786736739e-4,0,7.766990291262135,103
+Prokaryotic,Firmicutes,Clostridia,Unclassified order,0.0029346562996982652,0,26.21359223300971,103
+Prokaryotic,Firmicutes,Desulfitobacteriia,Desulfitobacteriales,0.006581898274379345,0,33.980582524271846,103
+Prokaryotic,Firmicutes,Desulfotomaculia,Desulfotomaculales,2.0904118005721822e-4,0,1.9417475728155338,103
+Prokaryotic,Firmicutes,Dethiobacteria,Dethiobacterales,5.002923862233849e-4,0,9.70873786407767,103
+Prokaryotic,Firmicutes,Limnochordia,Limnochordales,0.004782504499358366,0,25.24271844660194,103
+Prokaryotic,Firmicutes,Limnochordia,M55-D21,0.0012935540536215158,0,5.825242718446602,103
+Prokaryotic,Firmicutes,Moorellia,Desulfitibacterales,9.313135476756101e-4,0,8.737864077669903,103
+Prokaryotic,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,1.1015852545451922e-4,0,5.825242718446602,103
+Prokaryotic,Firmicutes,Thermovenabulia,Thermovenabulales,0.05082858935797415,0,11.650485436893204,103
+Prokaryotic,Firmicutes,Unclassified class,Unclassified order,0.002641699718287227,0,23.300970873786408,103
+Prokaryotic,Fusobacteriota,Fusobacteriia,Fusobacteriales,0.23076266243953872,0,20.388349514563107,103
+Prokaryotic,Gemmatimonadota,AKAU4049,Unclassified order,0.10034354796295464,0,48.54368932038835,103
+Prokaryotic,Gemmatimonadota,BD2-11 terrestrial group,Unclassified order,2.1603922124137753,1.4248628237654144,99.02912621359224,103
+Prokaryotic,Gemmatimonadota,Gemmatimonadetes,Gemmatimonadales,0.11167213016475853,0.011514026793817645,63.10679611650486,103
+Prokaryotic,Gemmatimonadota,Longimicrobia,Longimicrobiales,0.015746260852953557,0,27.184466019417474,103
+Prokaryotic,Gemmatimonadota,MD2902-B12,Unclassified order,0.0038558501678784282,0,22.330097087378643,103
+Prokaryotic,Gemmatimonadota,PAUC43f marine benthic group,Unclassified order,2.7893551885431815,1.0504528965348408,100,103
+Prokaryotic,Gemmatimonadota,S0134 terrestrial group,Unclassified order,0.055378290007057615,0.010280662074637606,70.87378640776699,103
+Prokaryotic,Gemmatimonadota,Unclassified class,Unclassified order,5.374717351557455e-4,0,8.737864077669903,103
+Prokaryotic,Halanaerobiaeota,Halanaerobiia,Halanaerobiales,1.0066301129348885,0.10464780600461894,87.37864077669903,103
+Prokaryotic,Halobacterota,Halobacteria,Halobacterales,16.39812046154025,9.596702629489515,96.11650485436894,103
+Prokaryotic,Halobacterota,Methanomicrobia,Methanomicrobiales,1.1824084478686053e-4,0,3.8834951456310676,103
+Prokaryotic,Halobacterota,Methanonatronarchaeia,Methanonatronaechaeales,6.383790210385655e-4,0,2.912621359223301,103
+Prokaryotic,Halobacterota,Methanosarcinia,Methanosarciniales,0.014164061837363096,0,21.35922330097087,103
+Prokaryotic,Hydrogenedentes,Hydrogenedentia,Hydrogenedentiales,0.05223545516296701,0.035821081485173184,88.3495145631068,103
+Prokaryotic,LCP-89,Unclassified class,Unclassified order,0.005127368529761684,0,14.563106796116504,103
+Prokaryotic,Latescibacterota,Latescibacteria,Latescibacterales,0.07732497223598299,0.011064744562468387,58.252427184466015,103
+Prokaryotic,Latescibacterota,Unclassified class,Unclassified order,0.7247422867420149,0.5057735513872199,91.2621359223301,103
+Prokaryotic,MBNT15,Unclassified class,Unclassified order,0.017583904785062884,0,48.54368932038835,103
+Prokaryotic,Margulisbacteria,Unclassified class,Unclassified order,2.8015995934076306e-4,0,6.796116504854369,103
+Prokaryotic,Marinimicrobia (SAR406 clade),Unclassified class,Unclassified order,0.013566208533653234,0,32.038834951456316,103
+Prokaryotic,Methylomirabilota,Methylomirabilia,Methylomirabilales,0.016819005198658817,0,14.563106796116504,103
+Prokaryotic,Micrarchaeota,Micrarchaeia,Micrarchaeales,7.059756516676995e-5,0,1.9417475728155338,103
+Prokaryotic,Modulibacteria,Moduliflexia,Moduliflexales,0.12338715413709829,0,35.92233009708738,103
+Prokaryotic,Myxococcota,Myxococcia,Myxococcales,0.018597860114378362,0.006658934903362207,67.96116504854369,103
+Prokaryotic,Myxococcota,Polyangia,Blfdi19,0.002561616870315927,0,32.038834951456316,103
+Prokaryotic,Myxococcota,Polyangia,Haliangiales,0.2278188081988876,0.11192758771716385,93.20388349514563,103
+Prokaryotic,Myxococcota,Polyangia,MidBa8,0.0016702811614910567,0,8.737864077669903,103
+Prokaryotic,Myxococcota,Polyangia,Nannocystales,0.050204911863172386,0.013762730525736306,78.64077669902912,103
+Prokaryotic,Myxococcota,Polyangia,PS-B29,0.003362123564904396,0,14.563106796116504,103
+Prokaryotic,Myxococcota,Polyangia,Polyangiales,0.6226786882443751,0.42068547769767906,98.05825242718447,103
+Prokaryotic,Myxococcota,Polyangia,UASB-TL25,0.015023011852756863,0.002785230849216886,58.252427184466015,103
+Prokaryotic,Myxococcota,Polyangia,Unclassified order,0.001214512781639067,0,14.563106796116504,103
+Prokaryotic,Myxococcota,Polyangia,VHS-B3-70,0.006106783441362331,0,13.592233009708737,103
+Prokaryotic,Myxococcota,Polyangia,VHS-B4-70,0.006343650595646571,0,21.35922330097087,103
+Prokaryotic,Myxococcota,Unclassified class,Unclassified order,4.922589801874794e-4,0,9.70873786407767,103
+Prokaryotic,Myxococcota,bacteriap25,Unclassified order,0.023232157648647604,0,47.57281553398058,103
+Prokaryotic,NB1-j,Unclassified class,Unclassified order,0.42297139930988614,0.1885631753503798,97.0873786407767,103
+Prokaryotic,Nanoarchaeota,Nanoarchaeia,Woesearchaeales,0.27448237283231947,0.1104156307584311,95.14563106796116,103
+Prokaryotic,Nanohaloarchaeota,Nanosalinia,Nanosalinales,0.12263571342870812,0,30.097087378640776,103
+Prokaryotic,Nitrospinota,Nitrospinia,Nitrospinales,0.017640915662700932,0,40.77669902912621,103
+Prokaryotic,Nitrospinota,P9X2b3D02,Unclassified order,0.0044577721882731024,0,16.50485436893204,103
+Prokaryotic,Nitrospinota,Unclassified class,Unclassified order,8.087632735855573e-5,0,1.9417475728155338,103
+Prokaryotic,Nitrospirota,BMS9AB35,Unclassified order,3.3972808544033224e-4,0,3.8834951456310676,103
+Prokaryotic,Nitrospirota,Nitrospiria,Nitrospirales,0.06642736226358212,0.025318534535849674,64.07766990291263,103
+Prokaryotic,Nitrospirota,Thermodesulfovibrionia,Unclassified order,0.04669133074556132,0,30.097087378640776,103
+Prokaryotic,Patescibacteria,Berkelbacteria,Unclassified order,5.525845497453969e-4,0,8.737864077669903,103
+Prokaryotic,Patescibacteria,CPR2,Unclassified order,3.292293071306016e-4,0,8.737864077669903,103
+Prokaryotic,Patescibacteria,Dojkabacteria,Unclassified order,0.0014139839425010446,0,10.679611650485436,103
+Prokaryotic,Patescibacteria,Gracilibacteria,Absconditabacteriales (SR1),0.009332764348120677,0,23.300970873786408,103
+Prokaryotic,Patescibacteria,Gracilibacteria,Candidatus Abawacabacteria,0.003562950205616914,0,13.592233009708737,103
+Prokaryotic,Patescibacteria,Gracilibacteria,Candidatus Peregrinibacteria,0.0126779840381766,0,34.95145631067961,103
+Prokaryotic,Patescibacteria,Gracilibacteria,Candidatus Peribacteria,0.039916188046244194,0.004742033383915023,67.96116504854369,103
+Prokaryotic,Patescibacteria,Gracilibacteria,JGI 0000069-P22,0.0015600403548966034,0,9.70873786407767,103
+Prokaryotic,Patescibacteria,Gracilibacteria,Unclassified order,0.018098213392652884,0,35.92233009708738,103
+Prokaryotic,Patescibacteria,Kazania,Unclassified order,1.8700114773067896e-4,0,5.825242718446602,103
+Prokaryotic,Patescibacteria,Microgenomatia,Candidatus Pacebacteria,1.2019325633891452e-4,0,1.9417475728155338,103
+Prokaryotic,Patescibacteria,Microgenomatia,Candidatus Woesebacteria,3.8148638503058744e-4,0,3.8834951456310676,103
+Prokaryotic,Patescibacteria,Parcubacteria,Candidatus Adlerbacteria,0.0010988573890556488,0,1.9417475728155338,103
+Prokaryotic,Patescibacteria,Parcubacteria,Candidatus Doudnabacteria,7.403960187623637e-4,0,6.796116504854369,103
+Prokaryotic,Patescibacteria,Parcubacteria,Candidatus Kaiserbacteria,0.015307332526759337,0.0027860585629509932,55.33980582524271,103
+Prokaryotic,Patescibacteria,Parcubacteria,Candidatus Liptonbacteria,0.008534589036267554,0,29.126213592233007,103
+Prokaryotic,Patescibacteria,Parcubacteria,Candidatus Moranbacteria,0.0010236961899999849,0,9.70873786407767,103
+Prokaryotic,Patescibacteria,Parcubacteria,Candidatus Nomurabacteria,2.1084974714996954e-4,0,2.912621359223301,103
+Prokaryotic,Patescibacteria,Parcubacteria,Candidatus Spechtbacteria,3.504769609398031e-4,0,9.70873786407767,103
+Prokaryotic,Patescibacteria,Parcubacteria,Candidatus Terrybacteria,0.009252959391264453,0,20.388349514563107,103
+Prokaryotic,Patescibacteria,Parcubacteria,Candidatus Vogelbacteria,9.152946473113476e-5,0,2.912621359223301,103
+Prokaryotic,Patescibacteria,Parcubacteria,Candidatus Yanofskybacteria,0.0011020407659227856,0,3.8834951456310676,103
+Prokaryotic,Patescibacteria,Parcubacteria,GWA2-38-13b,7.279915259236281e-4,0,9.70873786407767,103
+Prokaryotic,Patescibacteria,Parcubacteria,Unclassified order,0.0016016543637215495,0,13.592233009708737,103
+Prokaryotic,Patescibacteria,Saccharimonadia,Saccharimonadales,0.4965134183633384,0.3694073627802264,98.05825242718447,103
+Prokaryotic,Patescibacteria,Unclassified class,Unclassified order,0.01556256010016522,0.0011098224838937013,52.42718446601942,103
+Prokaryotic,Patescibacteria,WWE3,Unclassified order,0.006673593210478939,0,27.184466019417474,103
+Prokaryotic,Planctomycetota,BD7-11,Unclassified order,1.3596952315739533e-4,0,2.912621359223301,103
+Prokaryotic,Planctomycetota,Brocadiae,SM23-32,2.5417567331739325e-4,0,7.766990291262135,103
+Prokaryotic,Planctomycetota,OM190,Unclassified order,0.005615113093881314,0,37.86407766990291,103
+Prokaryotic,Planctomycetota,Phycisphaerae,CCM11a,1.601164046800495e-4,0,1.9417475728155338,103
+Prokaryotic,Planctomycetota,Phycisphaerae,Phycisphaerales,0.0019152996093352447,0,19.41747572815534,103
+Prokaryotic,Planctomycetota,Phycisphaerae,Tepidisphaerales,0.0015925839195051507,0,20.388349514563107,103
+Prokaryotic,Planctomycetota,Pla4 lineage,Unclassified order,0.006197840389367497,9.288500835965075e-4,51.45631067961165,103
+Prokaryotic,Planctomycetota,Planctomycetes,Gemmatales,1.9341054668672132e-4,0,2.912621359223301,103
+Prokaryotic,Planctomycetota,Planctomycetes,Isosphaerales,8.854663326921723e-5,0,1.9417475728155338,103
+Prokaryotic,Planctomycetota,Planctomycetes,Pirellulales,0.003957415630215699,0,29.126213592233007,103
+Prokaryotic,Planctomycetota,Planctomycetes,Planctomycetales,0.0011174974044336982,0,15.53398058252427,103
+Prokaryotic,Planctomycetota,Planctomycetes,Unclassified order,7.148226911212113e-5,0,1.9417475728155338,103
+Prokaryotic,Planctomycetota,SGST604,Unclassified order,9.929578121089741e-5,0,2.912621359223301,103
+Prokaryotic,Planctomycetota,Unclassified class,Unclassified order,0.005505744810100747,0,28.155339805825243,103
+Prokaryotic,Planctomycetota,vadinHA49,Unclassified order,6.642936951348921e-4,0,10.679611650485436,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,AT-s3-44,0.032619624097457396,0,32.038834951456316,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Acetobacterales,0.0020236291253524783,0,9.70873786407767,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Alphaproteobacteria Incertae Sedis,0.044331713831248586,0.010347860579825122,66.01941747572816,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Caulobacterales,0.09290051053154451,0.03699560456983801,79.6116504854369,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Defluviicoccales,0.9298463498297962,0.1653641408993091,95.14563106796116,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Dstr-E11,0.011495735508373075,0,5.825242718446602,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Holosporales,8.353706359138104e-4,0,12.62135922330097,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Kiloniellales,0.4578765397637825,0.20095386099351586,98.05825242718447,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Kordiimonadales,0.010075796037519569,0,34.95145631067961,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Micavibrionales,0.01040633001703884,0,37.86407766990291,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Micropepsales,0.0036842577567384313,0,26.21359223300971,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,NRL2,2.223951816461005e-4,0,3.8834951456310676,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Paracaedibacterales,1.4500075221716513e-4,0,1.9417475728155338,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Parvibaculales,0.05275228453888224,0.003975674760355161,55.33980582524271,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Puniceispirillales,0.07698202765373821,0.05493621295273822,89.32038834951457,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Rhizobiales,2.2133126487820736,1.394768504077359,99.02912621359224,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Rhodobacterales,4.081873654136156,3.0000810327309906,99.02912621359224,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Rhodospirillales,0.08254501420828479,0.04333459725908673,88.3495145631068,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Rickettsiales,0.0038118318200468155,0,34.95145631067961,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Sneathiellales,0.04967040017403885,0,48.54368932038835,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Sphingomonadales,0.1500461561548202,0.08676591469540597,89.32038834951457,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Thalassobaculales,0.06990623163885756,0.03215261775896255,83.49514563106796,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Tistrellales,1.176191001621239,0.494571692926227,99.02912621359224,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Unclassified order,0.33064358999410115,0.2740858562711742,95.14563106796116,103
+Prokaryotic,Proteobacteria,Alphaproteobacteria,Zavarziniales,0.0035227775808255872,0,32.038834951456316,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,AT-s16,2.1664588954893675e-4,0,3.8834951456310676,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,AT-s2-59,0.013987064721693889,0,36.89320388349515,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Acidithiobacillales,0.05857510197844354,0,44.66019417475729,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Arenicellales,0.03237932802768822,0,35.92233009708738,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,B108,9.81190893748716e-4,0,10.679611650485436,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,B2M28,0.32400316303452553,0.09772212325094695,68.93203883495146,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,BD7-8,0.16243332073723143,0.007277887956914903,54.36893203883495,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Beggiatoales,0.00312105088847928,0,15.53398058252427,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Burkholderiales,0.04328353772353674,0.009593969504882645,74.75728155339806,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Cardiobacteriales,3.7624919039153397e-4,0,5.825242718446602,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Chromatiales,0.7340869643448794,0.14076070679844266,70.87378640776699,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Competibacterales,0.0015054126332583583,0,10.679611650485436,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Coxiellales,0.011016590824119002,0,28.155339805825243,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,D90,9.97646804434863e-4,0,11.650485436893204,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Diplorickettsiales,0.06035960955133956,0.010916831935372356,74.75728155339806,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,EC3,0.005896725897750445,0,28.155339805825243,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,EPR3968-O8a-Bc78,0.16154011581731084,0.06104023661415356,83.49514563106796,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,EV818SWSAP88,1.5980378003081276e-4,0,3.8834951456310676,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Ectothiorhodospirales,0.4324003815976986,0.1266342366575548,97.0873786407767,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Enterobacterales,0.558132433708391,0.016820365806390274,76.69902912621359,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,FGL7S,2.64291404505252e-4,0,1.9417475728155338,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Francisellales,2.0298606180703654e-4,0,3.8834951456310676,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Ga0077536,0.008166548967911027,0,37.86407766990291,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Gammaproteobacteria Incertae Sedis,0.47514082869860863,0.22286325362377446,89.32038834951457,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Granulosicoccales,0.018145872471303497,0.0029707529373319665,51.45631067961165,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,HOC36,0.23387532204421366,0.08214869696519242,84.46601941747572,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Halothiobacillales,0.007056810129899687,0,19.41747572815534,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,JTB23,0.020984719010119387,0,32.038834951456316,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Legionellales,0.051598444405044123,0.01763979537837361,80.58252427184466,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Methylococcales,5.980733538854337e-4,0,7.766990291262135,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Milano-WF1B-44,0.0410671151405399,0,30.097087378640776,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Nitrococcales,0.06650522698288065,0.026746549695089335,75.72815533980582,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Nitrosococcales,0.22217386055441213,0.06728446034804417,89.32038834951457,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,PLTA13,3.261499029777829e-4,0,3.8834951456310676,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Piscirickettsiales,3.319600476473247e-4,0,2.912621359223301,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Pseudomonadales,1.3962260551775165,0.864517239490835,99.02912621359224,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,R7C24,0.0022127904925782174,0,11.650485436893204,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Run-SP154,0.005589121063866582,0,22.330097087378643,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,SS1-B-04-55,0.002730733277368286,0,17.475728155339805,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,SS1-B-09-64,6.128501259527462e-4,0,2.912621359223301,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,SZB50,0.01632896620676576,0,23.300970873786408,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,SZB7,2.54073854755972e-4,0,1.9417475728155338,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Salinisphaerales,0.0194128131367476,0,30.097087378640776,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Steroidobacterales,0.5099148971255465,0.1953287571652914,94.1747572815534,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Tenderiales,0.009621893003099404,0,41.74757281553398,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Thiohalorhabdales,0.053339883328404974,0.013479632275631521,64.07766990291263,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Thiomicrospirales,0.01061120242138769,0,26.21359223300971,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Thiotrichales,0.07019059163177087,0.007195477128661984,61.165048543689316,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,UBA10353 marine group,0.015771716200818093,0,47.57281553398058,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,UBA4486,0.0013784808174423769,0,4.854368932038835,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Unclassified order,0.9119723491939241,0.47203907738812345,100,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,WN-HWB-116,0.0026168932197976,0,10.679611650485436,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,Xanthomonadales,0.04085247560567316,0,33.00970873786408,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,pItb-vmat-80,0.0020804716312873696,0,16.50485436893204,103
+Prokaryotic,Proteobacteria,Gammaproteobacteria,sediment-surface35,1.7321060712848475e-4,0,4.854368932038835,103
+Prokaryotic,Proteobacteria,Unclassified class,Unclassified order,3.6099146026183853e-4,0,6.796116504854369,103
+Prokaryotic,Proteobacteria,Zetaproteobacteria,Mariprofundales,0.014370782559277496,0,44.66019417475729,103
+Prokaryotic,SAR324 clade(Marine group B),Unclassified class,Unclassified order,0.0406811763414754,0.017230020777377997,73.7864077669903,103
+Prokaryotic,Schekmanbacteria,Unclassified class,Unclassified order,0.019385428051376358,0,15.53398058252427,103
+Prokaryotic,Spirochaetota,Brachyspirae,Brachyspirales,6.035721023163694e-5,0,1.9417475728155338,103
+Prokaryotic,Spirochaetota,Leptospirae,Leptospirales,0.002128415468621721,0,16.50485436893204,103
+Prokaryotic,Spirochaetota,MVP-15,Unclassified order,2.670324441756559e-4,0,6.796116504854369,103
+Prokaryotic,Spirochaetota,Spirochaetia,Spirochaetales,0.12585946970935274,0.04891476362659812,87.37864077669903,103
+Prokaryotic,Spirochaetota,V2072-189E03,Unclassified order,2.3620498024544252e-4,0,4.854368932038835,103
+Prokaryotic,Sumerlaeota,Sumerlaeia,Sumerlaeales,0.11617908121888594,0.08925133084154492,93.20388349514563,103
+Prokaryotic,Sumerlaeota,Sumerlaeia,Unclassified order,0.127914293872594,0.08759550343082387,93.20388349514563,103
+Prokaryotic,Sva0485,Unclassified class,Unclassified order,0.006149251198026354,0,31.06796116504854,103
+Prokaryotic,TX1A-33,Unclassified class,Unclassified order,9.965801204079026e-4,0,11.650485436893204,103
+Prokaryotic,Thermoplasmatota,Thermoplasmata,JdFR-43,2.3509991907479528e-4,0,1.9417475728155338,103
+Prokaryotic,Thermoplasmatota,Thermoplasmata,Marine Benthic Group D and DHVEG-1,0.0209849491906186,0,12.62135922330097,103
+Prokaryotic,Thermoplasmatota,Thermoplasmata,Marine Group II,0.0019574124295340294,0,18.446601941747574,103
+Prokaryotic,Thermoplasmatota,Thermoplasmata,Unclassified order,0.0040869548022751424,0,9.70873786407767,103
+Prokaryotic,Thermotogota,Thermotogae,Kosmotogales,0.001990751782172441,0,9.70873786407767,103
+Prokaryotic,Thermotogota,Thermotogae,Petrotogales,1.302404777022492e-4,0,2.912621359223301,103
+Prokaryotic,Unclassified_Phylum,Unclassified class,Unclassified order,0.36564684256221436,0.07980159133761548,96.11650485436894,103
+Prokaryotic,Verrucomicrobiota,Chlamydiae,Chlamydiales,0.002717410445770507,0,16.50485436893204,103
+Prokaryotic,Verrucomicrobiota,Kiritimatiellae,WCHB1-41,1.8327192692846732e-4,0,4.854368932038835,103
+Prokaryotic,Verrucomicrobiota,Verrucomicrobiae,Chthoniobacterales,0.04936081817335867,0.007408740196649132,66.01941747572816,103
+Prokaryotic,Verrucomicrobiota,Verrucomicrobiae,Methylacidiphilales,0.0011071667798531906,0,2.912621359223301,103
+Prokaryotic,Verrucomicrobiota,Verrucomicrobiae,Opitutales,0.12236726406181216,0.0910216652731179,94.1747572815534,103
+Prokaryotic,Verrucomicrobiota,Verrucomicrobiae,Pedosphaerales,0.012985918944424526,0,46.601941747572816,103
+Prokaryotic,Verrucomicrobiota,Verrucomicrobiae,S-BQ2-57 soil group,6.551460899863981e-4,0,10.679611650485436,103
+Prokaryotic,Verrucomicrobiota,Verrucomicrobiae,Verrucomicrobiales,0.3049821442725454,0.11081520670610735,98.05825242718447,103
+Prokaryotic,WOR-1,Unclassified class,Unclassified order,5.143994381616734e-4,0,3.8834951456310676,103
+Prokaryotic,WPS-2,Unclassified class,Unclassified order,0.018521036379963204,0.006288404182687125,62.13592233009708,103
+Prokaryotic,WS2,Unclassified class,Unclassified order,0.013212700118768968,0,38.83495145631068,103
+Prokaryotic,Zixibacteria,Unclassified class,Unclassified order,0.19099499198826195,0.07786762503743637,75.72815533980582,103
+Fungal,Aphelidiomycota,Aphelidiomycetes,Aphelidiomycetes_ord_Incertae_sedis,0.0050238333913880575,0,8.045977011494253,87
+Fungal,Aphelidiomycota,Aphelidiomycetes,GS16,0.004985629043787184,0,10.344827586206897,87
+Fungal,Aphelidiomycota,Aphelidiomycetes,Unclassified order,1.7354006814571397e-4,0,1.1494252873563218,87
+Fungal,Ascomycota,Arthoniomycetes,Arthoniales,9.006391453551392e-4,0,1.1494252873563218,87
+Fungal,Ascomycota,Arthoniomycetes,Lichenostigmatales,0.002039230630481496,0,1.1494252873563218,87
+Fungal,Ascomycota,Candelariomycetes,Candelariales,5.702478621213242e-4,0,1.1494252873563218,87
+Fungal,Ascomycota,Dothideomycetes,Aulographales,0.0014812818186602653,0,3.4482758620689653,87
+Fungal,Ascomycota,Dothideomycetes,Botryosphaeriales,6.139129404043727e-4,0,2.2988505747126435,87
+Fungal,Ascomycota,Dothideomycetes,Capnodiales,0.01002006729468814,0,17.24137931034483,87
+Fungal,Ascomycota,Dothideomycetes,Cladosporiales,0.6140664709905422,0.18086530519240082,87.356321839080465,87
+Fungal,Ascomycota,Dothideomycetes,Coniosporiales,0.00962627814849135,0,5.747126436781609,87
+Fungal,Ascomycota,Dothideomycetes,Dothideales,0.002206079748138416,0,11.494252873563218,87
+Fungal,Ascomycota,Dothideomycetes,Dothideomycetes_ord_Incertae_sedis,0.009460141395826738,0,16.091954022988507,87
+Fungal,Ascomycota,Dothideomycetes,Kirschsteiniotheliales,3.2596615510567615e-4,0,1.1494252873563218,87
+Fungal,Ascomycota,Dothideomycetes,Microthyriales,2.291460614231746e-4,0,1.1494252873563218,87
+Fungal,Ascomycota,Dothideomycetes,Mycosphaerellales,1.825163286587193,0.5314491046894344,86.20689655172413,87
+Fungal,Ascomycota,Dothideomycetes,Neophaeothecales,0.9562223150376519,0.11510688920665246,58.620689655172406,87
+Fungal,Ascomycota,Dothideomycetes,Pleosporales,16.159368348967256,11.963819332752946,100,87
+Fungal,Ascomycota,Dothideomycetes,Unclassified order,1.508675250746315,0.9959199031123969,87.356321839080465,87
+Fungal,Ascomycota,Dothideomycetes,Valsariales,2.0754492206065543e-5,0,1.1494252873563218,87
+Fungal,Ascomycota,Dothideomycetes,Venturiales,0.0035810946764083624,0,18.39080459770115,87
+Fungal,Ascomycota,Eurotiomycetes,Arachnomycetales,0.0067264680618901364,0,9.195402298850574,87
+Fungal,Ascomycota,Eurotiomycetes,Ascosphaerales,0.0015059884996265354,0,3.4482758620689653,87
+Fungal,Ascomycota,Eurotiomycetes,Chaetothyriales,1.256195773254725,0.8854699265594497,86.20689655172413,87
+Fungal,Ascomycota,Eurotiomycetes,Eurotiales,6.592075962103104,1.7417521800238787,95.40229885057471,87
+Fungal,Ascomycota,Eurotiomycetes,Mycocaliciales,6.146399802927016e-4,0,1.1494252873563218,87
+Fungal,Ascomycota,Eurotiomycetes,Onygenales,0.26378607719314,0.04628008947483966,60.91954022988506,87
+Fungal,Ascomycota,Eurotiomycetes,Phaeomoniellales,1.071625291214172e-4,0,1.1494252873563218,87
+Fungal,Ascomycota,Eurotiomycetes,Unclassified order,0.08057190746764029,0,43.67816091954023,87
+Fungal,Ascomycota,Laboulbeniomycetes,Pyxidiophorales,0.09382309542903597,0,6.896551724137931,87
+Fungal,Ascomycota,Lecanoromycetes,Lecanorales,0.006858207777683169,0,11.494252873563218,87
+Fungal,Ascomycota,Lecanoromycetes,Ostropales,2.0057751545053904e-4,0,1.1494252873563218,87
+Fungal,Ascomycota,Lecanoromycetes,Teloschistales,0.030225535060762462,0,22.988505747126435,87
+Fungal,Ascomycota,Leotiomycetes,Chaetomellales,0.004711725077197145,0,11.494252873563218,87
+Fungal,Ascomycota,Leotiomycetes,Helotiales,0.19523354085294342,0.06287079480115682,67.81609195402298,87
+Fungal,Ascomycota,Leotiomycetes,Phacidiales,0.001525872951054567,0,2.2988505747126435,87
+Fungal,Ascomycota,Leotiomycetes,Thelebolales,0.5673025312261816,0.18938921976625384,73.5632183908046,87
+Fungal,Ascomycota,Leotiomycetes,Unclassified order,0.020630771639792062,0,22.988505747126435,87
+Fungal,Ascomycota,Lichinomycetes,Lichinales,0.003649326417940153,0,1.1494252873563218,87
+Fungal,Ascomycota,Orbiliomycetes,Orbiliales,1.4039251751925085e-4,0,2.2988505747126435,87
+Fungal,Ascomycota,Pezizomycetes,Pezizales,0.1926357858269008,0,32.18390804597701,87
+Fungal,Ascomycota,Pezizomycotina_cls_Incertae_sedis,Pezizomycotina_ord_Incertae_sedis,0.09905355936007927,0,35.63218390804598,87
+Fungal,Ascomycota,Saccharomycetes,Saccharomycetales,0.34702860790186457,0.03248555869254486,63.2183908045977,87
+Fungal,Ascomycota,Sareomycetes,Sareales,0.00430405799323755,0,4.597701149425287,87
+Fungal,Ascomycota,Sordariomycetes,Amphisphaeriales,0.03962079029066668,0,36.7816091954023,87
+Fungal,Ascomycota,Sordariomycetes,Amplistromatales,0.005627750246421142,0,4.597701149425287,87
+Fungal,Ascomycota,Sordariomycetes,Boliniales,1.2544634183400032e-4,0,1.1494252873563218,87
+Fungal,Ascomycota,Sordariomycetes,Calosphaeriales,6.547752925781554e-5,0,1.1494252873563218,87
+Fungal,Ascomycota,Sordariomycetes,Cephalothecales,0.005115152406433032,0,14.942528735632186,87
+Fungal,Ascomycota,Sordariomycetes,Chaetosphaeriales,0.007262817310865097,0,22.988505747126435,87
+Fungal,Ascomycota,Sordariomycetes,Coniochaetales,0.002826558654170578,0,8.045977011494253,87
+Fungal,Ascomycota,Sordariomycetes,Conioscyphales,9.684499824828504e-4,0,3.4482758620689653,87
+Fungal,Ascomycota,Sordariomycetes,Diaporthales,0.0018199139075555787,0,5.747126436781609,87
+Fungal,Ascomycota,Sordariomycetes,Glomerellales,0.5632794140415808,0.2857325356101092,91.95402298850574,87
+Fungal,Ascomycota,Sordariomycetes,Hypocreales,11.0003408850361,8.730589543937702,98.85057471264368,87
+Fungal,Ascomycota,Sordariomycetes,Microascales,4.540763176442086,1.035683119324121,78.16091954022988,87
+Fungal,Ascomycota,Sordariomycetes,Myrmecridiales,0.0029122600035721624,0,12.643678160919542,87
+Fungal,Ascomycota,Sordariomycetes,Ophiostomatales,0.02463903874622061,0,14.942528735632186,87
+Fungal,Ascomycota,Sordariomycetes,Pararamichloridiales,1.8393428467324468e-4,0,5.747126436781609,87
+Fungal,Ascomycota,Sordariomycetes,Phomatosporales,0.0057463854817007476,0,32.18390804597701,87
+Fungal,Ascomycota,Sordariomycetes,Savoryellales,0.001033416916552279,0,5.747126436781609,87
+Fungal,Ascomycota,Sordariomycetes,Sordariales,0.12761739240832362,0.02221199254449642,60.91954022988506,87
+Fungal,Ascomycota,Sordariomycetes,Sporidesmiales,6.57747825403471e-5,0,1.1494252873563218,87
+Fungal,Ascomycota,Sordariomycetes,Togniniales,2.236402427684445e-4,0,2.2988505747126435,87
+Fungal,Ascomycota,Sordariomycetes,Unclassified order,2.651745662134296,0.5104751345483103,90.80459770114942,87
+Fungal,Ascomycota,Sordariomycetes,Xylariales,0.5588626645758072,0.10836218300543218,79.3103448275862,87
+Fungal,Ascomycota,Taphrinomycetes,Taphrinales,0.0039221535200927105,0,10.344827586206897,87
+Fungal,Ascomycota,Unclassified class,Unclassified order,9.95705821727422,6.461255461025524,98.85057471264368,87
+Fungal,Basidiomycota,Agaricomycetes,Agaricales,4.233699382185768,3.6787120800171373,91.95402298850574,87
+Fungal,Basidiomycota,Agaricomycetes,Atheliales,0.0072905876947093225,0,11.494252873563218,87
+Fungal,Basidiomycota,Agaricomycetes,Auriculariales,0.0017041351809265275,0,4.597701149425287,87
+Fungal,Basidiomycota,Agaricomycetes,Boletales,0.10007391102899378,0,42.5287356321839,87
+Fungal,Basidiomycota,Agaricomycetes,Cantharellales,0.10408412341189285,0,29.88505747126437,87
+Fungal,Basidiomycota,Agaricomycetes,Corticiales,0.002115238215805622,0,2.2988505747126435,87
+Fungal,Basidiomycota,Agaricomycetes,Geastrales,9.24086635966545e-4,0,6.896551724137931,87
+Fungal,Basidiomycota,Agaricomycetes,Hymenochaetales,0.03203837525578098,0,25.287356321839084,87
+Fungal,Basidiomycota,Agaricomycetes,Phallales,1.779220995584135e-4,0,1.1494252873563218,87
+Fungal,Basidiomycota,Agaricomycetes,Polyporales,0.30009149025806414,0.0967542184839259,66.66666666666666,87
+Fungal,Basidiomycota,Agaricomycetes,Russulales,0.07822607451568288,0,39.08045977011494,87
+Fungal,Basidiomycota,Agaricomycetes,Sebacinales,7.63576299841142e-4,0,1.1494252873563218,87
+Fungal,Basidiomycota,Agaricomycetes,Thelephorales,0.005896123416517384,0,5.747126436781609,87
+Fungal,Basidiomycota,Agaricomycetes,Trechisporales,0.10644123346922818,0.013626588881555135,51.724137931034484,87
+Fungal,Basidiomycota,Agaricomycetes,Unclassified order,0.09117588703612951,0,45.97701149425287,87
+Fungal,Basidiomycota,Agaricostilbomycetes,Agaricostilbales,0.8786059345011014,0.08520306731042318,62.06896551724138,87
+Fungal,Basidiomycota,Agaricostilbomycetes,Agaricostilbomycetes_ord_Incertae_sedis,0.001500699247907615,0,4.597701149425287,87
+Fungal,Basidiomycota,Atractiellomycetes,Atractiellales,2.940527038680764e-4,0,1.1494252873563218,87
+Fungal,Basidiomycota,Cystobasidiomycetes,Buckleyzymales,0.0043115398064844015,0,4.597701149425287,87
+Fungal,Basidiomycota,Cystobasidiomycetes,Cystobasidiales,0.10130557347093,0,34.48275862068966,87
+Fungal,Basidiomycota,Cystobasidiomycetes,Cystobasidiomycetes_ord_Incertae_sedis,2.9442776752555555,0.685448561161941,82.75862068965517,87
+Fungal,Basidiomycota,Cystobasidiomycetes,Erythrobasidiales,0.13562340933004752,0.018658288493252923,54.02298850574713,87
+Fungal,Basidiomycota,Cystobasidiomycetes,Sakaguchiales,0.003768673637417819,0,2.2988505747126435,87
+Fungal,Basidiomycota,Cystobasidiomycetes,Unclassified order,0.034615608621535766,0,20.689655172413794,87
+Fungal,Basidiomycota,Exobasidiomycetes,Entylomatales,1.1048463168243402e-4,0,1.1494252873563218,87
+Fungal,Basidiomycota,Exobasidiomycetes,Georgefischeriales,4.4051472677441156e-5,0,1.1494252873563218,87
+Fungal,Basidiomycota,Exobasidiomycetes,Tilletiales,0.0026123802399857865,0,6.896551724137931,87
+Fungal,Basidiomycota,Exobasidiomycetes,Unclassified order,3.1989095439115045e-4,0,2.2988505747126435,87
+Fungal,Basidiomycota,Malasseziomycetes,Malasseziales,0.12248009980065389,0,21.839080459770116,87
+Fungal,Basidiomycota,Microbotryomycetes,Leucosporidiales,0.0015295348141242896,0,1.1494252873563218,87
+Fungal,Basidiomycota,Microbotryomycetes,Microbotryales,0.016171573695734336,0,12.643678160919542,87
+Fungal,Basidiomycota,Microbotryomycetes,Microbotryomycetes_ord_Incertae_sedis,0.5716700383950643,0,31.03448275862069,87
+Fungal,Basidiomycota,Microbotryomycetes,Sporidiobolales,0.02152763306273652,0,28.735632183908045,87
+Fungal,Basidiomycota,Microbotryomycetes,Unclassified order,0.025626147271070758,0,17.24137931034483,87
+Fungal,Basidiomycota,Tremellomycetes,Cystofilobasidiales,0.06705379325730322,0,33.33333333333333,87
+Fungal,Basidiomycota,Tremellomycetes,Filobasidiales,0.17072040577423184,0.04508130735791338,64.36781609195403,87
+Fungal,Basidiomycota,Tremellomycetes,Holtermanniales,0.007607497032649929,0,10.344827586206897,87
+Fungal,Basidiomycota,Tremellomycetes,Tremellales,0.3567234036540037,0.13337837523006316,73.5632183908046,87
+Fungal,Basidiomycota,Tremellomycetes,Trichosporonales,0.0178892003281149,0,18.39080459770115,87
+Fungal,Basidiomycota,Tremellomycetes,Unclassified order,0.5768080234899606,0.12898797690050176,79.3103448275862,87
+Fungal,Basidiomycota,Tritirachiomycetes,Tritirachiales,9.06750238275797e-4,0,4.597701149425287,87
+Fungal,Basidiomycota,Unclassified class,Unclassified order,10.901746075849958,7.753892817465215,100,87
+Fungal,Basidiomycota,Ustilaginomycetes,Urocystidales,0.0025071383011043297,0,10.344827586206897,87
+Fungal,Basidiomycota,Ustilaginomycetes,Ustilaginales,0.3934333445875288,0.09789297035241468,79.3103448275862,87
+Fungal,Basidiomycota,Wallemiomycetes,Wallemiales,0.10834538561344338,0,40.229885057471265,87
+Fungal,Chytridiomycota,Chytridiomycetes,Chytridiales,0.09866971339776394,0,8.045977011494253,87
+Fungal,Chytridiomycota,Chytridiomycetes,Chytridiomycetes_ord_Incertae_sedis,2.575990334884261e-4,0,1.1494252873563218,87
+Fungal,Chytridiomycota,Chytridiomycetes,Zygophlyctidales,3.4403878141639173e-4,0,5.747126436781609,87
+Fungal,Chytridiomycota,GS13,GS13_ord_Incertae_sedis,0.054765817998517576,0,20.689655172413794,87
+Fungal,Chytridiomycota,Lobulomycetes,Lobulomycetales,4.770477445717323e-4,0,2.2988505747126435,87
+Fungal,Chytridiomycota,Rhizophlyctidomycetes,Rhizophlyctidales,0.001414157824617461,0,1.1494252873563218,87
+Fungal,Chytridiomycota,Rhizophydiomycetes,Rhizophydiales,0.001091822277743217,0,2.2988505747126435,87
+Fungal,Chytridiomycota,Spizellomycetes,Spizellomycetales,0.05056304198164817,0,17.24137931034483,87
+Fungal,Chytridiomycota,Unclassified class,Unclassified order,5.955868491387779e-4,0,2.2988505747126435,87
+Fungal,Entorrhizomycota,Entorrhizomycetes,Entorrhizales,2.6778773323307368e-5,0,1.1494252873563218,87
+Fungal,Fungi_phy_Incertae_sedis,Fungi_cls_Incertae_sedis,Fungi_ord_Incertae_sedis,2.443335911566458e-4,0,2.2988505747126435,87
+Fungal,Glomeromycota,Glomeromycetes,Glomerales,0.00311072538891872,0,5.747126436781609,87
+Fungal,Kickxellomycota,Kickxellomycetes,Kickxellales,1.8074713999281708e-6,0,1.1494252873563218,87
+Fungal,Monoblepharomycota,Hyaloraphidiomycetes,Hyaloraphidiales,4.090287133980636e-4,0,2.2988505747126435,87
+Fungal,Mortierellomycota,Mortierellomycetes,Mortierellales,0.10067030356980641,0.004659506558255481,54.02298850574713,87
+Fungal,Mucoromycota,Umbelopsidomycetes,Umbelopsidales,1.084482839956903e-5,0,1.1494252873563218,87
+Fungal,Rozellomycota,Rozellomycota_cls_Incertae_sedis,Rozellomycota_ord_Incertae_sedis,0.020054800149936703,0,22.988505747126435,87
+Fungal,Rozellomycota,Rozellomycotina_cls_Incertae_sedis,Branch03,0.002450009462356212,0,6.896551724137931,87
+Fungal,Rozellomycota,Rozellomycotina_cls_Incertae_sedis,GS10,0.0012273745570699189,0,4.597701149425287,87
+Fungal,Rozellomycota,Rozellomycotina_cls_Incertae_sedis,GS11,0.11123068822301403,0,44.827586206896555,87
+Fungal,Rozellomycota,Unclassified class,Unclassified order,7.686521121535165e-5,0,1.1494252873563218,87
+Fungal,Unclassified fungi,Unclassified class,Unclassified fungi,16.631981994027697,11.278179104152363,100,87

@@ -1,0 +1,3 @@
+"Dataset","Samples","Common_depth","Median_observed_ASVs","Median_expected_ASVs_common_depth","Median_percent_recovered","Q1_percent_recovered","Q3_percent_recovered","Min_percent_recovered","Max_percent_recovered"
+"16S",103,20549,1763,1536.37320972094,88.4665179325969,84.0823631324386,94.0035037441532,60.5225651686828,100
+"ITS",87,8698,314,259.45956095443,88.4148212601943,79.8327674136112,95.1967839927731,43.8964330446686,100

@@ -1,0 +1,37 @@
+"Hypothesis","Kingdom","Dataset","Model","Term","n","df","pseudo_F","R2","R2_percent","p_value","p_display","Inference"
+"H1","Prokaryotic","Bulk soil: Natural, BESE, BARE, Degraded","Site + ecological condition","Site",58,2,9.7977,0.2428,24.28,NA,"—","Descriptive contribution"
+"H1","Prokaryotic","Bulk soil: Natural, BESE, BARE, Degraded","Site + ecological condition","Ecological condition",58,3,3.0369,0.11289,11.289,1e-04,"<0.001","Primary test"
+"H1","Prokaryotic","Bulk soil: Natural, BESE, BARE, Degraded","Site + ecological condition","Residual",58,52,NA,0.64431,64.431,NA,"—",NA
+"H1","Prokaryotic","Bulk soil: Natural, BESE, BARE, Degraded","Site + ecological condition","Whole model",58,5,NA,0.35569,35.569,NA,"—","Total variance explained"
+"H1","Prokaryotic","Bulk soil: Natural, BESE, BARE, Degraded","Site + ecological condition","Total",58,57,NA,1,100,NA,"—",NA
+"H1","Fungal","Bulk soil: Natural, BESE, BARE, Degraded","Site + ecological condition","Site",46,2,4.0828,0.14865,14.865,NA,"—","Descriptive contribution"
+"H1","Fungal","Bulk soil: Natural, BESE, BARE, Degraded","Site + ecological condition","Ecological condition",46,3,2.2555,0.12318,12.318,1e-04,"<0.001","Primary test"
+"H1","Fungal","Bulk soil: Natural, BESE, BARE, Degraded","Site + ecological condition","Residual",46,40,NA,0.72817,72.817,NA,"—",NA
+"H1","Fungal","Bulk soil: Natural, BESE, BARE, Degraded","Site + ecological condition","Whole model",46,5,NA,0.27183,27.183,NA,"—","Total variance explained"
+"H1","Fungal","Bulk soil: Natural, BESE, BARE, Degraded","Site + ecological condition","Total",46,45,NA,1,100,NA,"—",NA
+"H2","Prokaryotic","Rhizosphere: Natural, BESE, BARE","Site + ecological condition","Site",45,2,9.015,0.29017,29.017,NA,"—","Descriptive contribution"
+"H2","Prokaryotic","Rhizosphere: Natural, BESE, BARE","Site + ecological condition","Ecological condition",45,2,2.0531,0.06608,6.608,1e-04,"<0.001","Primary test"
+"H2","Prokaryotic","Rhizosphere: Natural, BESE, BARE","Site + ecological condition","Residual",45,40,NA,0.64375,64.375,NA,"—",NA
+"H2","Prokaryotic","Rhizosphere: Natural, BESE, BARE","Site + ecological condition","Whole model",45,4,NA,0.35625,35.625,NA,"—","Total variance explained"
+"H2","Prokaryotic","Rhizosphere: Natural, BESE, BARE","Site + ecological condition","Total",45,44,NA,1,100,NA,"—",NA
+"H2","Fungal","Rhizosphere: Natural, BESE, BARE","Site + ecological condition","Site",41,2,3.5575,0.15146,15.146,NA,"—","Descriptive contribution"
+"H2","Fungal","Rhizosphere: Natural, BESE, BARE","Site + ecological condition","Ecological condition",41,2,1.931,0.08221,8.221,1e-04,"<0.001","Primary test"
+"H2","Fungal","Rhizosphere: Natural, BESE, BARE","Site + ecological condition","Residual",41,36,NA,0.76633,76.633,NA,"—",NA
+"H2","Fungal","Rhizosphere: Natural, BESE, BARE","Site + ecological condition","Whole model",41,4,NA,0.23367,23.367,NA,"—","Total variance explained"
+"H2","Fungal","Rhizosphere: Natural, BESE, BARE","Site + ecological condition","Total",41,40,NA,1,100,NA,"—",NA
+"H3","Prokaryotic","Paired bulk soil–rhizosphere","Full interaction model","Site",88,2,9.043,0.1587,15.87,NA,"—","Descriptive between-plot contribution"
+"H3","Prokaryotic","Paired bulk soil–rhizosphere","Full interaction model","Ecological condition",88,2,3.4871,0.0612,6.12,NA,"—","Descriptive between-plot contribution"
+"H3","Prokaryotic","Paired bulk soil–rhizosphere","Full interaction model","Soil habitat",88,1,5.3858,0.04726,4.726,1e-04,"<0.001","Term in full interaction model"
+"H3","Prokaryotic","Paired bulk soil–rhizosphere","Full interaction model","Ecological condition × soil habitat",88,2,1.7588,0.03087,3.087,0.0065,"0.0065","Primary H3 interaction"
+"H3","Prokaryotic","Paired bulk soil–rhizosphere","Full interaction model","Residual",88,80,NA,0.70198,70.198,NA,"—",NA
+"H3","Prokaryotic","Paired bulk soil–rhizosphere","Full interaction model","Whole model",88,7,NA,0.29803,29.803,NA,"—","Total variance explained"
+"H3","Prokaryotic","Paired bulk soil–rhizosphere","Full interaction model","Total",88,87,NA,1,100,NA,"—",NA
+"H3","Fungal","Paired bulk soil–rhizosphere","Full interaction model","Site",68,2,4.163429,0.10507934,10.507934,NA,"—","Descriptive between-plot contribution"
+"H3","Fungal","Paired bulk soil–rhizosphere","Full interaction model","Ecological condition",68,2,2.663731,0.067229,6.7229,NA,"—","Descriptive between-plot contribution"
+"H3","Fungal","Paired bulk soil–rhizosphere","Full interaction model","Soil habitat",68,1,2.546394,0.03213378,3.213378,1e-04,"<0.001","Term in full interaction model"
+"H3","Fungal","Paired bulk soil–rhizosphere","Full interaction model","Ecological condition × soil habitat",68,2,1.521403,0.03839818,3.839818,0.0021,"0.0021","Primary H3 interaction"
+"H3","Fungal","Paired bulk soil–rhizosphere","Full interaction model","Residual",68,60,NA,0.7571597,75.71597,NA,"—",NA
+"H3","Fungal","Paired bulk soil–rhizosphere","Full interaction model","Whole model",68,7,NA,0.2428403,24.28403,NA,"—","Total variance explained"
+"H3","Fungal","Paired bulk soil–rhizosphere","Full interaction model","Total",68,67,NA,1,100,NA,"—",NA
+"H3","Prokaryotic","Paired bulk soil–rhizosphere","Primary overall soil-habitat model","Soil habitat",88,1,5.287957,0.04725911,4.725911,1e-04,"<0.001","Primary overall BS–RZ test"
+"H3","Fungal","Paired bulk soil–rhizosphere","Primary overall soil-habitat model","Soil habitat",68,1,2.504273,0.03213378,3.213378,1e-04,"<0.001","Primary overall BS–RZ test"

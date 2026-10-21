@@ -1,0 +1,43 @@
+Analysis,Community,Soil_habitat,Term,VIF,High_VIF_10
+Bulk soil prokaryotic,Prokaryotic,BS,SiteBASS,2.536681303605039,FALSE
+Bulk soil prokaryotic,Prokaryotic,BS,SiteTRUG,2.0268608939117847,FALSE
+Bulk soil prokaryotic,Prokaryotic,BS,TreatmentBESE,4.312246056302644,FALSE
+Bulk soil prokaryotic,Prokaryotic,BS,TreatmentBARE,7.073920689286594,FALSE
+Bulk soil prokaryotic,Prokaryotic,BS,TreatmentDegraded,8.105338230566987,FALSE
+Bulk soil prokaryotic,Prokaryotic,BS,Moisture_z,2.7785066978748745,FALSE
+Bulk soil prokaryotic,Prokaryotic,BS,Temperature_z,6.26084236751398,FALSE
+Bulk soil prokaryotic,Prokaryotic,BS,pH_z,3.6350725531812826,FALSE
+Bulk soil prokaryotic,Prokaryotic,BS,NH4_log_z,6.261762981980792,FALSE
+Bulk soil prokaryotic,Prokaryotic,BS,PO4_log_z,1.989751766094028,FALSE
+Bulk soil prokaryotic,Prokaryotic,BS,Redox_z,1.4361018421604919,FALSE
+Bulk soil fungal,Fungal,BS,SiteBASS,2.895866201792174,FALSE
+Bulk soil fungal,Fungal,BS,SiteTRUG,1.5555252683791823,FALSE
+Bulk soil fungal,Fungal,BS,TreatmentBESE,3.9177363112667027,FALSE
+Bulk soil fungal,Fungal,BS,TreatmentBARE,6.464980591032694,FALSE
+Bulk soil fungal,Fungal,BS,TreatmentDegraded,7.054603955058487,FALSE
+Bulk soil fungal,Fungal,BS,Moisture_z,1.5661327715959457,FALSE
+Bulk soil fungal,Fungal,BS,Temperature_z,7.990096447715721,FALSE
+Bulk soil fungal,Fungal,BS,pH_z,3.3996075094708016,FALSE
+Bulk soil fungal,Fungal,BS,NH4_log_z,5.823994196866846,FALSE
+Bulk soil fungal,Fungal,BS,PO4_log_z,2.435571776423453,FALSE
+Bulk soil fungal,Fungal,BS,Redox_z,1.5321377298841106,FALSE
+Rhizosphere prokaryotic,Prokaryotic,RZ,SiteBASS,2.8805628412923263,FALSE
+Rhizosphere prokaryotic,Prokaryotic,RZ,SiteTRUG,1.9201742300799987,FALSE
+Rhizosphere prokaryotic,Prokaryotic,RZ,TreatmentBESE,4.272344463913842,FALSE
+Rhizosphere prokaryotic,Prokaryotic,RZ,TreatmentBARE,7.743454654602946,FALSE
+Rhizosphere prokaryotic,Prokaryotic,RZ,Moisture_z,2.082747799781685,FALSE
+Rhizosphere prokaryotic,Prokaryotic,RZ,Temperature_z,5.9145847898530555,FALSE
+Rhizosphere prokaryotic,Prokaryotic,RZ,pH_z,3.994786934087575,FALSE
+Rhizosphere prokaryotic,Prokaryotic,RZ,NH4_log_z,7.058165247990656,FALSE
+Rhizosphere prokaryotic,Prokaryotic,RZ,PO4_log_z,2.0173745998130435,FALSE
+Rhizosphere prokaryotic,Prokaryotic,RZ,Redox_z,1.749143614340135,FALSE
+Rhizosphere fungal,Fungal,RZ,SiteBASS,2.9650768581161033,FALSE
+Rhizosphere fungal,Fungal,RZ,SiteTRUG,2.2121969193989677,FALSE
+Rhizosphere fungal,Fungal,RZ,TreatmentBESE,4.050643000374949,FALSE
+Rhizosphere fungal,Fungal,RZ,TreatmentBARE,8.833689529778367,FALSE
+Rhizosphere fungal,Fungal,RZ,Moisture_z,1.986118565802021,FALSE
+Rhizosphere fungal,Fungal,RZ,Temperature_z,7.770646029190699,FALSE
+Rhizosphere fungal,Fungal,RZ,pH_z,4.420751569781421,FALSE
+Rhizosphere fungal,Fungal,RZ,NH4_log_z,7.356168666182866,FALSE
+Rhizosphere fungal,Fungal,RZ,PO4_log_z,2.00396195306375,FALSE
+Rhizosphere fungal,Fungal,RZ,Redox_z,2.009048764070522,FALSE

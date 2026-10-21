@@ -39,4 +39,4 @@ Raw reads: NCBI SRA [BioProject PRJNA1446205](https://www.ncbi.nlm.nih.gov/biopr
 
 ## Data and reproducibility
 
-The available R scripts and DADA2/Krona assets are committed. **The transfer of the latest local analysis inputs and outputs is still in progress**, and the complete set of scripts has not been rerun from this repository. Some older DADA2-derived data files under `tables/` also require cross-checking against the final analysis-ready datasets. This README will be updated when the local, Gandalf and Gadi files have been synced.
+The available R scripts and DADA2/Krona assets are committed. **Local analysis inputs and outputs are now included in the repository**, and the complete set of scripts has not been rerun from this repository. Some older DADA2-derived data files under `tables/` also require cross-checking against the final analysis-ready datasets. Additional analysis source files from Gandalf/Gadi, particularly the community assembly workflow, may still need to be added.

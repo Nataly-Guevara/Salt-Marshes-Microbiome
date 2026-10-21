@@ -1,0 +1,4 @@
+"Kingdom","Level","Prevalence_threshold_samples","Taxa_before_prevalence_filter","Taxa_entering_ANCOMBC2","Structural_zero_taxa","Quantitatively_modelled_taxa","BH_significant_global","Robust_global","Robust_BESE_vs_NATURAL","Robust_BARE_vs_NATURAL","Robust_DEGRADED_vs_NATURAL","Robust_BARE_vs_BESE","Robust_DEGRADED_vs_BESE","Robust_DEGRADED_vs_BARE","Unique_robust_pairwise_taxa"
+"Prokaryotes","ASV",6,28358,5489,4092,1397,171,92,9,15,13,0,0,0,18
+"Fungi","Genus",5,593,202,62,140,42,20,0,3,1,0,0,0,4
+"Fungi","ASV",5,6495,519,283,236,51,25,2,2,3,0,0,0,3

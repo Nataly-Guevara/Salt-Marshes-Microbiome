@@ -1,0 +1,9 @@
+Analysis,Test_type,Term,Df,SumOfSqs,F,Pr(>F)
+Bulk soil prokaryotic,overall,Model,6,4.739896777709487,2.777432600155763,1e-4
+Bulk soil prokaryotic,overall,Residual,49,13.937028396581052,NA,NA
+Bulk soil fungal,overall,Model,6,3.853075843502163,1.8686462571158347,1e-4
+Bulk soil fungal,overall,Residual,37,12.71542662383662,NA,NA
+Rhizosphere prokaryotic,overall,Model,6,2.5074184371255246,1.5801733595042486,1e-4
+Rhizosphere prokaryotic,overall,Residual,36,9.520797532919486,NA,NA
+Rhizosphere fungal,overall,Model,6,2.81190725398019,1.3623861692979196,1e-4
+Rhizosphere fungal,overall,Residual,32,11.007773732481951,NA,NA

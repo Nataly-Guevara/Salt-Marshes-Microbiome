@@ -1,0 +1,4 @@
+"model term","Site","df1","df2","F.ratio","p.value"
+"Treatment","ACP",3,34,5.136,0.00488737332774686
+"Treatment","BASS",3,34,0.303,0.822948451055725
+"Treatment","TRUG",3,34,4.342,0.0107742705651007

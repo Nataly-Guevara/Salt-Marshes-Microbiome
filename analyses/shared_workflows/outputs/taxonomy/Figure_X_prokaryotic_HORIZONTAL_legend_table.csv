@@ -1,0 +1,32 @@
+Phylum_plot,Class_plot,Segment_ID,Overall_mean_percent,Segment_rank,Legend_label
+Halobacterota,Halobacteria,Prokaryotic__Halobacterota__Halobacteria,18.28520214327629,1,Halobacterota — Halobacteria
+Actinobacteriota,Actinobacteria,Prokaryotic__Actinobacteriota__Actinobacteria,9.920048092822258,2,Actinobacteriota — Actinobacteria
+Actinobacteriota,Acidimicrobiia,Prokaryotic__Actinobacteriota__Acidimicrobiia,9.826640794296296,3,Actinobacteriota — Acidimicrobiia
+Proteobacteria,Alphaproteobacteria,Prokaryotic__Proteobacteria__Alphaproteobacteria,9.599363898803094,4,Proteobacteria — Alphaproteobacteria
+Other phyla,Other phyla,Prokaryotic__Other phyla__Other phyla,9.266521264522527,5,Other phyla
+Proteobacteria,Gammaproteobacteria,Prokaryotic__Proteobacteria__Gammaproteobacteria,6.761294194564825,6,Proteobacteria — Gammaproteobacteria
+Chloroflexi,Anaerolineae,Prokaryotic__Chloroflexi__Anaerolineae,5.381020996762006,7,Chloroflexi — Anaerolineae
+Bacteroidota,Bacteroidia,Prokaryotic__Bacteroidota__Bacteroidia,3.9858964906962564,8,Bacteroidota — Bacteroidia
+Bacteroidota,Rhodothermia,Prokaryotic__Bacteroidota__Rhodothermia,3.764231590262999,9,Bacteroidota — Rhodothermia
+Chloroflexi,Chloroflexia,Prokaryotic__Chloroflexi__Chloroflexia,3.3523678779680792,10,Chloroflexi — Chloroflexia
+Actinobacteriota,Thermoleophilia,Prokaryotic__Actinobacteriota__Thermoleophilia,2.860972205956075,11,Actinobacteriota — Thermoleophilia
+Gemmatimonadota,PAUC43f marine benthic group,Prokaryotic__Gemmatimonadota__PAUC43f marine benthic group,2.7769289738402625,12,Gemmatimonadota — PAUC43f marine benthic group
+Gemmatimonadota,BD2-11 terrestrial group,Prokaryotic__Gemmatimonadota__BD2-11 terrestrial group,2.2446113749731142,13,Gemmatimonadota — BD2-11 terrestrial group
+Firmicutes,Bacilli,Prokaryotic__Firmicutes__Bacilli,1.5127730174642144,14,Firmicutes — Bacilli
+Halanaerobiaeota,Halanaerobiia,Prokaryotic__Halanaerobiaeota__Halanaerobiia,1.4671345844268244,15,Halanaerobiaeota — Halanaerobiia
+Acidobacteriota,Other classes,Prokaryotic__Acidobacteriota__Other classes,1.2473700096926454,16,Acidobacteriota — Other classes
+Firmicutes,Clostridia,Prokaryotic__Firmicutes__Clostridia,1.1696178249163676,17,Firmicutes — Clostridia
+Acidobacteriota,Thermoanaerobaculia,Prokaryotic__Acidobacteriota__Thermoanaerobaculia,1.1218557045146837,18,Acidobacteriota — Thermoanaerobaculia
+Desulfobacterota,Desulfuromonadia,Prokaryotic__Desulfobacterota__Desulfuromonadia,1.0232732302344787,19,Desulfobacterota — Desulfuromonadia
+Desulfobacterota,Desulfobacteria,Prokaryotic__Desulfobacterota__Desulfobacteria,1.0102985199550192,20,Desulfobacterota — Desulfobacteria
+Desulfobacterota,Desulfobulbia,Prokaryotic__Desulfobacterota__Desulfobulbia,0.9947894351939401,21,Desulfobacterota — Desulfobulbia
+Chloroflexi,KD4-96,Prokaryotic__Chloroflexi__KD4-96,0.7777744697183051,22,Chloroflexi — KD4-96
+Chloroflexi,Dehalococcoidia,Prokaryotic__Chloroflexi__Dehalococcoidia,0.4900384201243393,23,Chloroflexi — Dehalococcoidia
+Chloroflexi,Other classes,Prokaryotic__Chloroflexi__Other classes,0.4709301002758298,24,Chloroflexi — Other classes
+Gemmatimonadota,Other classes,Prokaryotic__Gemmatimonadota__Other classes,0.27171244103093456,25,Gemmatimonadota — Other classes
+Bacteroidota,Other classes,Prokaryotic__Bacteroidota__Other classes,0.16859989746201579,26,Bacteroidota — Other classes
+Actinobacteriota,Other classes,Prokaryotic__Actinobacteriota__Other classes,0.11120039261662121,27,Actinobacteriota — Other classes
+Firmicutes,Other classes,Prokaryotic__Firmicutes__Other classes,0.07757042061948764,28,Firmicutes — Other classes
+Desulfobacterota,Other classes,Prokaryotic__Desulfobacterota__Other classes,0.03058000549203267,29,Desulfobacterota — Other classes
+Halobacterota,Other classes,Prokaryotic__Halobacterota__Other classes,0.01575008744869981,30,Halobacterota — Other classes
+Proteobacteria,Other classes,Prokaryotic__Proteobacteria__Other classes,0.013631540069448262,31,Proteobacteria — Other classes

@@ -1,0 +1,373 @@
+Site,Ecological_condition,Phylum,Class,Number_of_samples,Mean_relative_abundance_percent
+ACP,Natural,Acidobacteriota,Thermoanaerobaculia,10,1.3403
+ACP,Natural,Acidobacteriota,Other classes,10,1.3297
+ACP,Natural,Actinobacteriota,Actinobacteria,10,23.5178
+ACP,Natural,Actinobacteriota,Acidimicrobiia,10,12.2824
+ACP,Natural,Actinobacteriota,Thermoleophilia,10,3.9299
+ACP,Natural,Actinobacteriota,Other classes,10,0.6562
+ACP,Natural,Bacteroidota,Bacteroidia,10,2.9182
+ACP,Natural,Bacteroidota,Rhodothermia,10,0.6489
+ACP,Natural,Bacteroidota,Other classes,10,0.0978
+ACP,Natural,Chloroflexi,Anaerolineae,10,12.4418
+ACP,Natural,Chloroflexi,Chloroflexia,10,4.9668
+ACP,Natural,Chloroflexi,KD4-96,10,0.7799
+ACP,Natural,Chloroflexi,Dehalococcoidia,10,0.5966
+ACP,Natural,Chloroflexi,Other classes,10,0.4373
+ACP,Natural,Desulfobacterota,Desulfuromonadia,10,1.5353
+ACP,Natural,Desulfobacterota,Desulfobulbia,10,0.8512
+ACP,Natural,Desulfobacterota,Desulfobacteria,10,0.2984
+ACP,Natural,Desulfobacterota,Other classes,10,0.0193
+ACP,Natural,Firmicutes,Clostridia,10,3.2417
+ACP,Natural,Firmicutes,Bacilli,10,1.3637
+ACP,Natural,Firmicutes,Other classes,10,0.0018
+ACP,Natural,Gemmatimonadota,PAUC43f marine benthic group,10,2.6044
+ACP,Natural,Gemmatimonadota,BD2-11 terrestrial group,10,1.4521
+ACP,Natural,Gemmatimonadota,Other classes,10,0.0399
+ACP,Natural,Halanaerobiaeota,Halanaerobiia,10,0.204
+ACP,Natural,Halobacterota,Halobacteria,10,3.0832
+ACP,Natural,Halobacterota,Other classes,10,0
+ACP,Natural,Other phyla,Other phyla,10,4.3673
+ACP,Natural,Proteobacteria,Alphaproteobacteria,10,10.3021
+ACP,Natural,Proteobacteria,Gammaproteobacteria,10,4.6804
+ACP,Natural,Proteobacteria,Other classes,10,0.0116
+ACP,BESE,Acidobacteriota,Thermoanaerobaculia,10,1.7392
+ACP,BESE,Acidobacteriota,Other classes,10,1.5868
+ACP,BESE,Actinobacteriota,Acidimicrobiia,10,12.8206
+ACP,BESE,Actinobacteriota,Actinobacteria,10,9.6047
+ACP,BESE,Actinobacteriota,Thermoleophilia,10,2.2899
+ACP,BESE,Actinobacteriota,Other classes,10,0.0828
+ACP,BESE,Bacteroidota,Bacteroidia,10,6.7575
+ACP,BESE,Bacteroidota,Rhodothermia,10,0.8277
+ACP,BESE,Bacteroidota,Other classes,10,0.2269
+ACP,BESE,Chloroflexi,Anaerolineae,10,6.6065
+ACP,BESE,Chloroflexi,Chloroflexia,10,1.9875
+ACP,BESE,Chloroflexi,KD4-96,10,0.9754
+ACP,BESE,Chloroflexi,Dehalococcoidia,10,0.5414
+ACP,BESE,Chloroflexi,Other classes,10,0.3679
+ACP,BESE,Desulfobacterota,Desulfobulbia,10,3.0207
+ACP,BESE,Desulfobacterota,Desulfobacteria,10,1.9403
+ACP,BESE,Desulfobacterota,Desulfuromonadia,10,1.467
+ACP,BESE,Desulfobacterota,Other classes,10,0.0831
+ACP,BESE,Firmicutes,Clostridia,10,2.0017
+ACP,BESE,Firmicutes,Bacilli,10,1.2909
+ACP,BESE,Firmicutes,Other classes,10,0.0155
+ACP,BESE,Gemmatimonadota,BD2-11 terrestrial group,10,1.6436
+ACP,BESE,Gemmatimonadota,PAUC43f marine benthic group,10,0.8653
+ACP,BESE,Gemmatimonadota,Other classes,10,0.4196
+ACP,BESE,Halanaerobiaeota,Halanaerobiia,10,0.5347
+ACP,BESE,Halobacterota,Halobacteria,10,6.1089
+ACP,BESE,Halobacterota,Other classes,10,0.0747
+ACP,BESE,Other phyla,Other phyla,10,12.6898
+ACP,BESE,Proteobacteria,Alphaproteobacteria,10,11.1789
+ACP,BESE,Proteobacteria,Gammaproteobacteria,10,10.2393
+ACP,BESE,Proteobacteria,Other classes,10,0.0115
+ACP,BARE,Acidobacteriota,Other classes,10,1.4844
+ACP,BARE,Acidobacteriota,Thermoanaerobaculia,10,0.7534
+ACP,BARE,Actinobacteriota,Acidimicrobiia,10,14.1153
+ACP,BARE,Actinobacteriota,Actinobacteria,10,7.8159
+ACP,BARE,Actinobacteriota,Thermoleophilia,10,1.4811
+ACP,BARE,Actinobacteriota,Other classes,10,0.1376
+ACP,BARE,Bacteroidota,Bacteroidia,10,8.4045
+ACP,BARE,Bacteroidota,Rhodothermia,10,0.8463
+ACP,BARE,Bacteroidota,Other classes,10,0.1807
+ACP,BARE,Chloroflexi,Anaerolineae,10,7.1777
+ACP,BARE,Chloroflexi,Chloroflexia,10,5.9397
+ACP,BARE,Chloroflexi,Dehalococcoidia,10,0.8739
+ACP,BARE,Chloroflexi,KD4-96,10,0.6956
+ACP,BARE,Chloroflexi,Other classes,10,0.5886
+ACP,BARE,Desulfobacterota,Desulfobulbia,10,2.1001
+ACP,BARE,Desulfobacterota,Desulfobacteria,10,2.04
+ACP,BARE,Desulfobacterota,Desulfuromonadia,10,0.7207
+ACP,BARE,Desulfobacterota,Other classes,10,0.0255
+ACP,BARE,Firmicutes,Clostridia,10,1.9982
+ACP,BARE,Firmicutes,Bacilli,10,0.7006
+ACP,BARE,Firmicutes,Other classes,10,0.0121
+ACP,BARE,Gemmatimonadota,BD2-11 terrestrial group,10,1.2801
+ACP,BARE,Gemmatimonadota,PAUC43f marine benthic group,10,0.9932
+ACP,BARE,Gemmatimonadota,Other classes,10,0.6478
+ACP,BARE,Halanaerobiaeota,Halanaerobiia,10,1.038
+ACP,BARE,Halobacterota,Halobacteria,10,4.5458
+ACP,BARE,Halobacterota,Other classes,10,0.0346
+ACP,BARE,Other phyla,Other phyla,10,11.2651
+ACP,BARE,Proteobacteria,Gammaproteobacteria,10,11.3057
+ACP,BARE,Proteobacteria,Alphaproteobacteria,10,10.7926
+ACP,BARE,Proteobacteria,Other classes,10,0.0052
+ACP,Degraded,Acidobacteriota,Thermoanaerobaculia,5,0.887
+ACP,Degraded,Acidobacteriota,Other classes,5,0.7598
+ACP,Degraded,Actinobacteriota,Actinobacteria,5,8.5635
+ACP,Degraded,Actinobacteriota,Acidimicrobiia,5,4.4191
+ACP,Degraded,Actinobacteriota,Thermoleophilia,5,0.7068
+ACP,Degraded,Actinobacteriota,Other classes,5,0.0562
+ACP,Degraded,Bacteroidota,Bacteroidia,5,10.2249
+ACP,Degraded,Bacteroidota,Rhodothermia,5,1.2833
+ACP,Degraded,Bacteroidota,Other classes,5,0.4388
+ACP,Degraded,Chloroflexi,Anaerolineae,5,3.3882
+ACP,Degraded,Chloroflexi,KD4-96,5,0.5068
+ACP,Degraded,Chloroflexi,Dehalococcoidia,5,0.0683
+ACP,Degraded,Chloroflexi,Other classes,5,0.0646
+ACP,Degraded,Chloroflexi,Chloroflexia,5,0.0638
+ACP,Degraded,Desulfobacterota,Desulfobacteria,5,4.8842
+ACP,Degraded,Desulfobacterota,Desulfobulbia,5,2.5549
+ACP,Degraded,Desulfobacterota,Desulfuromonadia,5,0.7115
+ACP,Degraded,Desulfobacterota,Other classes,5,0.032
+ACP,Degraded,Firmicutes,Clostridia,5,0.9147
+ACP,Degraded,Firmicutes,Bacilli,5,0.4118
+ACP,Degraded,Firmicutes,Other classes,5,0.0053
+ACP,Degraded,Gemmatimonadota,BD2-11 terrestrial group,5,0.6613
+ACP,Degraded,Gemmatimonadota,PAUC43f marine benthic group,5,0.1471
+ACP,Degraded,Gemmatimonadota,Other classes,5,0.0877
+ACP,Degraded,Halanaerobiaeota,Halanaerobiia,5,13.9516
+ACP,Degraded,Halobacterota,Halobacteria,5,3.2264
+ACP,Degraded,Halobacterota,Other classes,5,0.0706
+ACP,Degraded,Other phyla,Other phyla,5,15.745
+ACP,Degraded,Proteobacteria,Gammaproteobacteria,5,14.6965
+ACP,Degraded,Proteobacteria,Alphaproteobacteria,5,10.4541
+ACP,Degraded,Proteobacteria,Other classes,5,0.0142
+BASS,Natural,Acidobacteriota,Other classes,9,1.2506
+BASS,Natural,Acidobacteriota,Thermoanaerobaculia,9,0.7694
+BASS,Natural,Actinobacteriota,Actinobacteria,9,17.7833
+BASS,Natural,Actinobacteriota,Acidimicrobiia,9,11.0676
+BASS,Natural,Actinobacteriota,Thermoleophilia,9,1.6339
+BASS,Natural,Actinobacteriota,Other classes,9,0.0435
+BASS,Natural,Bacteroidota,Bacteroidia,9,4.4792
+BASS,Natural,Bacteroidota,Rhodothermia,9,1.5039
+BASS,Natural,Bacteroidota,Other classes,9,0.061
+BASS,Natural,Chloroflexi,Chloroflexia,9,7.132
+BASS,Natural,Chloroflexi,Anaerolineae,9,6.686
+BASS,Natural,Chloroflexi,Other classes,9,0.7878
+BASS,Natural,Chloroflexi,KD4-96,9,0.6467
+BASS,Natural,Chloroflexi,Dehalococcoidia,9,0.32
+BASS,Natural,Desulfobacterota,Desulfuromonadia,9,0.778
+BASS,Natural,Desulfobacterota,Desulfobulbia,9,0.4099
+BASS,Natural,Desulfobacterota,Desulfobacteria,9,0.1686
+BASS,Natural,Desulfobacterota,Other classes,9,0.0104
+BASS,Natural,Firmicutes,Bacilli,9,6.5302
+BASS,Natural,Firmicutes,Clostridia,9,0.7744
+BASS,Natural,Firmicutes,Other classes,9,0.0203
+BASS,Natural,Gemmatimonadota,PAUC43f marine benthic group,9,3.3399
+BASS,Natural,Gemmatimonadota,BD2-11 terrestrial group,9,0.7702
+BASS,Natural,Gemmatimonadota,Other classes,9,0.1649
+BASS,Natural,Halanaerobiaeota,Halanaerobiia,9,0.7642
+BASS,Natural,Halobacterota,Halobacteria,9,9.8648
+BASS,Natural,Halobacterota,Other classes,9,0
+BASS,Natural,Other phyla,Other phyla,9,6.6508
+BASS,Natural,Proteobacteria,Alphaproteobacteria,9,12.4043
+BASS,Natural,Proteobacteria,Gammaproteobacteria,9,3.1371000000000002
+BASS,Natural,Proteobacteria,Other classes,9,0.0473
+BASS,BESE,Acidobacteriota,Thermoanaerobaculia,10,1.1422
+BASS,BESE,Acidobacteriota,Other classes,10,0.7524
+BASS,BESE,Actinobacteriota,Actinobacteria,10,13.7777
+BASS,BESE,Actinobacteriota,Acidimicrobiia,10,8.5342
+BASS,BESE,Actinobacteriota,Thermoleophilia,10,2.9407
+BASS,BESE,Actinobacteriota,Other classes,10,0.101
+BASS,BESE,Bacteroidota,Rhodothermia,10,2.939
+BASS,BESE,Bacteroidota,Bacteroidia,10,1.5323
+BASS,BESE,Bacteroidota,Other classes,10,0.1547
+BASS,BESE,Chloroflexi,Anaerolineae,10,7.109
+BASS,BESE,Chloroflexi,Chloroflexia,10,7.0002
+BASS,BESE,Chloroflexi,Other classes,10,0.6043
+BASS,BESE,Chloroflexi,Dehalococcoidia,10,0.3539
+BASS,BESE,Chloroflexi,KD4-96,10,0.3019
+BASS,BESE,Desulfobacterota,Desulfuromonadia,10,0.833
+BASS,BESE,Desulfobacterota,Desulfobulbia,10,0.5767
+BASS,BESE,Desulfobacterota,Desulfobacteria,10,0.3686
+BASS,BESE,Desulfobacterota,Other classes,10,0.0062
+BASS,BESE,Firmicutes,Bacilli,10,2.2372
+BASS,BESE,Firmicutes,Clostridia,10,0.8138
+BASS,BESE,Firmicutes,Other classes,10,0.039
+BASS,BESE,Gemmatimonadota,PAUC43f marine benthic group,10,4.4373
+BASS,BESE,Gemmatimonadota,BD2-11 terrestrial group,10,3.4967
+BASS,BESE,Gemmatimonadota,Other classes,10,0.2045
+BASS,BESE,Halanaerobiaeota,Halanaerobiia,10,0.2526
+BASS,BESE,Halobacterota,Halobacteria,10,23.9066
+BASS,BESE,Halobacterota,Other classes,10,0
+BASS,BESE,Other phyla,Other phyla,10,6.2361
+BASS,BESE,Proteobacteria,Alphaproteobacteria,10,6.6945
+BASS,BESE,Proteobacteria,Gammaproteobacteria,10,2.6494
+BASS,BESE,Proteobacteria,Other classes,10,0.0045
+BASS,BARE,Acidobacteriota,Other classes,10,0.9647
+BASS,BARE,Acidobacteriota,Thermoanaerobaculia,10,0.9317
+BASS,BARE,Actinobacteriota,Actinobacteria,10,10.525
+BASS,BARE,Actinobacteriota,Acidimicrobiia,10,8.4821
+BASS,BARE,Actinobacteriota,Thermoleophilia,10,3.0597
+BASS,BARE,Actinobacteriota,Other classes,10,0.0796
+BASS,BARE,Bacteroidota,Rhodothermia,10,2.2663
+BASS,BARE,Bacteroidota,Bacteroidia,10,1.8224
+BASS,BARE,Bacteroidota,Other classes,10,0.1799
+BASS,BARE,Chloroflexi,Anaerolineae,10,6.6516
+BASS,BARE,Chloroflexi,Chloroflexia,10,4.5659
+BASS,BARE,Chloroflexi,Other classes,10,0.3329
+BASS,BARE,Chloroflexi,Dehalococcoidia,10,0.3279
+BASS,BARE,Chloroflexi,KD4-96,10,0.2749
+BASS,BARE,Desulfobacterota,Desulfuromonadia,10,1.123
+BASS,BARE,Desulfobacterota,Desulfobulbia,10,0.7155
+BASS,BARE,Desulfobacterota,Desulfobacteria,10,0.6624
+BASS,BARE,Desulfobacterota,Other classes,10,0.0245
+BASS,BARE,Firmicutes,Bacilli,10,2.4893
+BASS,BARE,Firmicutes,Clostridia,10,1.2159
+BASS,BARE,Firmicutes,Other classes,10,0.0446
+BASS,BARE,Gemmatimonadota,BD2-11 terrestrial group,10,4.5866
+BASS,BARE,Gemmatimonadota,PAUC43f marine benthic group,10,3.0312
+BASS,BARE,Gemmatimonadota,Other classes,10,0.1936
+BASS,BARE,Halanaerobiaeota,Halanaerobiia,10,0.3893
+BASS,BARE,Halobacterota,Halobacteria,10,29.1119
+BASS,BARE,Halobacterota,Other classes,10,3e-4
+BASS,BARE,Other phyla,Other phyla,10,6.0823
+BASS,BARE,Proteobacteria,Alphaproteobacteria,10,6.5282
+BASS,BARE,Proteobacteria,Gammaproteobacteria,10,3.3247
+BASS,BARE,Proteobacteria,Other classes,10,0.0121
+BASS,Degraded,Acidobacteriota,Thermoanaerobaculia,5,2.384
+BASS,Degraded,Acidobacteriota,Other classes,5,0.2779
+BASS,Degraded,Actinobacteriota,Acidimicrobiia,5,12.1851
+BASS,Degraded,Actinobacteriota,Actinobacteria,5,9.2783
+BASS,Degraded,Actinobacteriota,Thermoleophilia,5,3.8922
+BASS,Degraded,Actinobacteriota,Other classes,5,0.1526
+BASS,Degraded,Bacteroidota,Rhodothermia,5,3.8771
+BASS,Degraded,Bacteroidota,Bacteroidia,5,2.1252
+BASS,Degraded,Bacteroidota,Other classes,5,0.0998
+BASS,Degraded,Chloroflexi,Anaerolineae,5,4.3243
+BASS,Degraded,Chloroflexi,Chloroflexia,5,3.4438
+BASS,Degraded,Chloroflexi,Dehalococcoidia,5,0.2589
+BASS,Degraded,Chloroflexi,Other classes,5,0.1961
+BASS,Degraded,Chloroflexi,KD4-96,5,0.0723
+BASS,Degraded,Desulfobacterota,Desulfuromonadia,5,0.8318
+BASS,Degraded,Desulfobacterota,Desulfobulbia,5,0.294
+BASS,Degraded,Desulfobacterota,Desulfobacteria,5,0.238
+BASS,Degraded,Desulfobacterota,Other classes,5,0.0104
+BASS,Degraded,Firmicutes,Bacilli,5,0.8448
+BASS,Degraded,Firmicutes,Clostridia,5,0.3838
+BASS,Degraded,Firmicutes,Other classes,5,0.0567
+BASS,Degraded,Gemmatimonadota,BD2-11 terrestrial group,5,7.6635
+BASS,Degraded,Gemmatimonadota,PAUC43f marine benthic group,5,0.8832
+BASS,Degraded,Gemmatimonadota,Other classes,5,0.4582
+BASS,Degraded,Halanaerobiaeota,Halanaerobiia,5,0.1642
+BASS,Degraded,Halobacterota,Halobacteria,5,32.6264
+BASS,Degraded,Halobacterota,Other classes,5,0
+BASS,Degraded,Other phyla,Other phyla,5,5.3128
+BASS,Degraded,Proteobacteria,Alphaproteobacteria,5,6.4655
+BASS,Degraded,Proteobacteria,Gammaproteobacteria,5,1.1991
+BASS,Degraded,Proteobacteria,Other classes,5,0
+TRUG,Natural,Acidobacteriota,Other classes,10,4.244
+TRUG,Natural,Acidobacteriota,Thermoanaerobaculia,10,1.2078
+TRUG,Natural,Actinobacteriota,Acidimicrobiia,10,13.5963
+TRUG,Natural,Actinobacteriota,Thermoleophilia,10,6.3451
+TRUG,Natural,Actinobacteriota,Actinobacteria,10,4.3899
+TRUG,Natural,Actinobacteriota,Other classes,10,0.0155
+TRUG,Natural,Bacteroidota,Bacteroidia,10,4.8409
+TRUG,Natural,Bacteroidota,Other classes,10,0.406
+TRUG,Natural,Bacteroidota,Rhodothermia,10,0.3422
+TRUG,Natural,Chloroflexi,Anaerolineae,10,4.3979
+TRUG,Natural,Chloroflexi,KD4-96,10,2.3896
+TRUG,Natural,Chloroflexi,Chloroflexia,10,1.8637
+TRUG,Natural,Chloroflexi,Other classes,10,1.1078
+TRUG,Natural,Chloroflexi,Dehalococcoidia,10,0.9037
+TRUG,Natural,Desulfobacterota,Desulfobacteria,10,1.2804
+TRUG,Natural,Desulfobacterota,Desulfuromonadia,10,1.1097
+TRUG,Natural,Desulfobacterota,Desulfobulbia,10,0.689
+TRUG,Natural,Desulfobacterota,Other classes,10,0.0755
+TRUG,Natural,Firmicutes,Clostridia,10,0.7366
+TRUG,Natural,Firmicutes,Bacilli,10,0.1656
+TRUG,Natural,Firmicutes,Other classes,10,0.0011
+TRUG,Natural,Gemmatimonadota,BD2-11 terrestrial group,10,1.7268
+TRUG,Natural,Gemmatimonadota,PAUC43f marine benthic group,10,0.8375
+TRUG,Natural,Gemmatimonadota,Other classes,10,0.2225
+TRUG,Natural,Halanaerobiaeota,Halanaerobiia,10,0.0084
+TRUG,Natural,Halobacterota,Halobacteria,10,0.0154
+TRUG,Natural,Halobacterota,Other classes,10,0.0013
+TRUG,Natural,Other phyla,Other phyla,10,15.0203
+TRUG,Natural,Proteobacteria,Alphaproteobacteria,10,18.9506
+TRUG,Natural,Proteobacteria,Gammaproteobacteria,10,13.0631
+TRUG,Natural,Proteobacteria,Other classes,10,0.0459
+TRUG,BESE,Acidobacteriota,Other classes,10,1.3945
+TRUG,BESE,Acidobacteriota,Thermoanaerobaculia,10,0.5994
+TRUG,BESE,Actinobacteriota,Acidimicrobiia,10,12.9237
+TRUG,BESE,Actinobacteriota,Actinobacteria,10,7.375
+TRUG,BESE,Actinobacteriota,Thermoleophilia,10,2.986
+TRUG,BESE,Actinobacteriota,Other classes,10,0.0078
+TRUG,BESE,Bacteroidota,Rhodothermia,10,6.6304
+TRUG,BESE,Bacteroidota,Bacteroidia,10,1.2251
+TRUG,BESE,Bacteroidota,Other classes,10,0.0525
+TRUG,BESE,Chloroflexi,Anaerolineae,10,3.5898
+TRUG,BESE,Chloroflexi,Chloroflexia,10,1.8593
+TRUG,BESE,Chloroflexi,KD4-96,10,1.14
+TRUG,BESE,Chloroflexi,Dehalococcoidia,10,0.632
+TRUG,BESE,Chloroflexi,Other classes,10,0.5292
+TRUG,BESE,Desulfobacterota,Desulfuromonadia,10,1.0479
+TRUG,BESE,Desulfobacterota,Desulfobulbia,10,0.1284
+TRUG,BESE,Desulfobacterota,Desulfobacteria,10,0.1234
+TRUG,BESE,Desulfobacterota,Other classes,10,0.0269
+TRUG,BESE,Firmicutes,Clostridia,10,0.7763
+TRUG,BESE,Firmicutes,Bacilli,10,0.7055
+TRUG,BESE,Firmicutes,Other classes,10,0.2742
+TRUG,BESE,Gemmatimonadota,PAUC43f marine benthic group,10,4.098
+TRUG,BESE,Gemmatimonadota,BD2-11 terrestrial group,10,1.8476
+TRUG,BESE,Gemmatimonadota,Other classes,10,0.514
+TRUG,BESE,Halanaerobiaeota,Halanaerobiia,10,0.0808
+TRUG,BESE,Halobacterota,Halobacteria,10,25.9761
+TRUG,BESE,Halobacterota,Other classes,10,0.007
+TRUG,BESE,Other phyla,Other phyla,10,8.9552
+TRUG,BESE,Proteobacteria,Alphaproteobacteria,10,8.6479
+TRUG,BESE,Proteobacteria,Gammaproteobacteria,10,5.845
+TRUG,BESE,Proteobacteria,Other classes,10,0.001
+TRUG,BARE,Acidobacteriota,Other classes,10,0.8743
+TRUG,BARE,Acidobacteriota,Thermoanaerobaculia,10,0.3543
+TRUG,BARE,Actinobacteriota,Acidimicrobiia,10,6.0569
+TRUG,BARE,Actinobacteriota,Thermoleophilia,10,4.9993
+TRUG,BARE,Actinobacteriota,Actinobacteria,10,4.7694
+TRUG,BARE,Actinobacteriota,Other classes,10,0.0016
+TRUG,BARE,Bacteroidota,Rhodothermia,10,13.8788
+TRUG,BARE,Bacteroidota,Bacteroidia,10,2.3151
+TRUG,BARE,Bacteroidota,Other classes,10,0.1157
+TRUG,BARE,Chloroflexi,Anaerolineae,10,1.7265
+TRUG,BARE,Chloroflexi,Chloroflexia,10,1.217
+TRUG,BARE,Chloroflexi,KD4-96,10,1.0888
+TRUG,BARE,Chloroflexi,Other classes,10,0.5704
+TRUG,BARE,Chloroflexi,Dehalococcoidia,10,0.4652
+TRUG,BARE,Desulfobacterota,Desulfuromonadia,10,0.9403
+TRUG,BARE,Desulfobacterota,Desulfobulbia,10,0.1359
+TRUG,BARE,Desulfobacterota,Desulfobacteria,10,0.0906
+TRUG,BARE,Desulfobacterota,Other classes,10,0.016
+TRUG,BARE,Firmicutes,Clostridia,10,0.5534
+TRUG,BARE,Firmicutes,Bacilli,10,0.4934
+TRUG,BARE,Firmicutes,Other classes,10,0.1291
+TRUG,BARE,Gemmatimonadota,PAUC43f marine benthic group,10,5.8466
+TRUG,BARE,Gemmatimonadota,BD2-11 terrestrial group,10,1.0671
+TRUG,BARE,Gemmatimonadota,Other classes,10,0.292
+TRUG,BARE,Halanaerobiaeota,Halanaerobiia,10,0.0462
+TRUG,BARE,Halobacterota,Halobacteria,10,28.2753
+TRUG,BARE,Halobacterota,Other classes,10,5e-4
+TRUG,BARE,Other phyla,Other phyla,10,10.2971
+TRUG,BARE,Proteobacteria,Alphaproteobacteria,10,6.6926
+TRUG,BARE,Proteobacteria,Gammaproteobacteria,10,6.6803
+TRUG,BARE,Proteobacteria,Other classes,10,0.0103
+TRUG,Degraded,Acidobacteriota,Thermoanaerobaculia,4,1.3537
+TRUG,Degraded,Acidobacteriota,Other classes,4,0.0493
+TRUG,Degraded,Actinobacteriota,Actinobacteria,4,1.6399
+TRUG,Degraded,Actinobacteriota,Acidimicrobiia,4,1.4364
+TRUG,Degraded,Actinobacteriota,Thermoleophilia,4,0.0671
+TRUG,Degraded,Actinobacteriota,Other classes,4,0
+TRUG,Degraded,Bacteroidota,Rhodothermia,4,10.1267
+TRUG,Degraded,Bacteroidota,Bacteroidia,4,1.1854
+TRUG,Degraded,Bacteroidota,Other classes,4,0.0094
+TRUG,Degraded,Chloroflexi,Dehalococcoidia,4,0.5389
+TRUG,Degraded,Chloroflexi,Anaerolineae,4,0.4732
+TRUG,Degraded,Chloroflexi,KD4-96,4,0.4616
+TRUG,Degraded,Chloroflexi,Chloroflexia,4,0.1888
+TRUG,Degraded,Chloroflexi,Other classes,4,0.0641
+TRUG,Degraded,Desulfobacterota,Desulfuromonadia,4,1.1811
+TRUG,Degraded,Desulfobacterota,Desulfobulbia,4,0.4612
+TRUG,Degraded,Desulfobacterota,Other classes,4,0.0372
+TRUG,Degraded,Desulfobacterota,Desulfobacteria,4,0.0287
+TRUG,Degraded,Firmicutes,Bacilli,4,0.9204
+TRUG,Degraded,Firmicutes,Clostridia,4,0.6249
+TRUG,Degraded,Firmicutes,Other classes,4,0.331
+TRUG,Degraded,Gemmatimonadota,PAUC43f marine benthic group,4,6.2394
+TRUG,Degraded,Gemmatimonadota,BD2-11 terrestrial group,4,0.7399
+TRUG,Degraded,Gemmatimonadota,Other classes,4,0.0159
+TRUG,Degraded,Halanaerobiaeota,Halanaerobiia,4,0.1717
+TRUG,Degraded,Halobacterota,Halobacteria,4,52.6815
+TRUG,Degraded,Halobacterota,Other classes,4,0
+TRUG,Degraded,Other phyla,Other phyla,4,8.5765
+TRUG,Degraded,Proteobacteria,Alphaproteobacteria,4,6.081
+TRUG,Degraded,Proteobacteria,Gammaproteobacteria,4,4.3151
+TRUG,Degraded,Proteobacteria,Other classes,4,0

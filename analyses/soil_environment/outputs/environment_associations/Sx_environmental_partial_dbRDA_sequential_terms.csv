@@ -1,0 +1,29 @@
+Analysis,Test_type,Term,Df,SumOfSqs,F,Pr(>F)
+Bulk soil prokaryotic,sequential_terms,Moisture_z,1,1.1763925336616567,4.135977376896346,1e-4
+Bulk soil prokaryotic,sequential_terms,Temperature_z,1,1.2034485119625755,4.231101165054103,1e-4
+Bulk soil prokaryotic,sequential_terms,pH_z,1,0.5498735721216619,1.9332532206486086,0.0053
+Bulk soil prokaryotic,sequential_terms,NH4_log_z,1,0.46901016496587733,1.6489525191012504,0.0198
+Bulk soil prokaryotic,sequential_terms,PO4_log_z,1,0.5402278794997946,1.8993407591810376,0.0086
+Bulk soil prokaryotic,sequential_terms,Redox_z,1,0.8009441154979262,2.815970560053249,1e-4
+Bulk soil prokaryotic,sequential_terms,Residual,49,13.937028396581052,NA,NA
+Bulk soil fungal,sequential_terms,Moisture_z,1,0.6606755925254808,1.9224676958630438,0.0012
+Bulk soil fungal,sequential_terms,Temperature_z,1,1.141352276502212,3.3211653434747115,1e-4
+Bulk soil fungal,sequential_terms,pH_z,1,0.4915921271317587,1.4304599634728528,0.0239
+Bulk soil fungal,sequential_terms,NH4_log_z,1,0.4665309752701061,1.3575357395114735,0.0357
+Bulk soil fungal,sequential_terms,PO4_log_z,1,0.5129584285535351,1.4926327222793674,0.0321
+Bulk soil fungal,sequential_terms,Redox_z,1,0.5799664435190786,1.6876160780935845,0.0076
+Bulk soil fungal,sequential_terms,Residual,37,12.71542662383662,NA,NA
+Rhizosphere prokaryotic,sequential_terms,Moisture_z,1,0.41803037988945746,1.5806547323358286,0.023
+Rhizosphere prokaryotic,sequential_terms,Temperature_z,1,0.6095675938957476,2.304894448639515,1e-4
+Rhizosphere prokaryotic,sequential_terms,pH_z,1,0.37300305791768285,1.4103976099278466,0.0578
+Rhizosphere prokaryotic,sequential_terms,NH4_log_z,1,0.3631900143703317,1.3732925705145873,0.0379
+Rhizosphere prokaryotic,sequential_terms,PO4_log_z,1,0.2673292487005312,1.0108242423960083,0.4702
+Rhizosphere prokaryotic,sequential_terms,Redox_z,1,0.4762981423517778,1.8009765532117221,0.0014
+Rhizosphere prokaryotic,sequential_terms,Residual,36,9.520797532919486,NA,NA
+Rhizosphere fungal,sequential_terms,Moisture_z,1,0.47969985045591107,1.3945049732711086,0.0091
+Rhizosphere fungal,sequential_terms,Temperature_z,1,0.6445915826338076,1.873851256899976,1e-4
+Rhizosphere fungal,sequential_terms,pH_z,1,0.49930171824355596,1.451488318355111,0.0047
+Rhizosphere fungal,sequential_terms,NH4_log_z,1,0.5210523395202611,1.5147181682566162,0.0022
+Rhizosphere fungal,sequential_terms,PO4_log_z,1,0.3719354518172868,1.0812299332636826,0.2531
+Rhizosphere fungal,sequential_terms,Redox_z,1,0.29532631130937226,0.8585243657410369,0.865
+Rhizosphere fungal,sequential_terms,Residual,32,11.007773732481951,NA,NA
