@@ -1,116 +1,42 @@
 # Salt-Marshes-Microbiome
 
-This repository contains metadata, bioinformatics scripts, statistical analysis scripts, processed tables, and analysis-ready objects associated with the study: **“Compartment-dependent microbial reassembly reveals early recovery signals in restoring saltmarshes.”**
+Scripts, metadata, processed sequencing data, and statistical analysis results associated with the saltmarsh restoration microbiome study **“Microbiome composition during early saltmarsh restoration reflects nested environmental, treatment and root-associated structuring.”**
 
-## Overview
-
-This study investigates bacterial (16S rRNA gene) and fungal (ITS) community assembly across saltmarsh restoration treatments. Microbial communities from Natural reference plots were compared with Managed restoration contexts, including BESE, BARE, and Degraded treatments, while also resolving differences between rhizosphere and bulk soil compartments.
-
-The repository is intended to support peer review and reproducibility by documenting the inputs, scripts, and processed outputs used for the manuscript analyses.
+Bacterial and archaeal 16S rRNA gene and fungal ITS communities were studied across three Victorian saltmarshes, comparing the Natural reference, BESE, BARE and Degraded ecological conditions, and bulk soil (BS) with rhizosphere (RZ) where applicable.
 
 ## Repository structure
 
-- `metadata/` — sample metadata, environmental variables, vegetation metadata, and analysis-ready phyloseq objects
-- `scripts/` — DADA2 processing, phyloseq construction, soil-parameter analysis, vegetation-cover analysis, alpha diversity, beta diversity, rarefaction sensitivity testing, and DESeq2 workflows
-- `tables/` — processed ASV tables, taxonomy tables, quality-control summaries, alpha-diversity outputs, beta-diversity outputs, DESeq2 outputs, soil-parameter outputs, vegetation-cover outputs, and supplementary statistical tables
+```text
+scripts/DADA2/16S/                  Amplicon bioinformatics scripts
+scripts/DADA2/ITS/
+docs/krona/                         Interactive taxonomic visualisation
+metadata/                           Sequencing, soil and vegetation metadata
+analyses/soil_environment/          Soil physicochemical analyses
+analyses/vegetation/                Vegetation analyses
+analyses/alpha_diversity/           Alpha diversity and sequencing depth
+analyses/beta_diversity/            Community composition and ordination
+analyses/differential_abundance/    ANCOM-BC2 differential abundance
+analyses/community_assembly/        Community assembly
+analyses/shared_workflows/          Scripts covering multiple analyses
+data/processed/                     Analysis-ready datasets
+tables/ASV/, tables/taxonomy/       Existing DADA2-related sequence tables
+tables/phyloseq/, tables/qc/        Existing phyloseq objects and QC
+```
 
-## Sequence data
+Each analysis folder contains `scripts/`, `inputs/`, and `outputs/` locations; some inputs/outputs are still being transferred from the analysis computers.
 
-Raw sequencing reads have been deposited in the NCBI Sequence Read Archive (SRA):
+## Analysis comparisons
 
-- **BioProject:** PRJNA1446205
-- **BioProject ID:** 1446205
+- **H1 (bulk soil):** Natural, BESE, BARE and Degraded.
+- **H2 (rhizosphere):** Natural, BESE and BARE.
+- **H3 (paired habitats):** Bulk soil and rhizosphere within Natural, BESE and BARE.
 
-Raw FASTQ files are not stored in this GitHub repository because of file-size constraints. They should be obtained from NCBI SRA using the BioProject accession above.
+Statistical workflows include diversity analyses, Bray–Curtis community composition and reference-similarity tests, and **ANCOM-BC2** differential abundance. Multi-method H1/H2/H3 scripts are in [analyses/shared_workflows/scripts](analyses/shared_workflows/scripts/). DESeq2 is **not** part of the final study.
 
-## Metadata organization
+## Sequencing
 
-Metadata files are organized by use:
+Raw reads: NCBI SRA [BioProject PRJNA1446205](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1446205). Reads are not duplicated in this repository.
 
-- `metadata/dada2/` — marker-specific sample metadata files and analysis-ready phyloseq objects used for 16S and ITS microbiome analyses
-- `metadata/soil_parameters/` — master soil physicochemical metadata used for soil-parameter analyses
-- `metadata/vegetation/` — vegetation-cover metadata used for vegetation analyses
+## Data and reproducibility
 
-## Main input files
-
-The main analysis inputs are:
-
-| Input type | 16S dataset | ITS dataset | Location |
-|---|---|---|---|
-| Raw reads | 16S FASTQ files | ITS FASTQ files | NCBI SRA BioProject PRJNA1446205 |
-| Sample metadata | `metadata_16S.csv` | `metadata_ITS.csv` | `metadata/dada2/` |
-| Environmental metadata | soil physicochemical variables | soil physicochemical variables | `metadata/soil_parameters/` |
-| Vegetation metadata | vegetation-cover variables | vegetation-cover variables | `metadata/vegetation/` |
-| DADA2 ASV table | non-chimeric 16S ASV table | non-chimeric ITS ASV table | `tables/ASV/` |
-| Taxonomy table | SILVA-assigned 16S taxonomy | ITS taxonomy assignments | `tables/taxonomy/` |
-| Analysis-ready object | `phyloseq_16S.rds` | `phyloseq_ITS.rds` | `metadata/dada2/` |
-
-## Bioinformatics pipeline
-
-Amplicon sequences were processed using the DADA2 workflow. The main steps were:
-
-1. Quality filtering and trimming
-2. Error model learning
-3. ASV inference
-4. Paired-end merging
-5. Chimera removal
-6. Taxonomic assignment
-7. Phyloseq object construction and taxonomy cleaning
-
-The DADA2 scripts are organized by marker:
-
-- `scripts/DADA2/16S/`
-- `scripts/DADA2/ITS/`
-
-Intermediate files generated during DADA2 processing, such as filtered reads, dereplication objects, and learned error models, are not included in this repository because they can be regenerated from the raw sequencing reads and scripts.
-
-## Phyloseq object construction
-
-The analysis-ready phyloseq objects provided in `metadata/dada2/` were generated by combining DADA2-derived ASV count tables, taxonomic assignment tables, and sample metadata.
-
-### 16S phyloseq object
-
-The 16S phyloseq object, `metadata/dada2/phyloseq_16S.rds`, was generated using:
-
-- `scripts/DADA2/16S/04_phyloseq_and_clean_taxonomy_16S.R`
-
-### ITS phyloseq object
-
-The ITS phyloseq object, `metadata/dada2/phyloseq_ITS.rds`, was generated using:
-
-- `scripts/DADA2/ITS/04_phyloseq_and_clean_taxonomy_ITS.R`
-
-## Output table organization
-
-Processed outputs are organized by analysis type:
-
-- `tables/ASV/` — ASV count tables
-- `tables/taxonomy/` — taxonomy assignment tables
-- `tables/qc/` — DADA2 and sequencing quality-control summaries
-- `tables/alpha_diversity/` — alpha-diversity statistics and supplementary alpha-diversity outputs
-- `tables/alpha_diversity/rarefaction_depth_sensitivity/` — rarefaction sensitivity outputs
-- `tables/beta_diversity/` — Bray-Curtis, db-RDA, PERMANOVA, and dispersion outputs, where applicable
-- `tables/DESeq2/` — differential abundance result tables
-- `tables/soil_parameters/` — soil physicochemical parameter summaries and statistical outputs, where applicable
-- `tables/vegetation/` — vegetation-cover summaries and statistical outputs, where applicable
-
-## Manuscript analysis map
-
-| Manuscript component | Dataset | Main script location | Main outputs |
-|---|---|---|---|
-| DADA2 processing | 16S and ITS | `scripts/DADA2/` | ASV tables, taxonomy tables, DADA2 QC outputs |
-| Phyloseq construction | 16S and ITS | `scripts/DADA2/16S/` and `scripts/DADA2/ITS/` | `metadata/dada2/phyloseq_16S.rds`, `metadata/dada2/phyloseq_ITS.rds` |
-| Alpha diversity | 16S and ITS | `scripts/alpha_diversity/` | Chao1, Shannon, Simpson outputs and supplementary alpha-diversity tables |
-| Rarefaction sensitivity | 16S and ITS | `scripts/alpha_diversity/rarefaction_sensitivity_test.R` | Depth summaries, retention tables, rarefaction curves, ANOVA, emmeans, contrasts, interaction-stability tables |
-| Beta diversity | 16S and ITS | `scripts/beta_diversity/` | Bray-Curtis, db-RDA, PERMANOVA, and dispersion outputs |
-| Differential abundance | 16S and ITS | `scripts/DESeq2/` | DESeq2 result tables and plots |
-| Soil parameters | Environmental metadata | `scripts/soil_parameters/` | Soil physicochemical summaries 
-| Vegetation cover | Vegetation data | `scripts/vegetation/` | Vegetation-cover summaries
-
-## Notes
-
-- This repository contains lightweight, analysis-ready outputs and reproducible scripts.
-- Large intermediate files are intentionally excluded.
-- Raw sequence data should be obtained from NCBI SRA BioProject **PRJNA1446205**.
-- Scripts using `base_path <- "."` should be run from the repository root.
-- The analyses in this repository can be reproduced from the raw data, metadata, processed tables, analysis-ready phyloseq objects, and scripts provided here.
+The available R scripts and DADA2/Krona assets are committed. **The transfer of the latest local analysis inputs and outputs is still in progress**, and the complete set of scripts has not been rerun from this repository. Some older DADA2-derived data files under `tables/` also require cross-checking against the final analysis-ready datasets. This README will be updated when the local, Gandalf and Gadi files have been synced.

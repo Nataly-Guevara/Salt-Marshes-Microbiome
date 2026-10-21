@@ -1,0 +1,41 @@
+# Temporary editor and system files
+.DS_Store
+Thumbs.db
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.RData
+*.rdata
+*.Rhistory
+
+# Local environment and credential files (never commit)
+.env
+.env.*
+.Renviron
+.netrc
+.ssh/
+.aws/
+**/.ssh/
+**/.aws/
+*.pem
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+
+# Raw sequencing and large workspace files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.cram
+
+# Obsolete local Chapter 1 analyses; never include in refresh
+legacy Microbial community analysis/
+**/legacy Microbial community analysis/
+
+# Local machine caches
+__pycache__/
+*.pyc
