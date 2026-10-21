@@ -2,7 +2,7 @@
 
 Reproducibility repository for **Chapter 1: saltmarsh restoration microbial communities**. This project examines bacterial/archaeal (16S rRNA gene) and fungal (ITS) communities across natural reference, degraded and transplanted saltmarsh conditions, including BESE and BARE treatments, and their bulk-soil and rhizosphere compartments.
 
-> **Refresh in progress.** This `chapter1-2026-refresh` branch establishes the new Chapter 1 repository structure. The analysis folders below are currently placeholders; final source scripts, validated inputs and selected outputs have **not** yet been uploaded. Some older analysis files remain in the previous `scripts/` and `tables/` directories pending verified replacement. Those older files should not be assumed to reflect the final publication.
+> **Refresh in progress.** This `chapter1-2026-refresh` branch establishes the new Chapter 1 repository structure. Eighteen privacy-checked H1/H2/H3 candidate R scripts have been staged for review. Final validated inputs and output files have **not** yet been uploaded, and the source code has not been rerun or independently verified. Some older analysis files remain in the previous `scripts/` and `tables/` directories pending verified replacement. Those older files should not be assumed to reflect the final publication.
 
 ## Hypothesis-aligned analysis labels
 
@@ -47,13 +47,13 @@ Each `analyses/` folder has a README describing its purpose. The intended patter
 
 | Analysis | Intended coverage | Status |
 | --- | --- | --- |
-| [Soil environment](analyses/soil_environment/) | Soil physicochemistry and ecological condition | Scaffold |
-| [Vegetation](analyses/vegetation/) | Plant cover and related measurements | Scaffold |
-| [Alpha diversity](analyses/alpha_diversity/) | 16S and ITS alpha-diversity models and checks | Scaffold |
-| [Beta diversity](analyses/beta_diversity/) | Community composition, ordination, PERMANOVA, dispersion | Scaffold |
-| [Differential abundance](analyses/differential_abundance/) | Final ANCOM-BC2 workflow, replacing superseded DESeq2 analyses | Scaffold |
-| [Community assembly](analyses/community_assembly/) | Manuscript-aligned community assembly analyses | Scaffold |
-| [Processed data](data/processed/) | Validated and appropriately sized shared inputs | Scaffold |
+| [Soil environment](analyses/soil_environment/) | Soil physicochemistry and ecological condition | Script review |
+| [Vegetation](analyses/vegetation/) | Plant cover and related measurements | Script review |
+| [Alpha diversity](analyses/alpha_diversity/) | 16S and ITS alpha-diversity models and checks | Script review |
+| [Beta diversity](analyses/beta_diversity/) | Community composition, ordination, PERMANOVA, dispersion | Script review |
+| [Differential abundance](analyses/differential_abundance/) | Final ANCOM-BC2 workflow, replacing superseded DESeq2 analyses | Script review |
+| [Community assembly](analyses/community_assembly/) | Manuscript-aligned community assembly analyses | Scaffold: missing source scripts |
+| [Processed data](data/processed/) | Validated and appropriately sized shared inputs | Scaffold: pending |
 
 ## Preserved Chapter 1 components
 
@@ -75,3 +75,7 @@ Raw sequencing reads are available through NCBI SRA BioProject **[PRJNA1446205](
 - Any previous GitHub analyses will be removed from this branch **only after** their replacements have been verified. Git history will preserve older revisions.
 
 See [CHAPTER1_REFRESH_STATUS.md](CHAPTER1_REFRESH_STATUS.md) for the detailed migration audit, missing inputs and cleanup checklist.
+
+## H1–H3 source-script review
+
+The [shared H1–H3 workflows](analyses/shared_workflows/) contain multi-method scripts, while other scripts reside within the corresponding soil, vegetation, alpha-diversity and beta-diversity folders. **These scripts are candidate source code only:** inputs and output references still require verification, including H1/H2/H3 renamed results. DADA2 and Krona remain unchanged.

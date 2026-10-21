@@ -100,3 +100,7 @@ The 18-script private privacy-cleaned review ZIP has been relabelled, with 791 l
 - Keep a recoverable Git history and merge into `main` only after validation.
 
 **Current status:** The local inventory has been classified and the branch audit has been updated. No Mac/Gandalf/Gadi source files have been uploaded to GitHub and no previous analysis files have been deleted. Raw reads: NCBI SRA BioProject PRJNA1446205.
+
+## Candidate source scripts staged (H1/H2/H3)
+
+18 privacy-checked local R scripts staged on the `chapter1-2026-refresh` branch with a SHA-256 provenance manifest. Some multi-method scripts are located at `analyses/shared_workflows/scripts/`; source-specific scripts are grouped under soil, vegetation, alpha and beta analysis folders. This does not certify reproducibility: input data and outputs remain pending; community assembly scripts from Gandalf/Gadi are still missing. The `main` branch, DADA2, Krona, legacy files and existing analyses have not been altered by this source import.
