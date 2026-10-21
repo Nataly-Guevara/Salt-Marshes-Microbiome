@@ -67,6 +67,16 @@ All six requested `analyses/` directories now exist on the staging branch. Each 
 
 **Next action:** Collect files from the Mac using the private review tool (`collect_chapter1_review_bundles.py`) and the updated 734-row audit. Collect scripts first (18 locally inventoried candidates), then validated shared inputs and selected outputs. The tool excludes the entire `legacy Microbial community analysis` directory and preserves source-relative paths rather than blindly adopting tentative GitHub target paths. Investigate missing final ANCOM-BC2 and community assembly scripts on Gandalf/Gadi if not represented among the local R files. Do not push an unreviewed ZIP directly to this public repository.
 
+## Privacy check required before any new public upload
+
+- **BLOCKING gate:** no scripts, tables, ZIPs or results from the Mac, Gandalf or Gadi may be published until inspected for usernames, personal directories, absolute computer/HPC paths, contact details, credentials, private keys, hidden/local files and accidental private manuscript content.
+- The existing public GitHub repository already contains hard-coded home/HPC machine paths in **11 of 16 existing R scripts** under the old script layout, including references to HPC account identifiers. This finding is from a preliminary pattern search of R scripts; it is not a full security audit and is not evidence of exposed passwords.
+- The user requests removal of personal identifiers from any publication-ready scripts. The preserved scientific DADA2 steps should not be changed; configuration paths can later be made relative or environment-driven while the computational steps are retained. No DADA2 code has yet been edited.
+- `.gitignore` excludes several common credential, workspace, raw sequencing and legacy-file patterns, but it **cannot prevent hardcoded usernames/passwords inside source files**, nor does it remove previously tracked files.
+- The review ZIP from the user's Mac must be supplied privately in chat before its *contents* can be scanned. The local read-only `chapter1_privacy_preflight.py` tool can flag suspect lines but does not edit anything or prove completeness.
+- After code inspection, publish only reviewed/sanitized, final-publication-aligned source files, and **verify the GitHub diff** before merging the refresh branch into `main`.
+- Removing sensitive text in a future commit will not remove it from Git history; a separate history-remediation procedure may be required if genuinely sensitive secrets are confirmed.
+
 ## Publication and cleanup rules
 - Inspect files for private material, machine-specific paths, credentials and publication-readiness before uploading to a **public** repository.
 - Do not upload manuscript drafts, reviewer replies, photos, recordings, old R workspace images or superseded tests.
