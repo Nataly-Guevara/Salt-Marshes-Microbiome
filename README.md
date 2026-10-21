@@ -16,7 +16,6 @@ analyses/vegetation/                Vegetation analyses
 analyses/alpha_diversity/           Alpha diversity and sequencing depth
 analyses/beta_diversity/            Community composition and ordination
 analyses/differential_abundance/    ANCOM-BC2 differential abundance
-analyses/community_assembly/        Community assembly
 analyses/shared_workflows/          Scripts covering multiple analyses
 data/processed/                     Analysis-ready datasets
 tables/ASV/, tables/taxonomy/       Existing DADA2-related sequence tables
@@ -39,4 +38,4 @@ Raw reads: NCBI SRA [BioProject PRJNA1446205](https://www.ncbi.nlm.nih.gov/biopr
 
 ## Data and reproducibility
 
-The available R scripts and DADA2/Krona assets are committed. **Local analysis inputs and outputs are now included in the repository**, and the complete set of scripts has not been rerun from this repository. Some older DADA2-derived data files under `tables/` also require cross-checking against the final analysis-ready datasets. Additional analysis source files from Gandalf/Gadi, particularly the community assembly workflow, may still need to be added.
+The available R scripts and DADA2/Krona assets are committed. **Local analysis inputs and outputs are now included in the repository**, and the complete set of scripts has not been rerun from this repository. Some older DADA2-derived data files under `tables/` also require cross-checking against the final analysis-ready datasets.
