@@ -77,6 +77,15 @@ All six requested `analyses/` directories now exist on the staging branch. Each 
 - After code inspection, publish only reviewed/sanitized, final-publication-aligned source files, and **verify the GitHub diff** before merging the refresh branch into `main`.
 - Removing sensitive text in a future commit will not remove it from Git history; a separate history-remediation procedure may be required if genuinely sensitive secrets are confirmed.
 
+## Local script ZIP privacy review (21 October 2026)
+- Received and inspected the 18-script private local review ZIP (21 text members including its manifests).
+- Automated preflight found **15 personal working-directory references in four scripts**, all associated with `setwd()` configuration. No password, private-key, token, email-address or HPC-user-ID matches appeared in the uploaded ZIP with the implemented checks.
+- Prepared a **private sanitised review ZIP** replacing those 15 `setwd()` blocks with optional `CHAPTER1_WORKDIR` environment-variable configuration. R computational/statistical statements were not deliberately changed. Original private ZIP remains unchanged.
+- Re-ran automated preflight on the cleaned ZIP: **zero pattern matches** across 22 inspected text members. This result is not a complete guarantee of privacy or reproducibility.
+- **No local R source script has yet been committed to this public repository.** Sanitised review ZIP stays private until classification, human review, script-dependency checks and manuscript alignment are completed.
+- Several Model A/B/C scripts contain **multiple analysis types** (alpha diversity, beta diversity, and ANCOM-BC2). Avoid assigning each whole mixed script to a single method folder without documenting the cross-method contents or extracting executable, tested modules.
+- The local bundle did not identify a standalone community-assembly/iCAMP source script; find its final workflow on Gandalf or Gadi before filling that analysis folder.
+
 ## Publication and cleanup rules
 - Inspect files for private material, machine-specific paths, credentials and publication-readiness before uploading to a **public** repository.
 - Do not upload manuscript drafts, reviewer replies, photos, recordings, old R workspace images or superseded tests.
